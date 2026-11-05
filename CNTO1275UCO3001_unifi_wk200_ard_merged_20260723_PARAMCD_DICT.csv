@@ -1,0 +1,883 @@
+﻿PARAMCD,PARAM,SOURCE
+ANTITNF,Failure on at least 1 anti-TNF medication,ADBDC_SAS7BDAT
+ATNFVEDO,Failure on at least 1 anti-TNF medication and Failure on Vedolizumab,ADBDC_SAS7BDAT
+B_BCS,Induction Baseline Budesonide use,ADBDC_SAS7BDAT
+B_BCSM,Maintenance Baseline Budesonide use,ADBDC_SAS7BDAT
+B_BDP,Induction Baseline Beclomethasone dipropionate use,ADBDC_SAS7BDAT
+B_BDPM,Maintenance Baseline Beclomethasone dipropionate use,ADBDC_SAS7BDAT
+B6MP,Induction Baseline 6-MP use,ADBDC_SAS7BDAT
+BALLCORT,Induction Baseline Corticosteroid use (incl. budes and BDP),ADBDC_SAS7BDAT
+BAMINO,Induction Baseline Aminosalicylates use,ADBDC_SAS7BDAT
+BAZA,Induction Baseline Azathioprine use,ADBDC_SAS7BDAT
+BCMED,Induction Baseline Concomitant UC Med Use,ADBDC_SAS7BDAT
+BCORT,Induction Baseline Corticosteroid use (excl. budes and BDP),ADBDC_SAS7BDAT
+BCORTM,Maintenance Baseline Corticosteroid use (excl. budes and BDP),ADBDC_SAS7BDAT
+BIMM,Induction Baseline Immunomodulator use,ADBDC_SAS7BDAT
+BIOEXPER,Biologic-experienced,ADBDC_SAS7BDAT
+BIOFAIL,Biologic Failure Status,ADBDC_SAS7BDAT
+BIONAIVE,Biologic-naive,ADBDC_SAS7BDAT
+BMETHO,Induction Baseline Methotrexate use,ADBDC_SAS7BDAT
+CALPRMBL,Maintenance Baseline Calprotectin (mg/kg),ADBDC_SAS7BDAT
+CALPROBL,Induction Baseline Calprotectin (mg/kg),ADBDC_SAS7BDAT
+CRPBL,Induction Baseline C-Reactive Protein (mg/L),ADBDC_SAS7BDAT
+CRPMBL,Maintenance Baseline C-Reactive Protein (mg/L),ADBDC_SAS7BDAT
+DEPECORT,Dependent on Corticosteroids,ADBDC_SAS7BDAT
+DISDURN,UC Disease Duration (yrs),ADBDC_SAS7BDAT
+DISEXTBL,Extent of UC Disease,ADBDC_SAS7BDAT
+DISSEVBL,Severity of UC Disease,ADBDC_SAS7BDAT
+ENDOBL,Induction Baseline Endoscopy Subscore (0-3),ADBDC_SAS7BDAT
+EXTINTBL,Indution Baseline Extraintestinal manifestations,ADBDC_SAS7BDAT
+HEIGHTBL,Induction Baseline height (cm),ADBDC_SAS7BDAT
+IBDQBLI,Induction Baseline IBDQI,ADBDC_SAS7BDAT
+IBDQBLM,Baseline IBDQM,ADBDC_SAS7BDAT
+INTO6MP,Intolerant to 6MP/AZA,ADBDC_SAS7BDAT
+INTOCORT,Intolerant to Corticosteroids,ADBDC_SAS7BDAT
+LTFBL,Induction Baseline Lactoferrin (ug/g),ADBDC_SAS7BDAT
+LTFMBL,Maintenance Baseline Lactoferrin (ug/g),ADBDC_SAS7BDAT
+MAYOBL,Induction Baseline Mayo Score (0-12),ADBDC_SAS7BDAT
+OANTITNF,Failure on at least 1 anti-TNF medication only,ADBDC_SAS7BDAT
+OTNINTOL,Intolerant to at least 1 Anti-TNF only,ADBDC_SAS7BDAT
+OTNPNRSP,Primary non-responder to at least 1 Anti-TNF only,ADBDC_SAS7BDAT
+OTNSNRSP,Secondary non-responder to at least 1 Anti-TNF only,ADBDC_SAS7BDAT
+RDIALL,"Inadequate response, intolerance or dependence to corticosteroids or 6MP/AZA",ADBDC_SAS7BDAT
+RDICORT,"Refractory, intolerance or dependence to corticosteroids",ADBDC_SAS7BDAT
+REFR6MP,Refractory to 6MP/AZA,ADBDC_SAS7BDAT
+REFRCORT,Refractory to Corticosteroids,ADBDC_SAS7BDAT
+RI6MPAZA,Refractory or intolerant to 6MP/AZA,ADBDC_SAS7BDAT
+TFVEINTO,Intolerant to at least 1 Anti-TNF and Vedolizumab,ADBDC_SAS7BDAT
+TFVEPNRS,Primary non-responder to at least 1 Anti-TNF and Vedolizumab,ADBDC_SAS7BDAT
+TFVESNRS,Secondary non-responder to at least 1 Anti-TNF and Vedolizumab,ADBDC_SAS7BDAT
+TNFINTOL,Intolerant to at least 1 Anti-TNF,ADBDC_SAS7BDAT
+TNFPNRSP,Primary non-responder to at least 1 Anti-TNF,ADBDC_SAS7BDAT
+TNFSNRSP,Secondary non-responder to at least 1 Anti-TNF,ADBDC_SAS7BDAT
+VEDINTOL,Intolerant to Vedolizumab,ADBDC_SAS7BDAT
+VEDOLIZ,Failure on Vedolizumab,ADBDC_SAS7BDAT
+VEDPNRSP,Primary non-responder to Vedolizumab,ADBDC_SAS7BDAT
+VEDSNRSP,Secondary non-responder to Vedolizumab,ADBDC_SAS7BDAT
+WEIGHTBL,Induction Baseline weight (kg),ADBDC_SAS7BDAT
+ALB,Albumin (g/L),ADCHEM_SAS7BDAT
+ALP,Alkaline Phosphatase (U/L),ADCHEM_SAS7BDAT
+ALT,Alanine Aminotransferase (U/L),ADCHEM_SAS7BDAT
+AST,Aspartate Aminotransferase (U/L),ADCHEM_SAS7BDAT
+BILDIR,Direct Bilirubin (umol/L),ADCHEM_SAS7BDAT
+BILI,Bilirubin (umol/L),ADCHEM_SAS7BDAT
+BUN,Blood Urea Nitrogen (mmol/L),ADCHEM_SAS7BDAT
+CA,Calcium (mmol/L),ADCHEM_SAS7BDAT
+CL,Chloride (mmol/L),ADCHEM_SAS7BDAT
+CREAT,Creatinine (umol/L),ADCHEM_SAS7BDAT
+FSH,Follicle Stimulating Hormone (IU/L),ADCHEM_SAS7BDAT
+HBVVLD,HBV Viral Load (kIU/L),ADCHEM_SAS7BDAT
+HCG,Choriogonadotropin Beta (IU/L),ADCHEM_SAS7BDAT
+HIV1NUAC,HIV-1 Nucleic Acid,ADCHEM_SAS7BDAT
+HIV2NUAC,HIV-2 Nucleic Acid,ADCHEM_SAS7BDAT
+K,Potassium (mmol/L),ADCHEM_SAS7BDAT
+PHOS,Phosphate (mmol/L),ADCHEM_SAS7BDAT
+PROT,Protein (g/L),ADCHEM_SAS7BDAT
+SODIUM,Sodium (mmol/L),ADCHEM_SAS7BDAT
+ADALIMUM,Adalimumab,ADCM_SAS7BDAT
+aminmed,Aminosalicylate Use,ADCM_SAS7BDAT
+antibmed,Antibiotic Use,ADCM_SAS7BDAT
+AZATHIOP,Azathioprine,ADCM_SAS7BDAT
+BALSALAZ,Balsalazide,ADCM_SAS7BDAT
+biomed,Biologics Use,ADCM_SAS7BDAT
+BUDESONI,Budesonide,ADCM_SAS7BDAT
+CIPROFLO,Ciprofloxacin,ADCM_SAS7BDAT
+CORTICO,Corticosteroids (Excluding Budesonide),ADCM_SAS7BDAT
+CYCLOSPO,Cyclosporine,ADCM_SAS7BDAT
+GOLIMUMA,Golimumab,ADCM_SAS7BDAT
+IMMUMED,Immunomodulatory agent Use,ADCM_SAS7BDAT
+INFLIXIM,Infliximab,ADCM_SAS7BDAT
+MESALAMI,Mesalamine,ADCM_SAS7BDAT
+METHOTRE,Methotrexate,ADCM_SAS7BDAT
+METRONID,Metronidazole,ADCM_SAS7BDAT
+MYCOPHEN,Mycophenolate Mofetil,ADCM_SAS7BDAT
+OLSALAZI,Olsalazine,ADCM_SAS7BDAT
+RIFAXIMI,Rifaximin,ADCM_SAS7BDAT
+SIROLIMU,Sirolimus,ADCM_SAS7BDAT
+SIX_MP,6-Mercaptopurine,ADCM_SAS7BDAT
+SULFASAL,Sulfasalazine,ADCM_SAS7BDAT
+TACROLIM,Tacrolimus,ADCM_SAS7BDAT
+UCMEDall,UC Medication Use,ADCM_SAS7BDAT
+VEDOLIZU,Vedolizumab,ADCM_SAS7BDAT
+ACTIMP,Percent activity impairment due to health,ADECON_SAS7BDAT
+ACTIMPTF,Percent activity impairment due to health with TF,ADECON_SAS7BDAT
+IMPWOKTF,Percent impairment while working due to health with TF,ADECON_SAS7BDAT
+IMPWORK,Percent impairment while working due to health,ADECON_SAS7BDAT
+MISWOKTF,Percent work time missed due to health with TF,ADECON_SAS7BDAT
+MISWORK,Percent work time missed due to health,ADECON_SAS7BDAT
+OVEWOKTF,Percent overall work impairment due to health with TF,ADECON_SAS7BDAT
+OVEWORK,Percent overall work impairment due to health,ADECON_SAS7BDAT
+PRODVAS,Assessment of Productivity (VAS),ADECON_SAS7BDAT
+PROVASTF,Assessment of Productivity (VAS) with TF,ADECON_SAS7BDAT
+CORTD30,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (using 30 days prior to W44, LVCF applied)",ADEFF_SAS7BDAT
+CORTD7,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (using 7 days prior to W44, LVCF applied)",ADEFF_SAS7BDAT
+CORTD90,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (using 90 days prior to W44, LVCF applied)",ADEFF_SAS7BDAT
+CORTDAYS,Number of days without corticosteroids (including budesonide and beclomethasone) prior to Week 44 (corticosteroids TF rule applied),ADEFF_SAS7BDAT
+CTD30LTF,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (using 30 days prior to W44, corticosteroids lvcf/TF rule applied)",ADEFF_SAS7BDAT
+CTD7LTF,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (using 7 days prior to W44, corticosteroids lvcf/TF rule applied)",ADEFF_SAS7BDAT
+CTD90LTF,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (using 90 days prior to W44, corticosteroids lvcf/TF rule applied)",ADEFF_SAS7BDAT
+CTW44LTF,"Corticosteroid (including budesonide and beclomethasone) Free at W44 (dose on the day of w44, lvcf/TF rule applied)",ADEFF_SAS7BDAT
+DRMPM44,Durable partial Mayo remission through Week 44,ADEFF_SAS7BDAT
+EHFWK44,Endoscopic healing without friability at week 44,ADEFF_SAS7BDAT
+EHLW44,Endoscopic healing at week 44 based on local endoscopy subscore,ADEFF_SAS7BDAT
+EHWK0M,Endoscopic healing at maintenance baseline,ADEFF_SAS7BDAT
+EHWK44,Endoscopic healing at week 44,ADEFF_SAS7BDAT
+FRIABW44,Friablility at Week 44,ADEFF_SAS7BDAT
+IBD16A44,Greater than or equal 16-point improvement from induction BL in IBDQ at Week 44,ADEFF_SAS7BDAT
+IBD16T44,Maintained greater than or equal 16-point improvement from induction BL in IBDQ through Week 44,ADEFF_SAS7BDAT
+IBD20A44,A 20-point or more improvement from induction BL in IBDQ at Week 44,ADEFF_SAS7BDAT
+IBD20T44,Maintained a 20-point improvement from induction BL in IBDQ through Week 44,ADEFF_SAS7BDAT
+IBDQRM44,IBDQ remission at week 44 visit,ADEFF_SAS7BDAT
+IBDRMT44,Maintained IBDQ Remission Through Week 44,ADEFF_SAS7BDAT
+MRMSY44,Maintained symptomatic remission through Week 44,ADEFF_SAS7BDAT
+MUDISW44,Normal or inactive mucosal disease at Week 44 based on endoscopic score,ADEFF_SAS7BDAT
+MULDIS44,Normal or inactive mucosal disease at Week 44 based on local endoscopic score,ADEFF_SAS7BDAT
+REMW44GL,Clinical remission at week 44 using global definition,ADEFF_SAS7BDAT
+REMW44US,Clinical remission at week 44 using US-specific definition,ADEFF_SAS7BDAT
+RESPT44,Clinical response through week 44,ADEFF_SAS7BDAT
+RESPTL44,Clinical response through week 44 based on the local endoscopy score,ADEFF_SAS7BDAT
+RESPW44,Clinical response at week 44,ADEFF_SAS7BDAT
+RM44GLS1,Clinical remission at week 44 using global definition (sensitivity analysis 1:observed case),ADEFF_SAS7BDAT
+RM44GLS2,Clinical remission at week 44 using global definition (sensitivity analysis 2:nonresponder if any missing subscore),ADEFF_SAS7BDAT
+RM44GLS4,Clinical remission at week 44 using global definition (sensitivity analysis 4:worst case),ADEFF_SAS7BDAT
+RM44GLS5,Clinical remission at week 44 using global definition (sensitivity analysis 5:Modified ITT analysis),ADEFF_SAS7BDAT
+RM44GLS6,Clinical remission at week 44 using global definition (sensitivity analysis 6: per-protocol analysis),ADEFF_SAS7BDAT
+RM44GLS8,Clinical remission at week 44 using global definition (sensitivity analysis 8:based on local endoscopy score),ADEFF_SAS7BDAT
+RM44USS1,Clinical remission at week 44 using US definition (sensitivity analysis 1:observed case),ADEFF_SAS7BDAT
+RM44USS2,Clinical remission at week 44 using US definition (sensitivity analysis 2:nonresponder if any missing subscore),ADEFF_SAS7BDAT
+RM44USS4,Clinical remission at week 44 using US definition (sensitivity analysis 4:worst case),ADEFF_SAS7BDAT
+RM44USS5,Clinical remission at week 44 using US definition (sensitivity analysis 5:Modified ITT analysis),ADEFF_SAS7BDAT
+RM44USS6,Clinical remission at week 44 using US definition (sensitivity analysis 6: per-protocol analysis),ADEFF_SAS7BDAT
+RM44USS8,Clinical remission at week 44 using US definition (sensitivity analysis 8:based on local endoscopy score),ADEFF_SAS7BDAT
+RM44USS9,Clinical remission at week 44 using US definition (sensitivity analysis 9:Nonresponder if friability present on endoscopy),ADEFF_SAS7BDAT
+RMF1W44F,Remission at week 44 based on three of the Mayo components (1) (includes Friability),ADEFF_SAS7BDAT
+RMF2W44F,Remission at week 44 based on three of the Mayo components (2)  (includes Friability),ADEFF_SAS7BDAT
+RMSF1W44,Remission at week 44 based on three of the Mayo components (1),ADEFF_SAS7BDAT
+RMSF2W44,Remission at week 44 based on three of the Mayo components (2),ADEFF_SAS7BDAT
+RMTH44GL,Clinical remission through week 44 using global definition,ADEFF_SAS7BDAT
+RMTH44US,Clinical remission through week 44 using US-specific definition,ADEFF_SAS7BDAT
+RMW44GL0,Clinical remission at week 44 using global definition with a rectal bleeding subscore of 0,ADEFF_SAS7BDAT
+RSPD1W44,Modified Mayo score response (Definition 1) at week 44,ADEFF_SAS7BDAT
+RSPD2W44,Modified Mayo score response (Definition 2) at week 44,ADEFF_SAS7BDAT
+SMCS5ITF,Maintained 5 points improvement from induction BL in MCS through Week 44,ADEFF_SAS7BDAT
+SPCS5ITF,Maintained 5 points improvement from induction BL in PCS through Week 44,ADEFF_SAS7BDAT
+EQ5D,EQ-5D index Score,ADEQ5D_SAS7BDAT
+EQ5D01,EQ5D Mobility Score,ADEQ5D_SAS7BDAT
+EQ5D01TF,EQ5D Mobility Score with LVCF and TF,ADEQ5D_SAS7BDAT
+EQ5D02,EQ5D Self-care Score,ADEQ5D_SAS7BDAT
+EQ5D02TF,EQ5D Self-care Score with LVCF and TF,ADEQ5D_SAS7BDAT
+EQ5D03,EQ5D Usual activities Score,ADEQ5D_SAS7BDAT
+EQ5D03TF,EQ5D Usual activities Score with LVCF and TF,ADEQ5D_SAS7BDAT
+EQ5D04,EQ5D Pain/discomfort Score,ADEQ5D_SAS7BDAT
+EQ5D04TF,EQ5D Pain/discomfort Score with LVCF and TF,ADEQ5D_SAS7BDAT
+EQ5D05,EQ5D Anxiety/depression Score,ADEQ5D_SAS7BDAT
+EQ5D05TF,EQ5D Anxiety/depression Score with LVCF and TF,ADEQ5D_SAS7BDAT
+EQ5D06,Health state VAS,ADEQ5D_SAS7BDAT
+EQ5D06TF,Health state VAS with LVCF and TF,ADEQ5D_SAS7BDAT
+EQ5DTF,EQ-5D index Score with LVCF and TF,ADEQ5D_SAS7BDAT
+ANISO,Anisocytes,ADHEMA_SAS7BDAT
+BASO,Basophils (x10E9/L),ADHEMA_SAS7BDAT
+BASOLE,Basophils/Leukocytes (%),ADHEMA_SAS7BDAT
+ELLIPCY,Elliptocytes,ADHEMA_SAS7BDAT
+EOS,Eosinophils (x10E9/L),ADHEMA_SAS7BDAT
+EOSLE,Eosinophils/Leukocytes (%),ADHEMA_SAS7BDAT
+GRANIM,Immature Granulocytes,ADHEMA_SAS7BDAT
+HCT,Hematocrit (fraction),ADHEMA_SAS7BDAT
+HGB,Hemoglobin (g/L),ADHEMA_SAS7BDAT
+HOWJOL,Howell-Jolly Bodies,ADHEMA_SAS7BDAT
+HPORBC,Hypochromic RBC,ADHEMA_SAS7BDAT
+LYM,Lymphocytes (x10E9/L),ADHEMA_SAS7BDAT
+LYMAT,Lymphocytes Atypical (x10E9/L),ADHEMA_SAS7BDAT
+LYMATLE,Lymphocytes Atypical/Leukocytes (%),ADHEMA_SAS7BDAT
+LYMLE,Lymphocytes/Leukocytes (%),ADHEMA_SAS7BDAT
+MACROCYT,Macrocytosis,ADHEMA_SAS7BDAT
+METAMY,Metamyelocytes (x10E9/L),ADHEMA_SAS7BDAT
+METAMYLE,Metamyelocytes/Leukocytes (%),ADHEMA_SAS7BDAT
+MICROCY,Microcytes,ADHEMA_SAS7BDAT
+MONO,Monocytes (x10E9/L),ADHEMA_SAS7BDAT
+MONOLE,Monocytes/Leukocytes (%),ADHEMA_SAS7BDAT
+MYCY,Myelocytes (x10E9/L),ADHEMA_SAS7BDAT
+MYCYLE,Myelocytes/Leukocytes (%),ADHEMA_SAS7BDAT
+NEUTB,Neutrophils Band Form (x10E9/L),ADHEMA_SAS7BDAT
+NEUTBLE,Neutrophils Band Form/Leukocytes (%),ADHEMA_SAS7BDAT
+NEUTSG,"Neutrophils, Segmented (x10E9/L)",ADHEMA_SAS7BDAT
+NEUTSGLE,"Neutrophils, Segmented/Leukocytes (%)",ADHEMA_SAS7BDAT
+PLAT,Platelets (x10E9/L),ADHEMA_SAS7BDAT
+POIKILO,Poikilocytes,ADHEMA_SAS7BDAT
+POLYCHR,Polychromasia,ADHEMA_SAS7BDAT
+PROMONLE,Promonocytes/Leukocytes (%),ADHEMA_SAS7BDAT
+PROMONO,Promonocytes (x10E9/L),ADHEMA_SAS7BDAT
+RBC,Erythrocytes (x10E12/L),ADHEMA_SAS7BDAT
+RBCMORPH,Erythrocyte Cell Morphology,ADHEMA_SAS7BDAT
+RBCNURBC,Nucleated Erythrocytes/Erythrocytes (%),ADHEMA_SAS7BDAT
+ROULEAUX,Rouleaux Formation,ADHEMA_SAS7BDAT
+SCHISTO,Schistocytes,ADHEMA_SAS7BDAT
+SCKLCE,Sickle Cells,ADHEMA_SAS7BDAT
+STIPBASO,Basophilic Stippling,ADHEMA_SAS7BDAT
+TEARDCY,Dacryocytes,ADHEMA_SAS7BDAT
+TRGTCE,Target Cells,ADHEMA_SAS7BDAT
+WBC,Leukocytes (x10E9/L),ADHEMA_SAS7BDAT
+HSTHL0M,Histologic Healing at Week 0 Maintenance,ADHIST_SAS7BDAT
+HSTHLW44,Histologic Healing at Week 44,ADHIST_SAS7BDAT
+MHL0M,Mucosal Healing at Week 0 Maintenance,ADHIST_SAS7BDAT
+MHLFW44,Mucosal Healing (w/ No friablility) at Week 44,ADHIST_SAS7BDAT
+MHLLW44,Mucosal Healing using Local Endoscopy at Week 44,ADHIST_SAS7BDAT
+MHLW44,Mucosal Healing at Week 44,ADHIST_SAS7BDAT
+HTASMB,Geboes activity subscore at Maintenance Baseline,ADHIST1_SAS7BDAT
+HTASMW44,Geboes Activity Subscore at Week 44 TF Rule Applied,ADHIST1_SAS7BDAT
+HTSSMB,"Geboes subscore (Grades 0, 1, 2A, and 2B) at Maintenance Baseline",ADHIST1_SAS7BDAT
+HTSSMW44,"Geboes Subscore (Grades 0, 1, 2A, and 2B)at Week 44 TF Rule Applied",ADHIST1_SAS7BDAT
+TTHTMB,Total Geboes score at Maintenance Baseline,ADHIST1_SAS7BDAT
+TTHTMW44,Total Geboes Score at Week 44 TF Rule Applied,ADHIST1_SAS7BDAT
+HHD1MB,Histologic Healing Def 1 at Maintenance Baseline(Observed),ADHIST2_SAS7BDAT
+HHD2MB,Histologic Healing Def 2 at Maintenance Baseline(Observed),ADHIST2_SAS7BDAT
+HHD3MB,Histologic Healing Def 3 at Maintenance Baseline(Observed),ADHIST2_SAS7BDAT
+HISD1W44,Histologic Healing Def 1 at Week 44,ADHIST2_SAS7BDAT
+HISD2W44,Histologic Healing Def 2 at Week 44,ADHIST2_SAS7BDAT
+HISD3W44,Histologic Healing Def 3 at Week 44,ADHIST2_SAS7BDAT
+HISD4W44,Histologic Healing Def 4 at Week 44,ADHIST2_SAS7BDAT
+MUCD1W44,Mucosal Healing Def 1 at Week 44,ADHIST2_SAS7BDAT
+MUCD2W44,Mucosal Healing Def 2 at Week 44,ADHIST2_SAS7BDAT
+MUCD3W44,Mucosal Healing Def 3 at Week 44,ADHIST2_SAS7BDAT
+MUCD4W44,Mucosal Healing Def 4 at Week 44,ADHIST2_SAS7BDAT
+RHIW44,RHI score at Week 44,ADHIST2_SAS7BDAT
+IBD16IMP,IBDQ improve greater than or equal to 16 from Induction W0 baseline,ADIBDQ_SAS7BDAT
+IBD20IMP,IBDQ improve of more than 20 from Induction W0 baseline,ADIBDQ_SAS7BDAT
+IBDBOTCF,IBDQ Bowel dimension score with LOCF/TF,ADIBDQ_SAS7BDAT
+IBDEMTCF,IBDQ emotional dimension score with LOCF/TF,ADIBDQ_SAS7BDAT
+IBDQB,"IBDQ Bowel dimension score, including adjusted scores",ADIBDQ_SAS7BDAT
+IBDQE,"IBDQ emotional dimension score, including adjusted scores",ADIBDQ_SAS7BDAT
+IBDQRM,IBDQ remission over time visit,ADIBDQ_SAS7BDAT
+IBDQSF,"IBDQ social dimension score, including adjusted scores",ADIBDQ_SAS7BDAT
+IBDQSY,"IBDQ systemic dimension score, including adjusted scores",ADIBDQ_SAS7BDAT
+IBDQTCF,Total IBDQ score with LOCF/TF,ADIBDQ_SAS7BDAT
+IBDQTOT,Total IBDQ score,ADIBDQ_SAS7BDAT
+IBDSFTCF,IBDQ social dimension score with LOCF/TF,ADIBDQ_SAS7BDAT
+IBDSYTCF,IBDQ systemic dimension score with LOCF/TF,ADIBDQ_SAS7BDAT
+NVSCR,Norm Value MRD Screen (Norm Value),ADIS_SAS7BDAT
+NVSPEC,Norm Value MRD Specificity (Norm Value),ADIS_SAS7BDAT
+NVTITR,Norm Value MRD Titer (Norm Value),ADIS_SAS7BDAT
+SMADAST,Sample ADA Status,ADIS_SAS7BDAT
+SMNABST,Sample NAb Status,ADIS_SAS7BDAT
+SPINHIB,Specificity-Inhibition (%),ADIS_SAS7BDAT
+SUADAST,Subject ADA Status,ADIS_SAS7BDAT
+SUNABST,Subject NAb Status,ADIS_SAS7BDAT
+SUPTITR,Subject Peak Titer,ADIS_SAS7BDAT
+TITER,Titer,ADIS_SAS7BDAT
+CALLNORM,Normal Fecal calprotectin flag (LVCF),ADLBEF_SAS7BDAT
+CALNORM,Normal Fecal calprotectin flag,ADLBEF_SAS7BDAT
+CALPL,Fecal Calprotectin (LVCF) (mg/kg),ADLBEF_SAS7BDAT
+CALPRO,Fecal Calprotectin (mg/kg),ADLBEF_SAS7BDAT
+CALPT,Fecal Calprotectin (LVCF/TF) (mg/kg),ADLBEF_SAS7BDAT
+CALTNORM,Normal Fecal calprotectin flag (Missing Data Rule/TF Rule),ADLBEF_SAS7BDAT
+CRP,C Reactive Protein (mg/L),ADLBEF_SAS7BDAT
+CRPL,C Reactive Protein  (LVCF) (mg/L),ADLBEF_SAS7BDAT
+CRPLNORM,Normal CRP flag (LVCF),ADLBEF_SAS7BDAT
+CRPLTF,C Reactive Protein (LVCF/TF) (mg/L),ADLBEF_SAS7BDAT
+CRPNORM,Normal CRP flag,ADLBEF_SAS7BDAT
+CRPTNORM,Normal CRP flag (Missing Data Rule/TF Rule),ADLBEF_SAS7BDAT
+LTF,Fecal Lactoferrin (ug/mL),ADLBEF_SAS7BDAT
+LTFL,Fecal Lactoferrin (LVCF) (ug/mL),ADLBEF_SAS7BDAT
+LTFLNORM,Normal Fecal Lactoferrin flag (LVCF),ADLBEF_SAS7BDAT
+LTFNORM,Normal Fecal Lactoferrin flag,ADLBEF_SAS7BDAT
+LTFT,Fecal Lactoferrin (LVCF/TF) (ug/mL),ADLBEF_SAS7BDAT
+LTFTNORM,Normal Fecal Lactoferrin flag (Missing Data Rule/TF Rule),ADLBEF_SAS7BDAT
+ABSSLE3,Absolute Stool Number <=3 (TF),ADMAYO_SAS7BDAT
+ABSSTLL,Absolute Stool Number (LVCF),ADMAYO_SAS7BDAT
+ABSSTLTF,Absolute Stool Number (LVCF/TF),ADMAYO_SAS7BDAT
+ABSSTOOL,Absolute Stool Number,ADMAYO_SAS7BDAT
+ENCSCORE,Central Reader Endoscopy Score,ADMAYO_SAS7BDAT
+ENLSCLTF,Local Endoscopy Score (LVCF/TF),ADMAYO_SAS7BDAT
+ENLSCORE,Local Endoscopy Score,ADMAYO_SAS7BDAT
+ENLSCORL,Local Endoscopy Score (LVCF),ADMAYO_SAS7BDAT
+ENSCOLTF,Endoscopy Final Score (LVCF/TF),ADMAYO_SAS7BDAT
+ENSCORE,Endoscopy Final Score,ADMAYO_SAS7BDAT
+ENSCOREL,Endoscopy Final Score (LVCF),ADMAYO_SAS7BDAT
+MAYO,Mayo Score,ADMAYO_SAS7BDAT
+MAYOL,Mayo Score (LVCF),ADMAYO_SAS7BDAT
+MAYOLE,Mayo Score with Local Endsoscopy Score,ADMAYO_SAS7BDAT
+MAYOLEL,Mayo Score with Local Endsoscopy Score (LVCF),ADMAYO_SAS7BDAT
+MAYOLETF,Mayo Score with Local Endsoscopy Score (LVCF/TF),ADMAYO_SAS7BDAT
+MAYOLTF,Mayo Score (LVCF/TF),ADMAYO_SAS7BDAT
+MMAYO,Modified Mayo Score,ADMAYO_SAS7BDAT
+MMAYOL,Modified Mayo Score (LVCF),ADMAYO_SAS7BDAT
+MMAYOLTF,Modified Mayo Score (LVCF/TF),ADMAYO_SAS7BDAT
+NUMMAYO,Number of Observed Mayo Score Components Present,ADMAYO_SAS7BDAT
+NUMMAYOL,Number of Observed Mayo Score Components Present (Using local Endoscopy Score),ADMAYO_SAS7BDAT
+NUMMMAYO,Number of Observed Modified Mayo Score Components Present,ADMAYO_SAS7BDAT
+NUMPMAYO,Number of Observed Partial Mayo Score Components Present,ADMAYO_SAS7BDAT
+PGSCOLTF,Physician Global Assessment Score (LVCF/TF),ADMAYO_SAS7BDAT
+PGSCORE,Physician Global Assessment Score,ADMAYO_SAS7BDAT
+PGSCOREL,Physician Global Assessment Score (LVCF),ADMAYO_SAS7BDAT
+PMAYO,Partial Mayo Score,ADMAYO_SAS7BDAT
+PMAYOL,Partial Mayo Score (LVCF),ADMAYO_SAS7BDAT
+PMAYOLTF,Partial Mayo Score (LFCF/TF),ADMAYO_SAS7BDAT
+RBSCORE,Rectal Bleeding Score,ADMAYO_SAS7BDAT
+RBSCOREL,Rectal Bleeding Score (LVCF),ADMAYO_SAS7BDAT
+RBSCORTF,Rectal Bleeding Score (LVCF/TF),ADMAYO_SAS7BDAT
+RESP,Clinical response over time visit - M0 record using IWRS value,ADMAYO_SAS7BDAT
+RESPCAL,Clinical response over time visit - M0 record using observed score,ADMAYO_SAS7BDAT
+RESPLE,Clinical response over time visit - using local endoscopy score,ADMAYO_SAS7BDAT
+RMGL,Clinical remission using global definition over time visit,ADMAYO_SAS7BDAT
+RMLGL,Clinical remission global definition based local endo score over time visit,ADMAYO_SAS7BDAT
+RMLUS,Clinical remission US definition based local endo score over time visit,ADMAYO_SAS7BDAT
+RMP,Partial Mayo remission over time visit,ADMAYO_SAS7BDAT
+RMSY,Symptomatic remission over time visit,ADMAYO_SAS7BDAT
+RMUS,Clinical remission using US-specific definition over time visit,ADMAYO_SAS7BDAT
+SFSCORE,Stool Frequency Score,ADMAYO_SAS7BDAT
+SFSCOREL,Stool Frequency Score (LVCF),ADMAYO_SAS7BDAT
+SFSCORTF,Stool Frequency Score (LVCF/TF),ADMAYO_SAS7BDAT
+CONC,Concentration (ug/mL),ADPC_SAS7BDAT
+CUMDOSE,Cumulative Dose,ADSAF_SAS7BDAT
+DURFUPM,Duration of Follow-Up Maintenance (Weeks),ADSAF_SAS7BDAT
+DURFUPYR,Duration of Follow-Up Maintenance (Years),ADSAF_SAS7BDAT
+TINJISR,Total Number of SC Injections with Injection Site Reaction,ADSAF_SAS7BDAT
+TINJISRP,Total Number of Placebo SC Injections with Injection Site Reaction,ADSAF_SAS7BDAT
+TINJISRU,Total Number of UST SC Injections with Injection Site Reaction,ADSAF_SAS7BDAT
+TNUMINJ,Total Number of SC Injections,ADSAF_SAS7BDAT
+TNUMPSC,Total Number of Placebo SC Injections,ADSAF_SAS7BDAT
+TNUMUSC,Total Number of UST SC Injections,ADSAF_SAS7BDAT
+SMCS,SF-36 Mental Component Score,ADSF36_SAS7BDAT
+SMCSIMPC,At least 5 pts. improvement in Mental Component Score w LVCF/TF,ADSF36_SAS7BDAT
+SMCSLTF,SF-36 Mental Component Score w LVCF/TF,ADSF36_SAS7BDAT
+SNBP,Bodily Pain Score Norm-based,ADSF36_SAS7BDAT
+SNBPLTF,Bodily Pain Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNGH,General Health Score Norm-based,ADSF36_SAS7BDAT
+SNGHLTF,General Health Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNMH,Mental Health Score Norm-based,ADSF36_SAS7BDAT
+SNMHLTF,Mental Health Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNPF,Physical Function Score Norm-based,ADSF36_SAS7BDAT
+SNPFLTF,Physical Function Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNRE,Role-Emotional Score Norm-based,ADSF36_SAS7BDAT
+SNRELTF,Role-Emotional Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNRP,Role-Physical Score Norm-based,ADSF36_SAS7BDAT
+SNRPLTF,Role-Physical Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNSF,Social Function Score Norm-based,ADSF36_SAS7BDAT
+SNSFLTF,Social Function Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SNVT,Vitality Score Norm-based,ADSF36_SAS7BDAT
+SNVTLTF,Vitality Score Norm-based w LVCF/TF,ADSF36_SAS7BDAT
+SPCS,SF-36 Physical Component Score,ADSF36_SAS7BDAT
+SPCSIMPC,At least 5 pts. improvement in Physical Component Score w LVCF/TF,ADSF36_SAS7BDAT
+SPCSLTF,SF-36 Physical Component Score w LVCF/TF,ADSF36_SAS7BDAT
+TTCOLEMS,Time to surgery of interest or censor in weeks,ADTTE_SAS7BDAT
+TTCOLEMY,Time to surgery or censor in weeks,ADTTE_SAS7BDAT
+TTHOSP,Time to hospitalization or censor in weeks,ADTTE_SAS7BDAT
+TTRESP,Time to the first loss of clinical response or censor in weeks,ADTTE_SAS7BDAT
+TTRMGL,Time to the first loss of clinical remission (global definition) or censor in weeks,ADTTE_SAS7BDAT
+TTRMUS,Time to the first loss of clinical remission (US definition) censor in weeks,ADTTE_SAS7BDAT
+BLEEDING,Bleeding,ADUCEIS_SAS7BDAT
+EROSION,Erosions and ulcers,ADUCEIS_SAS7BDAT
+UCEIS,Total UCEIS Score,ADUCEIS_SAS7BDAT
+UCEISL,Total UCEIS Score with LOCF rules applied,ADUCEIS_SAS7BDAT
+UCEISLE4,UCEIS Score <= 4,ADUCEIS_SAS7BDAT
+UCEISLTF,Total UCEIS Score with LOCF/TF rules applied,ADUCEIS_SAS7BDAT
+VASCULAR,Vascular Pattern,ADUCEIS_SAS7BDAT
+DIABP,Diastolic Blood Pressure (mmHg),ADVS_SAS7BDAT
+HEIGHT,Height (cm),ADVS_SAS7BDAT
+HR,Heart Rate (BEATS/MIN),ADVS_SAS7BDAT
+RESP,Respiratory Rate (BREATHS/MIN),ADVS_SAS7BDAT
+SYSBP,Systolic Blood Pressure (mmHg),ADVS_SAS7BDAT
+TEMP,Temperature (C),ADVS_SAS7BDAT
+WEIGHT,Weight (kg),ADVS_SAS7BDAT
+CORTDL,Corticosteroid Average Daily Dose (Missing visits + LVCF rules applied),ADVSCORT_SAS7BDAT
+CORTDLTF,Corticosteroid Average Daily Dose (Missing visits + LVCF/TF rules applied),ADVSCORT_SAS7BDAT
+CORTDUS,Corticosteroid Average Daily Dose (Observed),ADVSCORT_SAS7BDAT
+BCORT44,Maintenance Week 44 Corticosteroid use (excl. budes and BDP),ADBDC_SAS7BDAT
+CALP44BL,Maintenance W44 Calprotectin (mg/kg),ADBDC_SAS7BDAT
+CRP44BL,Maintenance W44 C-Reactive Protein (mg/L),ADBDC_SAS7BDAT
+ENDO44BL,Maintenance Week 44 Endoscopy Subscore (0-3),ADBDC_SAS7BDAT
+ENDOMBL,Maintenance Baseline Endoscopy Subscore (0-3),ADBDC_SAS7BDAT
+EXTINTBL,Induction Baseline Extraintestinal manifestations,ADBDC_SAS7BDAT
+IBDQBL44,Maintenance Week 44 IBDQ Total Score,ADBDC_SAS7BDAT
+IBDQBLI,Induction Baseline IBDQ Total Score,ADBDC_SAS7BDAT
+IBDQBLM,Maintenance Baseline IBDQ Total Score,ADBDC_SAS7BDAT
+LTF44BL,Maintenance W44 Lactoferrin (ug/g),ADBDC_SAS7BDAT
+MAYO44BL,Maintenance Week 44 Mayo Score (0-12),ADBDC_SAS7BDAT
+MAYOMBL,Baseline Maintenance Mayo Score (0-12),ADBDC_SAS7BDAT
+AMINMED,Aminosalicylate Use,ADCM_SAS7BDAT
+ANTIBMED,Antibiotic Use,ADCM_SAS7BDAT
+BIOMED,Biologics Use,ADCM_SAS7BDAT
+UCMEDALL,UC Medication Use,ADCM_SAS7BDAT
+ACTIMTF1,Percent activity impairment due to health with TF (DA no med),ADECON_SAS7BDAT
+ACTIMTF2,Percent activity impairment due to health with TF (no med),ADECON_SAS7BDAT
+IMPWKTF1,Percent impairment while working due to health with TF (DA no med),ADECON_SAS7BDAT
+IMPWKTF2,Percent impairment while working due to health with TF (no med),ADECON_SAS7BDAT
+MISWKTF1,Percent work time missed due to health with TF (DA no med),ADECON_SAS7BDAT
+MISWKTF2,Percent work time missed due to health with TF (no med),ADECON_SAS7BDAT
+OVWOKTF1,Percent overall work impairment due to health with TF (DA no med),ADECON_SAS7BDAT
+OVWOKTF2,Percent overall work impairment due to health with TF (no med),ADECON_SAS7BDAT
+PRVASTF1,Assessment of Productivity (VAS) with TF (DA no med),ADECON_SAS7BDAT
+PRVASTF2,Assessment of Productivity (VAS) with TF (no med),ADECON_SAS7BDAT
+EQ01TF1,EQ5D Mobility Score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ01TF2,EQ5D Mobility Score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+EQ02TF1,EQ5D Self-care Score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ02TF2,EQ5D Self-care Score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+EQ03TF1,EQ5D Usual activities Score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ03TF2,EQ5D Usual activities Score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+EQ04TF1,EQ5D Pain/discomfort Score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ04TF2,EQ5D Pain/discomfort Score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+EQ05TF1,EQ5D Anxiety/depression Score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ05TF2,EQ5D Anxiety/depression Score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+EQ06TF1,Health state VAS score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ06TF2,Health state VAS score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+EQ5DTCF1,EQ-5D index Score with applied LOCF/TF rules (DA no med),ADEQ5D_SAS7BDAT
+EQ5DTCF2,EQ-5D index Score with applied LOCF/TF rules (no med),ADEQ5D_SAS7BDAT
+IB16IMP1,IBDQ improve of greater than or equal 16 points from Induction W0 baseline,ADIBDQ_SAS7BDAT
+IB16IMP2,IBDQ improve of greater than or equal 16 points from Induction W0 baseline (TF rules no med),ADIBDQ_SAS7BDAT
+IBBOTCF1,IBDQ Bowel dimension score LOCF/TF rules (DA no med),ADIBDQ_SAS7BDAT
+IBBOTCF2,IBDQ Bowel dimension score LOCF/TF rules (no med),ADIBDQ_SAS7BDAT
+IBDQRM1,IBDQ remission with applied LOCF/TF rules (DA no med),ADIBDQ_SAS7BDAT
+IBDQRM2,IBDQ remission with applied LOCF/TF rules (no med),ADIBDQ_SAS7BDAT
+IBDQTCF1,Total IBDQ score with applied LOCF/TF rules (DA no med),ADIBDQ_SAS7BDAT
+IBDQTCF2,Total IBDQ score with applied LOCF/TF rules (no med),ADIBDQ_SAS7BDAT
+IBEMTCF1,IBDQ emotional dimension score LOCF/TF rules (DA no med),ADIBDQ_SAS7BDAT
+IBEMTCF2,IBDQ emotional dimension score LOCF/TF rules (no med),ADIBDQ_SAS7BDAT
+IBSFTCF1,IBDQ social dimension score LOCF/TF rules (DA no med),ADIBDQ_SAS7BDAT
+IBSFTCF2,IBDQ social dimension score LOCF/TF rules (no med),ADIBDQ_SAS7BDAT
+IBSYTCF1,IBDQ systemic dimension score LOCF/TF rules (DA no med),ADIBDQ_SAS7BDAT
+IBSYTCF2,IBDQ systemic dimension score LOCF/TF rules (no med),ADIBDQ_SAS7BDAT
+CALPT1,Fecal Calprotectin (LVCF/TF DA no med) (mg/kg),ADLBEF_SAS7BDAT
+CALPT2,Fecal Calprotectin (LVCF/TF no med) (mg/kg),ADLBEF_SAS7BDAT
+CALTNRM1,Normal Fecal calprotectin flag (Missing Data Rule/TF Rule DA no med),ADLBEF_SAS7BDAT
+CALTNRM2,Normal Fecal calprotectin flag (Missing Data Rule/TF Rule no med),ADLBEF_SAS7BDAT
+CRPLTF1,C Reactive Protein (LVCF/TF DA no med) (mg/L),ADLBEF_SAS7BDAT
+CRPLTF2,C Reactive Protein (LVCF/TF no med) (mg/L),ADLBEF_SAS7BDAT
+CRPTNRM1,Normal CRP flag (Missing Data Rule/TF Rule DA no med),ADLBEF_SAS7BDAT
+CRPTNRM2,Normal CRP flag (Missing Data Rule/TF Rule no med),ADLBEF_SAS7BDAT
+LTFT1,Fecal Lactoferrin (LVCF/TF DA no med) (ug/mL),ADLBEF_SAS7BDAT
+LTFT2,Fecal Lactoferrin (LVCF/TF no med) (ug/mL),ADLBEF_SAS7BDAT
+LTFTNRM1,Normal Fecal Lactoferrin flag (Missing Data Rule/TF Rule DA no med),ADLBEF_SAS7BDAT
+LTFTNRM2,Normal Fecal Lactoferrin flag (Missing Data Rule/TF Rule no med),ADLBEF_SAS7BDAT
+ABSSLE32,Absolute Stool Number <=3 (TF NoMed),ADMAYO_SAS7BDAT
+ABSTLTF1,Absolute Stool Number (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+ABSTLTF2,Absolute Stool Number (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+ENLSLTF1,Local Endoscopy Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+ENLSLTF2,Local Endoscopy Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+ENLSLTF3,Local Endoscopy Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+ENLSLTF4,Local Endoscopy Score (before and after W44 no med),ADMAYO_SAS7BDAT
+ENSCLTF1,Endoscopy Final Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+ENSCLTF2,Endoscopy Final Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+ENSCLTF3,Endoscopy Final Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+ENSCLTF4,Endoscopy Final Score (before and after W44 no med),ADMAYO_SAS7BDAT
+MAYLETF1,Mayo Score with Local Endsoscopy Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+MAYLETF2,Mayo Score with Local Endsoscopy Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+MAYLETF3,Mayo Score with Local Endsoscopy Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+MAYLETF4,Mayo Score with Local Endsoscopy Score (before and after W44 no med),ADMAYO_SAS7BDAT
+MAYOLTF1,Mayo Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+MAYOLTF2,Mayo Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+MAYOLTF3,Mayo Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+MAYOLTF4,Mayo Score (before and after W44 no med),ADMAYO_SAS7BDAT
+MMAYLETF,Modified Mayo Score with Local Endsoscopy Score (LVCF/TF),ADMAYO_SAS7BDAT
+MMAYLTF1,Modified Mayo Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+MMAYLTF2,Modified Mayo Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+MMAYLTF3,Modified Mayo Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+MMAYLTF4,Modified Mayo Score (before and after W44 no med),ADMAYO_SAS7BDAT
+MMAYOLE,Modified Mayo Score with Local Endsoscopy Score,ADMAYO_SAS7BDAT
+MMYLETF1,Modified Mayo Score with Local Endsoscopy Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+MMYLETF2,Modified Mayo Score with Local Endsoscopy Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+MMYLETF3,Modified Mayo Score with Local Endsoscopy Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+MMYLETF4,Modified Mayo Score with Local Endsoscopy Score (before and after W44 no med),ADMAYO_SAS7BDAT
+PGSCLTF1,Physician Global Assessment Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+PGSCLTF2,Physician Global Assessment Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+PGSCLTF3,Physician Global Assessment Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+PGSCLTF4,Physician Global Assessment Score (before and after W44 no med),ADMAYO_SAS7BDAT
+PMAYLTF1,Partial Mayo Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+PMAYLTF2,Partial Mayo Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+PMAYLTF3,Partial Mayo Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+PMAYLTF4,Partial Mayo Score (before and after W44 no med),ADMAYO_SAS7BDAT
+PMAYOLTF,Partial Mayo Score (LVCF/TF),ADMAYO_SAS7BDAT
+RBSCRTF1,Rectal Bleeding Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+RBSCRTF2,Rectal Bleeding Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+RBSCRTF3,Rectal Bleeding Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+RBSCRTF4,Rectal Bleeding Score (before and after W44 no med),ADMAYO_SAS7BDAT
+RESP,Clinical response with TF rules applied - maintenance baseline using IWRS value,ADMAYO_SAS7BDAT
+RESPCAL,"Clinical response with TF rules applied, maintenance baseline calculated by using observed score",ADMAYO_SAS7BDAT
+RESPLE,Clinical response using local endoscopy score with TF rules applied,ADMAYO_SAS7BDAT
+RMGL,Clinical remission using global definition with TF rules applied,ADMAYO_SAS7BDAT
+RMLGL,Clinical remission using global definition based on local endoscopy score with TF rules applied,ADMAYO_SAS7BDAT
+RMLUS,Clinical remission using US-specific definition based on local endoscopy score with TF rules applied,ADMAYO_SAS7BDAT
+RMP,Partial Mayo remission with TF rules applied,ADMAYO_SAS7BDAT
+RMP1,Partial Mayo remission with TF rules (DA no med) applied,ADMAYO_SAS7BDAT
+RMP2,Partial Mayo remission with TF rules (no med) applied,ADMAYO_SAS7BDAT
+RMP3,Partial Mayo remission with TF rules (before and after W44 DA no med) applied,ADMAYO_SAS7BDAT
+RMP4,Partial Mayo remission with TF rules (before and after W44 no med) applied,ADMAYO_SAS7BDAT
+RMSY,Symptomatic remission with TF rules applied,ADMAYO_SAS7BDAT
+RMSY1,Symptomatic remission with TF rules (DA no med) applied,ADMAYO_SAS7BDAT
+RMSY2,Symptomatic remission with TF rules (no med) applied,ADMAYO_SAS7BDAT
+RMSY3,Symptomatic remission with TF rules (before and after W44 DA no med) applied,ADMAYO_SAS7BDAT
+RMSY4,Symptomatic remission with TF rules (before and after W44 no med) applied,ADMAYO_SAS7BDAT
+RMSY5,Symptomatic remission (Observed),ADMAYO_SAS7BDAT
+RMUS,Clinical remission using US-specific definition with TF rules applied,ADMAYO_SAS7BDAT
+SFSCRTF1,Stool Frequency Score (LVCF/TF DA NoMed),ADMAYO_SAS7BDAT
+SFSCRTF2,Stool Frequency Score (LVCF/TF NoMed),ADMAYO_SAS7BDAT
+SFSCRTF3,Stool Frequency Score (before and after W44 DA no med),ADMAYO_SAS7BDAT
+SFSCRTF4,Stool Frequency Score (before and after W44 no med),ADMAYO_SAS7BDAT
+EHL2,Endoscopy healing (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+EHL4,Endoscopy healing (before and after W44 no med),ADMAYO2_SAS7BDAT
+MMRESP2,Modfied mayo response final endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+MMRESP4,Modfied mayo response final endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+MMRESPL2,Modfied mayo response local endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+MMRESPL4,Modfied mayo response local endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+RESPE2,Clinical response final endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+RESPE4,Clinical response final endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+RESPLE2,Clinical response local endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+RESPLE4,Clinical response local endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+RMFDA2,Clinical remission FDA definition Final Endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+RMFDA4,Clinical remission FDA definition Final Endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+RMGL2,Clinical remission Global definition Final Endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+RMGL4,Clinical remission Global definition Final Endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+RMLFDA2,Clinical remission FDA definition Local Endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+RMLFDA4,Clinical remission FDA definition Local Endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+RMLGL2,Clinical remission Global definition Local Endoscopy (LVCF/TF NoMed),ADMAYO2_SAS7BDAT
+RMLGL4,Clinical remission Global definition Local Endoscopy (before and after W44 no med),ADMAYO2_SAS7BDAT
+DURTRT,Duration of Treatment (Weeks),ADSAF_SAS7BDAT
+TINJISRU,Total Number of Ustekinumab SC Injections with Injection Site Reaction,ADSAF_SAS7BDAT
+TNUMUSC,Total Number of Ustekinumab SC Injections,ADSAF_SAS7BDAT
+SMCSIMC1,At least 5 pts. improvement in Mental Component Score w LVCF/TF DA NoMed,ADSF36_SAS7BDAT
+SMCSIMC2,At least 5 pts. improvement in Mental Component Score w LVCF/TF NoMed,ADSF36_SAS7BDAT
+SMCSLTF1,SF-36 Mental Component Score w LVCF/TF DA NoMed,ADSF36_SAS7BDAT
+SMCSLTF2,SF-36 Mental Component Score w LVCF/TF NoMed,ADSF36_SAS7BDAT
+SPCSIMC1,At least 5 pts. improvement in Physical Component Score w LVCF/TF DA NoMed,ADSF36_SAS7BDAT
+SPCSIMC2,At least 5 pts. improvement in Physical Component Score w LVCF/TF NoMed,ADSF36_SAS7BDAT
+SPCSLTF1,SF-36 Physical Component Score w LVCF/TF DA NoMed,ADSF36_SAS7BDAT
+SPCSLTF2,SF-36 Physical Component Score w LVCF/TF NoMed,ADSF36_SAS7BDAT
+CORTLTF1,Corticosteroid Average Daily Dose with LVCF and TF (DA and no med),ADVSCORT_SAS7BDAT
+CORTLTF2,Corticosteroid Average Daily Dose with LVCF and TF (no med),ADVSCORT_SAS7BDAT
+CORTLTF3,Corticosteroid Average Daily Dose with LVCF and TF (before and after W44 DA no med),ADVSCORT_SAS7BDAT
+CORTLTF4,Corticosteroid Average Daily Dose with LVCF and TF (before and after W44 no med),ADVSCORT_SAS7BDAT
+ANTITNF,Failure on at least 1 anti-TNF medication,ADBDC_XPT
+ATNFVEDO,Failure on at least 1 anti-TNF medication and Failure on Vedolizumab,ADBDC_XPT
+B_BCS,Baseline Budesonide use,ADBDC_XPT
+B_BDP,Baseline Beclomethasone dipropionate use,ADBDC_XPT
+B6MP,Baseline 6-MP use,ADBDC_XPT
+BALLCORT,Baseline Corticosteroid use (incl. budes and BDP),ADBDC_XPT
+BAMINO,Baseline Aminosalicylates use,ADBDC_XPT
+BAZA,Baseline Azathioprine use,ADBDC_XPT
+BCMED,Baseline Concomitant UC Med Use,ADBDC_XPT
+BCORT,Baseline Corticosteroid use (excl. budes and BDP),ADBDC_XPT
+BIMM,Baseline Immunomodulator use,ADBDC_XPT
+BIOEXPER,Biologic-experienced,ADBDC_XPT
+BIOFAIL,Biologic Failure Status,ADBDC_XPT
+BIONAIVE,Biologic-naive,ADBDC_XPT
+BMETHO,Baseline Methotrexate use,ADBDC_XPT
+CALPROBL,Baseline Calprotectin (ug/g),ADBDC_XPT
+CRPBL,Baseline C-Reactive Protein (mg/L),ADBDC_XPT
+DEPECORT,Dependent on Corticosteroids,ADBDC_XPT
+DISDURN,UC Disease Duration (yrs),ADBDC_XPT
+DISEXTBL,Extent of UC Disease,ADBDC_XPT
+DISSEVBL,Severity of UC Disease,ADBDC_XPT
+ENDOBL,Baseline Endoscopy Subscore (0-3),ADBDC_XPT
+EXTINTBL,Baseline Extraintestinal manifestations,ADBDC_XPT
+HEIGHTBL,Baseline height (cm),ADBDC_XPT
+INTO6MP,Intolerant to 6MP/AZA,ADBDC_XPT
+INTOCORT,Intolerant to Corticosteroids,ADBDC_XPT
+LTFBL,Baseline Lactoferrin (ug/mL),ADBDC_XPT
+MAYOBL,Baseline Mayo Score (0-12),ADBDC_XPT
+OANTITNF,Failure on at least 1 anti-TNF medication only,ADBDC_XPT
+OTNINTOL,Intolerant to at least 1 Anti-TNF only,ADBDC_XPT
+OTNPNRSP,Primary non-responder to at least 1 Anti-TNF only,ADBDC_XPT
+OTNSNRSP,Secondary non-responder to at least 1 Anti-TNF only,ADBDC_XPT
+RDIALL,"Inadequate response, intolerance or dependence to corticosteroids or 6MP/AZA",ADBDC_XPT
+RDICORT,"Refractory, intolerance or dependence to corticosteroids",ADBDC_XPT
+REFR6MP,Refractory to 6MP/AZA,ADBDC_XPT
+REFRCORT,Refractory to Corticosteroids,ADBDC_XPT
+RI6MPAZA,Refractory or intolerant to 6MP/AZA,ADBDC_XPT
+TFVEINTO,Intolerant to at least 1 Anti-TNF and Vedolizumab,ADBDC_XPT
+TFVEPNRS,Primary non-responder to at least 1 Anti-TNF and Vedolizumab,ADBDC_XPT
+TFVESNRS,Secondary non-responder to at least 1 Anti-TNF and Vedolizumab,ADBDC_XPT
+TNFINTOL,Intolerant to at least 1 Anti-TNF,ADBDC_XPT
+TNFPNRSP,Primary non-responder to at least 1 Anti-TNF,ADBDC_XPT
+TNFSNRSP,Secondary non-responder to at least 1 Anti-TNF,ADBDC_XPT
+VEDINTOL,Intolerant to Vedolizumab,ADBDC_XPT
+VEDOLIZ,Failure on Vedolizumab,ADBDC_XPT
+VEDPNRSP,Primary non-responder to Vedolizumab,ADBDC_XPT
+VEDSNRSP,Secondary non-responder to Vedolizumab,ADBDC_XPT
+WEIGHTBL,Baseline weight (kg),ADBDC_XPT
+BSFAVG,Average Bristol stool form scale score,ADBSFS_XPT
+BSFAVGL,Average Bristol stool form scale score (LVCF),ADBSFS_XPT
+BSFAVGTF,Average Bristol stool form scale score (LVCF/TF),ADBSFS_XPT
+ALB,Albumin (g/L),ADCHEM_XPT
+ALP,Alkaline Phosphatase (U/L),ADCHEM_XPT
+ALT,Alanine Aminotransferase (U/L),ADCHEM_XPT
+AST,Aspartate Aminotransferase (U/L),ADCHEM_XPT
+BILDIR,Direct Bilirubin (umol/L),ADCHEM_XPT
+BILI,Bilirubin (umol/L),ADCHEM_XPT
+BUN,Blood Urea Nitrogen (mmol/L),ADCHEM_XPT
+CA,Calcium (mmol/L),ADCHEM_XPT
+CL,Chloride (mmol/L),ADCHEM_XPT
+CREAT,Creatinine (umol/L),ADCHEM_XPT
+FSH,Follicle Stimulating Hormone (IU/L),ADCHEM_XPT
+HBVVLD,HBV Viral Load (kIU/L),ADCHEM_XPT
+HCG,Choriogonadotropin Beta,ADCHEM_XPT
+HIV1NUAC,HIV-1 Nucleic Acid,ADCHEM_XPT
+HIV2NUAC,HIV-2 Nucleic Acid,ADCHEM_XPT
+K,Potassium (mmol/L),ADCHEM_XPT
+PHOS,Phosphate (mmol/L),ADCHEM_XPT
+PROT,Protein (g/L),ADCHEM_XPT
+SODIUM,Sodium (mmol/L),ADCHEM_XPT
+ADALIMUM,Adalimumab,ADCM_XPT
+aminmed,Aminosalicylate Use,ADCM_XPT
+antibmed,Antibiotic Use,ADCM_XPT
+AZATHIOP,Azathioprine,ADCM_XPT
+BALSALAZ,Balsalazide,ADCM_XPT
+biomed,Biologics Use,ADCM_XPT
+BUDESONI,Budesonide,ADCM_XPT
+CIPROFLO,Ciprofloxacin,ADCM_XPT
+CORTICO,Corticosteroids (Excluding Budesonide),ADCM_XPT
+CYCLOSPO,Cyclosporine,ADCM_XPT
+GOLIMUMA,Golimumab,ADCM_XPT
+IMMUMED,Immunomodulatory agent Use,ADCM_XPT
+INFLIXIM,Infliximab,ADCM_XPT
+MESALAMI,Mesalamine,ADCM_XPT
+METHOTRE,Methotrexate,ADCM_XPT
+METRONID,Metronidazole,ADCM_XPT
+MYCOPHEN,Mycophenolate Mofetil,ADCM_XPT
+OLSALAZI,Olsalazine,ADCM_XPT
+RIFAXIMI,Rifaximin,ADCM_XPT
+SIROLIMU,Sirolimus,ADCM_XPT
+SIX_MP,6-Mercaptopurine,ADCM_XPT
+SULFASAL,Sulfasalazine,ADCM_XPT
+TACROLIM,Tacrolimus,ADCM_XPT
+UCMEDall,UC Medication Use,ADCM_XPT
+VEDOLIZU,Vedolizumab,ADCM_XPT
+ACTIMP,Percent activity impairment due to health,ADECON_XPT
+ACTIMPTF,Percent activity impairment due to health with TF,ADECON_XPT
+IMPWOKTF,Percent impairment while working due to health with TF,ADECON_XPT
+IMPWORK,Percent impairment while working due to health,ADECON_XPT
+MISWOKTF,Percent work time missed due to health with TF,ADECON_XPT
+MISWORK,Percent work time missed due to health,ADECON_XPT
+OVEWOKTF,Percent overall work impairment due to health with TF,ADECON_XPT
+OVEWORK,Percent overall work impairment due to health,ADECON_XPT
+PRODVAS,Assessment of Productivity (VAS),ADECON_XPT
+PROVASTF,Assessment of Productivity (VAS) with TF,ADECON_XPT
+EHFWK8,Endoscopic healing without friability at week 8,ADEFF_XPT
+EHLW0W16,Endoscopic healing at week 16 based on local endoscopy subscore (TF W0-W16),ADEFF_XPT
+EHLWK16,Endoscopic healing at week 16 based on local endoscopy subscore (TF W8-W16),ADEFF_XPT
+EHLWK8,Endoscopic healing at week 8 based on local endoscopy subscore,ADEFF_XPT
+EHW0W16,Endoscopic healing at week 16 (TF W0-W16),ADEFF_XPT
+EHWK16,Endoscopic healing at week 16 (TF W8-W16),ADEFF_XPT
+EHWK8,Endoscopic healing at week 8,ADEFF_XPT
+FRIABW8,Friablility at Week 8,ADEFF_XPT
+MUDISW8,Normal or inactive mucosal disease at Week 8 based on endoscopic score,ADEFF_XPT
+MULDISW8,Normal or inactive mucosal disease at Week 8 based on local endoscopic score,ADEFF_XPT
+REMSF1W8,Remission at week 8 based on three of the Mayo components (1),ADEFF_XPT
+REMSF2W8,Remission at week 8 based on three of the Mayo components (2),ADEFF_XPT
+REMSYW8,Symptomatic remission at Week 8,ADEFF_XPT
+REMW16GL,Clinical remission at week 16 using global definition,ADEFF_XPT
+REMW16US,Clinical remission at week 16 using US-specific definition,ADEFF_XPT
+REMWK8GL,Clinical remission at week 8 using global definition,ADEFF_XPT
+REMWK8US,Clinical remission at week 8 using US-specific definition,ADEFF_XPT
+RESLEW16,Clinical response at week 16 (relative to Week 8) based on local endoscopy subscore,ADEFF_XPT
+RESPD1W8,Modified Mayo score response (Definition 1) at week 8,ADEFF_XPT
+RESPD2W8,Modified Mayo score response (Definition 2) at week 8,ADEFF_XPT
+RESPLEW8,Clinical response at week 8 based on local endoscopy subscore,ADEFF_XPT
+RESPWK8,Clinical response at week 8,ADEFF_XPT
+RESW0W16,Clinical response at week 16 (relative to Week 0),ADEFF_XPT
+RESW8W16,Clinical response at week 16 (relative to Week 8),ADEFF_XPT
+RM8USS10,Clinical remission at week 8 using US-specific definition (sensitivity analysis 10),ADEFF_XPT
+RMLW16GL,Clinical remission at week 16 using global definition based on local endoscopy subscores,ADEFF_XPT
+RMLW16US,Clinical remission at week 16 using US-specific definition based on local endoscopy subscores,ADEFF_XPT
+RMSF1W8F,Remission at week 8 based on three of the Mayo components (1)  (includes Friability),ADEFF_XPT
+RMSF2W8F,Remission at week 8 based on three of the Mayo components (2)  (includes Friability),ADEFF_XPT
+RMW8GLS1,Clinical remission at week 8 using global definition (sensitivity analysis 1),ADEFF_XPT
+RMW8GLS2,Clinical remission at week 8 using global definition (sensitivity analysis 2),ADEFF_XPT
+RMW8GLS3,Clinical remission at week 8 using global definition (sensitivity analysis 3),ADEFF_XPT
+RMW8GLS4,Clinical remission at week 8 using global definition (sensitivity analysis 4),ADEFF_XPT
+RMW8GLS5,Clinical remission at week 8 using global definition (sensitivity analysis 5),ADEFF_XPT
+RMW8GLS8,Clinical remission at week 8 using global definition (sensitivity analysis 8),ADEFF_XPT
+RMW8GLS9,Clinical remission at week 8 using global definition (sensitivity analysis 9),ADEFF_XPT
+RMW8USS1,Clinical remission at week 8 using US-specific definition (sensitivity analysis 1),ADEFF_XPT
+RMW8USS2,Clinical remission at week 8 using US-specific definition (sensitivity analysis 2),ADEFF_XPT
+RMW8USS3,Clinical remission at week 8 using US-specific definition (sensitivity analysis 3),ADEFF_XPT
+RMW8USS4,Clinical remission at week 8 using US-specific definition (sensitivity analysis 4),ADEFF_XPT
+RMW8USS5,Clinical remission at week 8 using US-specific definition (sensitivity analysis 5),ADEFF_XPT
+RMW8USS8,Clinical remission at week 8 using US-specific definition (sensitivity analysis 8),ADEFF_XPT
+RMW8USS9,Clinical remission at week 8 using US-specific definition (sensitivity analysis 9),ADEFF_XPT
+RMWK8GL0,Clinical remission at week 8 using global definition with a rectal bleeding subscore of 0,ADEFF_XPT
+RSLW0W16,Clinical response at week 16 (relative to Week 0) using local endoscopy score,ADEFF_XPT
+EQ5D,EQ-5D index Score,ADEQ5D_XPT
+EQ5D01,EQ5D Mobility Score,ADEQ5D_XPT
+EQ5D01TF,EQ5D Mobility Score with LVCF and TF,ADEQ5D_XPT
+EQ5D02,EQ5D Self-care Score,ADEQ5D_XPT
+EQ5D02TF,EQ5D Self-care Score with LVCF and TF,ADEQ5D_XPT
+EQ5D03,EQ5D Usual activities Score,ADEQ5D_XPT
+EQ5D03TF,EQ5D Usual activities Score with LVCF and TF,ADEQ5D_XPT
+EQ5D04,EQ5D Pain/discomfort Score,ADEQ5D_XPT
+EQ5D04TF,EQ5D Pain/discomfort Score with LVCF and TF,ADEQ5D_XPT
+EQ5D05,EQ5D Anxiety/depression Score,ADEQ5D_XPT
+EQ5D05TF,EQ5D Anxiety/depression Score with LVCF and TF,ADEQ5D_XPT
+EQ5D06,Health state VAS,ADEQ5D_XPT
+EQ5D06TF,Health state VAS with LVCF and TF,ADEQ5D_XPT
+EQ5DTF,EQ-5D index Score with LVCF and TF,ADEQ5D_XPT
+ANISO,Anisocytes,ADHEMA_XPT
+BASO,Basophils (x10E9/L),ADHEMA_XPT
+BASOLE,Basophils/Leukocytes (%),ADHEMA_XPT
+ELLIPCY,Elliptocytes,ADHEMA_XPT
+EOS,Eosinophils (x10E9/L),ADHEMA_XPT
+EOSLE,Eosinophils/Leukocytes (%),ADHEMA_XPT
+GRANIM,Immature Granulocytes,ADHEMA_XPT
+HCT,Hematocrit (fraction),ADHEMA_XPT
+HGB,Hemoglobin (g/L),ADHEMA_XPT
+HOWJOL,Howell-Jolly Bodies,ADHEMA_XPT
+HPORBC,Hypochromic RBC,ADHEMA_XPT
+LYM,Lymphocytes (x10E9/L),ADHEMA_XPT
+LYMAT,Lymphocytes Atypical (x10E9/L),ADHEMA_XPT
+LYMATLE,Lymphocytes Atypical/Leukocytes (%),ADHEMA_XPT
+LYMLE,Lymphocytes/Leukocytes (%),ADHEMA_XPT
+MACROCYT,Macrocytosis,ADHEMA_XPT
+METAMY,Metamyelocytes (x10E9/L),ADHEMA_XPT
+METAMYLE,Metamyelocytes/Leukocytes (%),ADHEMA_XPT
+MICROCY,Microcytes,ADHEMA_XPT
+MONO,Monocytes (x10E9/L),ADHEMA_XPT
+MONOLE,Monocytes/Leukocytes (%),ADHEMA_XPT
+MYCY,Myelocytes (x10E9/L),ADHEMA_XPT
+MYCYLE,Myelocytes/Leukocytes (%),ADHEMA_XPT
+NEUTB,Neutrophils Band Form (x10E9/L),ADHEMA_XPT
+NEUTBLE,Neutrophils Band Form/Leukocytes (%),ADHEMA_XPT
+NEUTSG,"Neutrophils, Segmented (x10E9/L)",ADHEMA_XPT
+NEUTSGLE,"Neutrophils, Segmented/Leukocytes (%)",ADHEMA_XPT
+PLAT,Platelets (x10E9/L),ADHEMA_XPT
+POIKILO,Poikilocytes,ADHEMA_XPT
+POLYCHR,Polychromasia,ADHEMA_XPT
+PROMONLE,Promonocytes/Leukocytes (%),ADHEMA_XPT
+PROMONO,Promonocytes (x10E9/L),ADHEMA_XPT
+RBC,Erythrocytes (x10E12/L),ADHEMA_XPT
+RBCMORPH,Erythrocyte Cell Morphology,ADHEMA_XPT
+RBCNURBC,Nucleated Erythrocytes/Erythrocytes (%),ADHEMA_XPT
+SCHISTO,Schistocytes,ADHEMA_XPT
+STIPBASO,Basophilic Stippling,ADHEMA_XPT
+TEARDCY,Dacryocytes,ADHEMA_XPT
+TRGTCE,Target Cells,ADHEMA_XPT
+WBC,Leukocytes (x10E9/L),ADHEMA_XPT
+HSTHLW16,Histologic Healing at Week 16,ADHIST_XPT
+HSTHLW8,Histologic Healing at Week 8,ADHIST_XPT
+HSTLLW16,Histologic Healing at Week 16 (TF W0-W16),ADHIST_XPT
+MHLFW8,Mucosal Healing (w/ No friablility) at Week 8,ADHIST_XPT
+MHLLW16,Mucosal Healing using Local Endoscopy at Week 16,ADHIST_XPT
+MHLLW8,Mucosal Healing using Local Endoscopy at Week 8,ADHIST_XPT
+MHLTHW16,Mucosal Healing at Week 16 (TF W0-W16),ADHIST_XPT
+MHLW16,Mucosal Healing at Week 16,ADHIST_XPT
+MHLW8,Mucosal Healing at Week 8,ADHIST_XPT
+IBDBOTCF,IBDQ Bowel dimension score w LVCF/TF,ADIBDQ_XPT
+IBDEMTCF,IBDQ emotional dimension score w LVCF/TF,ADIBDQ_XPT
+IBDQ16W0,IBDQ change greater than or equal to 16 from W0 baseline LVCF/TF rules applied,ADIBDQ_XPT
+IBDQ16W8,IBDQ change greater than or equal to 16 from W8 baseline LVCF/TF rules applied,ADIBDQ_XPT
+IBDQ20W0,IBDQ change of more than 20 from W0 baseline LVCF/TF rules applied,ADIBDQ_XPT
+IBDQ20W8,IBDQ change of more than 20 from W8 baseline LVCF/TF rules applied,ADIBDQ_XPT
+IBDQB,"IBDQ Bowel dimension score, including adjusted scores",ADIBDQ_XPT
+IBDQE,"IBDQ emotional dimension score, including adjusted scores",ADIBDQ_XPT
+IBDQSF,"IBDQ social dimension score, including adjusted scores",ADIBDQ_XPT
+IBDQSY,"IBDQ systemic dimension score, including adjusted scores",ADIBDQ_XPT
+IBDQTCF,Total IBDQ score w LVCF/TF,ADIBDQ_XPT
+IBDQTOT,Total IBDQ score,ADIBDQ_XPT
+IBDSFTCF,IBDQ social dimension score w LVCF/TF,ADIBDQ_XPT
+IBDSYTCF,IBDQ systemic dimension score w LVCF/TF,ADIBDQ_XPT
+NVSCR,Norm Value MRD Screen (Norm Value),ADIS_XPT
+NVSPEC,Norm Value MRD Specificity (Norm Value),ADIS_XPT
+NVTITR,Norm Value MRD Titer (Norm Value),ADIS_XPT
+SMADAST,Sample ADA Status,ADIS_XPT
+SMNABST,Sample NAb Status,ADIS_XPT
+SPINHIB,Specificity-Inhibition (%),ADIS_XPT
+SUADAST,Subject ADA Status,ADIS_XPT
+SUNABST,Subject NAb Status,ADIS_XPT
+SUPTITR,Subject Peak Titer,ADIS_XPT
+TITER,Titer,ADIS_XPT
+CALLNORM,Normal Fecal calprotectin flag (LVCF),ADLBEF_XPT
+CALNORM,Normal Fecal calprotectin flag,ADLBEF_XPT
+CALPL,Fecal Calprotectin (LVCF) (mg/kg),ADLBEF_XPT
+CALPRO,Fecal Calprotectin (mg/kg),ADLBEF_XPT
+CALPT,Fecal Calprotectin (LVCF/TF) (mg/kg),ADLBEF_XPT
+CALTNORM,Normal Fecal calprotectin flag (Missing Data Rule/TF Rule),ADLBEF_XPT
+CRP,C Reactive Protein (mg/L),ADLBEF_XPT
+CRPL,C Reactive Protein  (LVCF) (mg/L),ADLBEF_XPT
+CRPLNORM,Normal CRP flag (LVCF),ADLBEF_XPT
+CRPLTF,C Reactive Protein (LVCF/TF) (mg/L),ADLBEF_XPT
+CRPNORM,Normal CRP flag,ADLBEF_XPT
+CRPTNORM,Normal CRP flag (Missing Data Rule/TF Rule),ADLBEF_XPT
+LTF,Fecal Lactoferrin (ug/mL),ADLBEF_XPT
+LTFL,Fecal Lactoferrin (LVCF) (ug/mL),ADLBEF_XPT
+LTFLNORM,Normal Fecal Lactoferrin flag (LVCF),ADLBEF_XPT
+LTFNORM,Normal Fecal Lactoferrin flag,ADLBEF_XPT
+LTFT,Fecal Lactoferrin (LVCF/TF) (ug/mL),ADLBEF_XPT
+LTFTNORM,Normal Fecal Lactoferrin flag (Missing Data Rule/TF Rule),ADLBEF_XPT
+ABSSLE3,Absolute Stool Number <=3 (TF),ADMAYO_XPT
+ABSSTLL,Absolute Stool Number (LVCF),ADMAYO_XPT
+ABSSTLTF,Absolute Stool Number (LVCF/TF),ADMAYO_XPT
+ABSSTOOL,Absolute Stool Number,ADMAYO_XPT
+ENCSCORE,Central Reader Endoscopy Score,ADMAYO_XPT
+ENLSCLTF,Local Endoscopy Score (LVCF/TF),ADMAYO_XPT
+ENLSCORE,Local Endoscopy Score,ADMAYO_XPT
+ENLSCORL,Local Endoscopy Score (LVCF),ADMAYO_XPT
+ENSCOLTF,Endoscopy Final Score (LVCF/TF),ADMAYO_XPT
+ENSCORE,Endoscopy Final Score,ADMAYO_XPT
+ENSCOREL,Endoscopy Final Score (LVCF),ADMAYO_XPT
+MAYO,Mayo Score,ADMAYO_XPT
+MAYOL,Mayo Score (LVCF),ADMAYO_XPT
+MAYOLE,Mayo Score with Local Endsoscopy Score,ADMAYO_XPT
+MAYOLEL,Mayo Score with Local Endsoscopy Score (LVCF),ADMAYO_XPT
+MAYOLETF,Mayo Score with Local Endsoscopy Score (LVCF/TF),ADMAYO_XPT
+MAYOLTF,Mayo Score (LVCF/TF),ADMAYO_XPT
+MMAYO,Modified Mayo Score,ADMAYO_XPT
+MMAYOL,Modified Mayo Score (LVCF),ADMAYO_XPT
+MMAYOLTF,Modified Mayo Score (LVCF/TF),ADMAYO_XPT
+NUMMAYO,Number of Observed Mayo Score Components Present,ADMAYO_XPT
+NUMMAYOL,Number of Observed Mayo Score Components Present (Using local Endoscopy Score),ADMAYO_XPT
+NUMMMAYO,Number of Observed Modified Mayo Score Components Present,ADMAYO_XPT
+NUMPMAYO,Number of Observed Partial Mayo Score Components Present,ADMAYO_XPT
+PGSCOLTF,Physician Global Assessment Score (LVCF/TF),ADMAYO_XPT
+PGSCORE,Physician Global Assessment Score,ADMAYO_XPT
+PGSCOREL,Physician Global Assessment Score (LVCF),ADMAYO_XPT
+PMAYO,Partial Mayo Score,ADMAYO_XPT
+PMAYOL,Partial Mayo Score (LVCF),ADMAYO_XPT
+PMAYOLTF,Partial Mayo Score (LFCF/TF),ADMAYO_XPT
+PMAYOREM,Partial Mayo score remission TF/Missing data rules applied,ADMAYO_XPT
+RBSCORE,Rectal Bleeding Score,ADMAYO_XPT
+RBSCOREL,Rectal Bleeding Score (LVCF),ADMAYO_XPT
+RBSCORTF,Rectal Bleeding Score (LVCF/TF),ADMAYO_XPT
+SFSCORE,Stool Frequency Score,ADMAYO_XPT
+SFSCOREL,Stool Frequency Score (LVCF),ADMAYO_XPT
+SFSCORTF,Stool Frequency Score (LVCF/TF),ADMAYO_XPT
+CONC,Concentration (ug/mL),ADPC_XPT
+DURFUP,Duration of Follow-Up through final safety (Weeks),ADSAF_XPT
+DURFUP8,Duration of Follow-Up through Week 8 (Weeks),ADSAF_XPT
+TINJISR,Total Number of Injections with Injection Site Reactions,ADSAF_XPT
+TINUMIV,Total Number of Administrations with Infusion Reactions,ADSAF_XPT
+TNUM,Total Number of Administrations,ADSAF_XPT
+TNUMINJ,Total Number of Injections,ADSAF_XPT
+TNUMIV,Total Number of Infusions,ADSAF_XPT
+SMCS,SF-36 Mental Component Score,ADSF36_XPT
+SMCSIMPC,At least 5 pts. improvement in Mental Component Score w LVCF/TF,ADSF36_XPT
+SMCSLTF,SF-36 Mental Component Score w LVCF/TF,ADSF36_XPT
+SNBP,Bodily Pain Score Norm-based,ADSF36_XPT
+SNBPLTF,Bodily Pain Score Norm-based w LVCF/TF,ADSF36_XPT
+SNGH,General Health Score Norm-based,ADSF36_XPT
+SNGHLTF,General Health Score Norm-based w LVCF/TF,ADSF36_XPT
+SNMH,Mental Health Score Norm-based,ADSF36_XPT
+SNMHLTF,Mental Health Score Norm-based w LVCF/TF,ADSF36_XPT
+SNPF,Physical Function Score Norm-based,ADSF36_XPT
+SNPFLTF,Physical Function Score Norm-based w LVCF/TF,ADSF36_XPT
+SNRE,Role-Emotional Score Norm-based,ADSF36_XPT
+SNRELTF,Role-Emotional Score Norm-based w LVCF/TF,ADSF36_XPT
+SNRP,Role-Physical Score Norm-based,ADSF36_XPT
+SNRPLTF,Role-Physical Score Norm-based w LVCF/TF,ADSF36_XPT
+SNSF,Social Function Score Norm-based,ADSF36_XPT
+SNSFLTF,Social Function Score Norm-based w LVCF/TF,ADSF36_XPT
+SNVT,Vitality Score Norm-based,ADSF36_XPT
+SNVTLTF,Vitality Score Norm-based w LVCF/TF,ADSF36_XPT
+SPCS,SF-36 Physical Component Score,ADSF36_XPT
+SPCSIMPC,At least 5 pts. improvement in Physical Component Score w LVCF/TF,ADSF36_XPT
+SPCSLTF,SF-36 Physical Component Score w LVCF/TF,ADSF36_XPT
+BLEEDING,Bleeding,ADUCEIS_XPT
+EROSION,Erosions and ulcers,ADUCEIS_XPT
+UCEIS,Total UCEIS Score,ADUCEIS_XPT
+UCEISL,Total UCEIS Score with LOCF rules applied,ADUCEIS_XPT
+UCEISLE4,UCEIS Score <= 4,ADUCEIS_XPT
+UCEISLTF,Total UCEIS Score with LOCF/TF rules applied,ADUCEIS_XPT
+VASCULAR,Vascular Pattern,ADUCEIS_XPT
+DIABP,Diastolic Blood Pressure (mmHg),ADVS_XPT
+HEIGHT,Height (cm),ADVS_XPT
+HR,Heart Rate (BEATS/MIN),ADVS_XPT
+RESP,Respiratory Rate (BREATHS/MIN),ADVS_XPT
+SYSBP,Systolic Blood Pressure (mmHg),ADVS_XPT
+TEMP,Temperature (C),ADVS_XPT
+WEIGHT,Weight (kg),ADVS_XPT
