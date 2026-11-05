@@ -1,0 +1,72 @@
+﻿PARAMCD,PARAM,SOURCE
+STUDYID,Studyid,ADSL
+SUBJID,Subjid,ADSL
+CLINICAL_TRIAL_ID,Clinical Trial Id,ADSL
+SampleDisease,Sampledisease,ADSL
+AGE,Age,ADSL
+AGEU,Ageu,ADSL
+SEX,Sex,ADSL
+CONTINENT,Continent,ADSL
+COUNTRY,Country,ADSL
+RACE,Race,ADSL
+ETHNIC,Ethnic,ADSL
+SITEID,Siteid,ADSL
+TRT01P,Trt01P,ADSL
+TRT01PN,Trt01Pn,ADSL
+TRT02P,Trt02P,ADSL
+TRT02PN,Trt02Pn,ADSL
+ARM,Arm,ADSL
+NTREATFL,Ntreatfl,ADSL
+RANDFL,Randfl,ADSL
+FASFL,Fasfl,ADSL
+SAFFL,Saffl,ADSL
+RESFL,Resfl,ADSL
+CSUSEFL,Csusefl,ADSL
+TRT01A,Trt01A,ADSL
+TRT01AN,Trt01An,ADSL
+TRT02A,Trt02A,ADSL
+TRT02AN,Trt02An,ADSL
+MES_ReaderC,Mayo Endoscopic Score - Central Reader,ADMAYO
+MES_ReaderL,Mayo Endoscopic Score - Local Reader,ADMAYO
+MAYO,Mayo Score,ADMAYO
+MES,Mayo Endoscopic Score,ADMAYO
+PGSCORE,Physician Global Assessment Score,ADMAYO
+RBSCOR,Rectal Bleeding Score,ADMAYO
+SFSCOR,Stool Frequency Score,ADMAYO
+GBHI,Geboes High Activity Subscore,ADHIST
+GBLO,Geboes Low Activity Subscore,ADHIST
+GBTOT,Geboes Total Score,ADHIST
+GRADE0,Grade0 - Structural Architectural Change,ADHIST
+GRADE1,Grade1 - Chronic inflammatory infiltrate,ADHIST
+GRADE2A,Grade2A - Lamina propria eosinophils,ADHIST
+GRADE2B,Grade2B - Lamina propria neutrophils,ADHIST
+GRADE3,Grade3 - Neutrophils in epithelium,ADHIST
+GRADE4,Grade4 - Crypt destruction,ADHIST
+GRADE5,Grade5 - Erosion or ulceration,ADHIST
+HSTL,Histo Healing,ADHIST
+MHL,Mucosal Heal,ADHIST
+NANCYHI,Nancy Histological Index,ADHIST
+RHI,Robarts Histopathology Index,ADHIST
+CALPT,Fecal Calprotectin,ADLB
+CRP,C-Reactive Protein,ADLB
+IBDQREM,Inflammatory Bowel Disease Questionnaire Remission,ADIBDQ
+IBDQTOT,Inflammatory Bowel Disease Questionnaire Total Score,ADIBDQ
+BLEEDING,Bleeding,ADUCEIS
+EROSION,Erosion ,ADUCEIS
+UCEIS,Ulcerative Colitis Endoscopic Index of Severity,ADUCEIS
+VASCULAR,Vascular Pattern ,ADUCEIS
+COLON_ASC_ADJUDICATOR,Colon Asc Adjudicator,ASTRO_CSV_EXTRACT
+COLON_ASC_CENTRAL,Colon Asc Central,ASTRO_CSV_EXTRACT
+COLON_DES_ADJUDICATOR,Colon Des Adjudicator,ASTRO_CSV_EXTRACT
+COLON_DES_CENTRAL,Colon Des Central,ASTRO_CSV_EXTRACT
+COLON_TRA_ADJUDICATOR,Colon Tra Adjudicator,ASTRO_CSV_EXTRACT
+COLON_TRA_CENTRAL,Colon Tra Central,ASTRO_CSV_EXTRACT
+RECTUM_ADJUDICATOR,Rectum Adjudicator,ASTRO_CSV_EXTRACT
+RECTUM_CENTRAL,Rectum Central,ASTRO_CSV_EXTRACT
+SIGMOID_ADJUDICATOR,Sigmoid Adjudicator,ASTRO_CSV_EXTRACT
+SIGMOID_CENTRAL,Sigmoid Central,ASTRO_CSV_EXTRACT
+EXTENT,Disease Extent,ASTRO_CSV_EXTRACT
+ENNRM,Endoscopic Normalization,ADMAYO
+REM,Clinical Remission,ADMAYO
+RES,Clinical Response,ADMAYO
+EHL,Endoscopic Healing,ADMAYO
