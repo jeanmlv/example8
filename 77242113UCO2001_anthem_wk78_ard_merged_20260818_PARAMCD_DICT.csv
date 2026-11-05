@@ -1,0 +1,760 @@
+﻿PARAMCD,PARAM,SOURCE
+BAPL,Presence of Basal Plasmacytosis,ADHIST
+GBHI,Geboes High Activity Subscore,ADHIST
+GBLO,Geboes Low Activity Subscore,ADHIST
+GBTOT,Geboes Total Score,ADHIST
+GHI0,Grade0 - Structural Architectural Change,ADHIST
+GHI1,Grade1 - Chronic inflammatory infiltrate,ADHIST
+GHI2A,Grade2A - Lamina propria eosinophils,ADHIST
+GHI2B,Grade2B - Lamina propria neutrophils,ADHIST
+GHI3,Grade3 - Neutrophils in epithelium,ADHIST
+GHI4,Grade4 - Crypt destruction,ADHIST
+GHI5,Grade5 - Erosion or ulceration,ADHIST
+HIMPGB,Histological Improvement (Geboes),ADHIST
+HREMGB,Histological Remission (Geboes),ADHIST
+HREMRHI,Histological Remission (RHI),ADHIST
+RHI,Robarts Histopathology Index Score,ADHIST
+RHICO01,Chronic inflammatory infiltrate,ADHIST
+RHICO02,Lamina propria neutrophils,ADHIST
+RHICO03,Neutrophils in epithelium,ADHIST
+RHICO04,Erosion or ulceration,ADHIST
+GBHI,Geboes High Activity Subscore,ADHISTI
+GBLO,Geboes Low Activity Subscore,ADHISTI
+GBTOT,Geboes Total Score,ADHISTI
+GHI0,Grade0 - Structural Architectural Change,ADHISTI
+GHI1,Grade1 - Chronic inflammatory infiltrate,ADHISTI
+GHI2A,Grade2A - Lamina propria eosinophils,ADHISTI
+GHI2B,Grade2B - Lamina propria neutrophils,ADHISTI
+GHI3,Grade3 - Neutrophils in epithelium,ADHISTI
+GHI4,Grade4 - Crypt destruction,ADHISTI
+GHI5,Grade5 - Erosion or ulceration,ADHISTI
+HIMPGB,Histological Improvement (Geboes),ADHISTI
+HREMGB,Histological Remission (Geboes),ADHISTI
+HREMRHI,Histological Remission (RHI),ADHISTI
+RHI,Robarts Histopathology Index Score,ADHISTI
+RHICO01,Chronic inflammatory infiltrate,ADHISTI
+RHICO02,Lamina propria neutrophils,ADHISTI
+RHICO03,Neutrophils in epithelium,ADHISTI
+RHICO04,Erosion or ulceration,ADHISTI
+GBHI,Geboes High Activity Subscore,ADHISTMI
+GBLO,Geboes Low Activity Subscore,ADHISTMI
+GBTOT,Geboes Total Score,ADHISTMI
+GHI0,Grade0 - Structural Architectural Change,ADHISTMI
+GHI1,Grade1 - Chronic inflammatory infiltrate,ADHISTMI
+GHI2A,Grade2A - Lamina propria eosinophils,ADHISTMI
+GHI2B,Grade2B - Lamina propria neutrophils,ADHISTMI
+GHI3,Grade3 - Neutrophils in epithelium,ADHISTMI
+GHI4,Grade4 - Crypt destruction,ADHISTMI
+GHI5,Grade5 - Erosion or ulceration,ADHISTMI
+RHI,Robarts Histopathology Index Score,ADHISTMI
+RHICO01,Chronic inflammatory infiltrate,ADHISTMI
+RHICO02,Lamina propria neutrophils,ADHISTMI
+RHICO03,Neutrophils in epithelium,ADHISTMI
+RHICO04,Erosion or ulceration,ADHISTMI
+GHI5E,Grade5 - Erosion or ulceration (Er),ADHIST
+HREMRHIE,Histological Remission (RHI) (Er),ADHIST
+RHICO01E,Chronic inflammatory infiltrate (Er),ADHIST
+RHICO02E,Lamina propria neutrophils (Er),ADHIST
+RHICO03E,Neutrophils in epithelium (Er),ADHIST
+RHICO04E,Erosion or ulceration (Er),ADHIST
+RHIE,Robarts Histopathology Index Score (Er),ADHIST
+GHI5E,Grade5 - Erosion or ulceration (Er),ADHISTI
+HREMRHIE,Histological Remission (RHI) (Er),ADHISTI
+RHICO01E,Chronic inflammatory infiltrate (Er),ADHISTI
+RHICO02E,Lamina propria neutrophils (Er),ADHISTI
+RHICO03E,Neutrophils in epithelium (Er),ADHISTI
+RHICO04E,Erosion or ulceration (Er),ADHISTI
+RHIE,Robarts Histopathology Index Score (Er),ADHISTI
+GHI5E,Grade5 - Erosion or ulceration (Er),ADHISTMI
+RHICO01E,Chronic inflammatory infiltrate (Er),ADHISTMI
+RHICO02E,Lamina propria neutrophils (Er),ADHISTMI
+RHICO03E,Neutrophils in epithelium (Er),ADHISTMI
+RHICO04E,Erosion or ulceration (Er),ADHISTMI
+RHIE,Robarts Histopathology Index Score (Er),ADHISTMI
+A4B7FAIL,"Primary nonresponse, secondary nonresponse, or intolerance to anti-a4b7 integrin",ADADT
+A4B7INTL,Intolerance to anti-a4b7 integrin,ADADT
+A4B7PNR,Primary nonresponse to anti-a4b7 integrin,ADADT
+A4B7SNR,Secondary nonresponse to anti-a4b7 integrin,ADADT
+ADALFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Adalimumab/biosimilar",ADADT
+ADALINTL,Intolerance to Adalimumab/biosimilar,ADADT
+ADALPNR,Primary nonresponse to Adalimumab/biosimilar,ADADT
+ADALSNR,Secondary nonresponse to Adalimumab/biosimilar,ADADT
+ADTEXPER,ADT experienced without documented failure,ADADT
+ADTFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to ADT",ADADT
+ADTINTL,Intolerance to ADT,ADADT
+ADTNAIVE,ADT naive,ADADT
+ADTPNR,Primary nonresponse to ADT,ADADT
+ADTSNR,Secondary nonresponse to ADT,ADADT
+BIOEXPER,Biologic experienced without documented failure,ADADT
+BIOFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to biologics",ADADT
+BIOINTL,Intolerance to biologics,ADADT
+BIONAIVE,Biologic therapy naive,ADADT
+BIOPNR,Primary nonresponse to biologics,ADADT
+BIOSNR,Secondary nonresponse to biologics,ADADT
+CADTFAIL,"Number of ADT classes with primary nonresponse, secondary nonresponse, or intolerance",ADADT
+CADTINTL,Number of ADT classes with intolerance,ADADT
+CADTPNR,Number of ADT classes with primary nonresponse,ADADT
+CADTSNR,Number of ADT classes with secondary nonresponse,ADADT
+ETRFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Etrasimod",ADADT
+ETRINTL,Intolerance to Etrasimod,ADADT
+ETRPNR,Primary nonresponse to Etrasimod,ADADT
+ETRSNR,Secondary nonresponse to Etrasimod,ADADT
+FILFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Filgotinib",ADADT
+FILINTL,Intolerance to Filgotinib,ADADT
+FILPNR,Primary nonresponse to Filgotinib,ADADT
+FILSNR,Secondary nonresponse to Filgotinib,ADADT
+GOLFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Golimumab/biosimilar",ADADT
+GOLINTL,Intolerance to Golimumab/biosimilar,ADADT
+GOLPNR,Primary nonresponse to Golimumab/biosimilar,ADADT
+GOLSNR,Secondary nonresponse to Golimumab/biosimilar,ADADT
+IL2AFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to IL-12/23 antagonist",ADADT
+IL2AINTL,Intolerance to IL-12/23 antagonist,ADADT
+IL2APNR,Primary nonresponse to IL-12/23 antagonist,ADADT
+IL2ASNR,Secondary nonresponse to IL-12/23 antagonist,ADADT
+INFFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Infliximab/biosimilar",ADADT
+INFINTL,Intolerance to Infliximab/biosimilar,ADADT
+INFPNR,Primary nonresponse to Infliximab/biosimilar,ADADT
+INFSNR,Secondary nonresponse to Infliximab/biosimilar,ADADT
+JKIFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Janus kinase inhibitors",ADADT
+JKIINTL,Intolerance to Janus kinase inhibitors,ADADT
+JKIPNR,Primary nonresponse to Janus kinase inhibitors,ADADT
+JKISNR,Secondary nonresponse to Janus kinase inhibitors,ADADT
+NADTFAIL,"Number of ADT medications with primary nonresponse, secondary nonresponse, or intolerance",ADADT
+NADTINTL,Number of ADT medications with intolerance,ADADT
+NADTPNR,Number of ADT medications with primary nonresponse,ADADT
+NADTSNR,Number of ADT medications with secondary nonresponse,ADADT
+ORALFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to oral ADT",ADADT
+ORALINTL,Intolerance to oral ADT,ADADT
+ORALPNR,Primary nonresponse to oral ADT,ADADT
+ORALSNR,Secondary nonresponse to oral ADT,ADADT
+OZAFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Ozanimod",ADADT
+OZAINTL,Intolerance to Ozanimod,ADADT
+OZAPNR,Primary nonresponse to Ozanimod,ADADT
+OZASNR,Secondary nonresponse to Ozanimod,ADADT
+S1PFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to S1P receptor modulators",ADADT
+S1PINTL,Intolerance to S1P receptor modulators,ADADT
+S1PPNR,Primary nonresponse to S1P receptor receptor modulators,ADADT
+S1PSNR,Secondary nonresponse to S1P receptor modulators,ADADT
+TNFFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to anti-TNF",ADADT
+TNFINTL,Intolerance to anti-TNF,ADADT
+TNFPNR,Primary nonresponse to anti-TNF,ADADT
+TNFSNR,Secondary nonresponse to anti-TNF,ADADT
+TOFAFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Tofacitinib",ADADT
+TOFAINTL,Intolerance to Tofacitinib,ADADT
+TOFAPNR,Primary nonresponse to Tofacitinib,ADADT
+TOFASNR,Secondary nonresponse to Tofacitinib,ADADT
+UPAFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Upadacitinib",ADADT
+UPAINTL,Intolerance to Upadacitinib,ADADT
+UPAPNR,Primary nonresponse to Upadacitinib,ADADT
+UPASNR,Secondary nonresponse to Upadacitinib,ADADT
+USTFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Ustekinumab/biosimilar",ADADT
+USTINTL,Intolerance to Ustekinumab/biosimilar,ADADT
+USTPNR,Primary nonresponse to Ustekinumab/biosimilar,ADADT
+USTSNR,Secondary nonresponse to Ustekinumab/biosimilar,ADADT
+VEDOFAIL,"Primary nonresponse, secondary nonresponse, or intolerance to Vedolizumab/biosimilar",ADADT
+VEDOINTL,Intolerance to Vedolizumab/biosimilar,ADADT
+VEDOPNR,Primary nonresponse to Vedolizumab/biosimilar,ADADT
+VEDOSNR,Secondary nonresponse to Vedolizumab/biosimilar,ADADT
+BASD01,Fatigue/Tiredness,ADBASD
+BASD01P,Fatigue/Tiredness (Primary ICE Approach),ADBASD
+BASD02,Spinal Pain,ADBASD
+BASD02P,Spinal Pain (Primary ICE Approach),ADBASD
+BASD03,Joint Pain/Swelling,ADBASD
+BASD03P,Joint Pain/Swelling (Primary ICE Approach),ADBASD
+BASD04,Areas of Localized Tenderness,ADBASD
+BASD04P,Areas of Localized Tenderness (Primary ICE Approach),ADBASD
+BASD05,Morning Stiffness,ADBASD
+BASD05P,Morning Stiffness (Primary ICE Approach),ADBASD
+BASD06,Time Morning Stiffness Lasts,ADBASD
+BASD06P,Time Morning Stiffness Lasts (Primary ICE Approach),ADBASD
+BASD56,Average of Morning Stiffness Duration and Morning Stiffness Severity/Time Morning Stiffness Lasts,ADBASD
+BASD56P,Average of Morning Stiffness Duration and Morning Stiffness Severity/Time Morning Stiffness Lasts (Primary ICE Approach),ADBASD
+BASDTOT,BASDAI Total Score,ADBASD
+BASDTOTP,BASDAI Total Score (Primary ICE Approach),ADBASD
+ADTFAIL,Advanced Therapy Inadequate Response,ADBDC
+ALBBL,Albumin at baseline,ADBDC
+ASAOBL,Induction Baseline Oral aminosalicylates Use,ADBDC
+AZA6MPBL,Induction Baseline 6-mercaptopurine/azathioprine drugs Use,ADBDC
+BECDOBL,Induction Baseline Beclomethasone dipropionate Use,ADBDC
+BUDEBL,Induction Baseline Budesonide Use,ADBDC
+CALPROBL,Fecal calprotectin at baseline,ADBDC
+CORAZA,"Refractory, dependent or intolerant to corticosteroids, and refractory or intolerant to 6-MP/AZA",ADBDC
+CORDEP,Corticosteroids Dependent,ADBDC
+CORIAD,Corticosteroids Inadequate Response,ADBDC
+CORINT,Corticosteroids Intolerant,ADBDC
+CORTEXBL,Induction Baseline Oral corticosteroids (excl. budesonide and beclomethasone dipropionate) Use,ADBDC
+CORTOBL,Induction Baseline Oral Corticosteroid Use,ADBDC
+CRPBL,CRP at baseline,ADBDC
+DISDUR,Disease Duration (Years),ADBDC
+ENMAYO,Screening Mayo endoscopy score,ADBDC
+EXTENT,Extent of Disease,ADBDC
+EXTINT,Extraintestinal Manifestations,ADBDC
+FMAYOBL,Full Mayo Score at baseline,ADBDC
+IMMIAD,Immuno Inadequate Response,ADBDC
+IMMINT,Immuno Intolerant,ADBDC
+IMMUBL,Induction Baseline Immunomodulatory drugs Use,ADBDC
+MMAYOBL,Modified Mayo Score at baseline,ADBDC
+MTXBL,Induction Baseline Methotrexate Use,ADBDC
+PMAYOBL,Partial Mayo Score at baseline,ADBDC
+RCNOAZA,"Refractory, dependent, or intolerant to corticosteroids, but not refractory or intolerant to 6-MP/AZA",ADBDC
+RDICORT,"Refractory, dependent or intolerant to corticosteroids",ADBDC
+RFINIMM,Refractory or intolerant to 6-MP/AZA,ADBDC
+TBTRTBL,Treatment for Latent TB at Induction Baseline,ADBDC
+UCSEV,Severity of UC disease,ADBDC
+CSS0201,CSS02-Wish to be Dead,ADCSSRS
+CSS0202,CSS02-Non-Specific Suicidal Thought,ADCSSRS
+CSS0212,CSS02-Actual Attempt,ADCSSRS
+CSS0214,CSS02-Non-suicidal Self-injurious Behav,ADCSSRS
+CSS0215,CSS02-Interrupted Attempt,ADCSSRS
+CSS0217,CSS02-Aborted Attempt,ADCSSRS
+CSS0219,CSS02-Preparatory Acts/Behavior,ADCSSRS
+CSS0401A,CSS04-Wish to be Dead-Life,ADCSSRS
+CSS0401B,CSS04-Wish to be Dead-P_M,ADCSSRS
+CSS0402A,CSS04-Non-Spec Suicid Thought-Life,ADCSSRS
+CSS0402B,CSS04-Non-Spec Suicid Thought-P_M,ADCSSRS
+CSS0403A,"CSS04-Idea, No Intent, No Plan-Life",ADCSSRS
+CSS0404A,"CSS04-Idea, Intent, No Plan-Life",ADCSSRS
+CSS0405A,"CSS04-Idea, Plan, Intent-Life",ADCSSRS
+CSS0412A,CSS04-Actual Attempt-Life,ADCSSRS
+CSS0412B,CSS04-Actual Attempt-P_Y,ADCSSRS
+CSS0414A,CSS04-Non-suicidal Self-injur Behav-Life,ADCSSRS
+CSS0414B,CSS04-Non-suicidal Self-injur Behav-P_Y,ADCSSRS
+CSS0415A,CSS04-Interrupted Attempt-Life,ADCSSRS
+CSS0415B,CSS04-Interrupted Attempt-P_Y,ADCSSRS
+CSS0417A,CSS04-Aborted Attempt-Life,ADCSSRS
+CSS0417B,CSS04-Aborted Attempt-P_Y,ADCSSRS
+CSS0419A,CSS04-Preparatory Acts/Behavior-Life,ADCSSRS
+CSS0419B,CSS04-Preparatory Acts/Behavior-P_Y,ADCSSRS
+MAXSCORE,Maximum Score,ADCSSRS
+DCSCREEN,Reason for Discontinuation During Screening,ADDISP
+DCSREAS,Reason for Study Termination,ADDISP
+DCTREAS,Reason for Treatment Discontinuation,ADDISP
+EOSSTT,Study Status,ADDISP
+EOTSTT,Treatment Status,ADDISP
+LSTVIS,Last Study Visit Prior to Study Discontinuation,ADDISP
+PARTFUP,Study Participation Follow-up,ADDISP
+TXLSTVIS,Last Study Agent Admin Visit,ADDISP
+TXLSVVIS,Last Study Visit Prior to Treatment Discontinuation,ADDISP
+CUMDOSE,Cumulative Dose (mg),ADEXSUM
+DISPTSUM,Total Dispensed Tablets,ADEXSUM
+MEANDD,Average Daily Dose (mg/day),ADEXSUM
+RETTSUM,Total Returned Tablets,ADEXSUM
+TRTCOMP,Compliance (%),ADEXSUM
+TRTDURW,Total Duration of Treatment (weeks),ADEXSUM
+UCHOSP,UC-related Hospitalizations,ADHOSP
+UCPROC,UC-related Procedures,ADHOSP
+UCSURG,UC-related Surgeries,ADHOSP
+IBDQ01,Frequency of Bowel Movements,ADIBDQ
+IBDQ02,Feeling of Fatigue or Tiredness,ADIBDQ
+IBDQ03,"Frustrated, Impatient, Restless",ADIBDQ
+IBDQ04,Unable to Attend School/ Do Work,ADIBDQ
+IBDQ05,Loose Bowel Movements,ADIBDQ
+IBDQ06,Energy,ADIBDQ
+IBDQ07,"Worried, Possibility of Surgery",ADIBDQ
+IBDQ08,Delay or Cancel Social Engagement,ADIBDQ
+IBDQ09,Troubled by Cramps in Abdomen,ADIBDQ
+IBDQ10,Felt Generally Unwell,ADIBDQ
+IBDQ11,Fear of Not Finding a Washroom,ADIBDQ
+IBDQ12,Difficulty Leisure/Sports Activity,ADIBDQ
+IBDQ13,Troubled by Pain in the Abdomen,ADIBDQ
+IBDQ14,Problems With Sleep,ADIBDQ
+IBDQ15,Felt Depressed or Discouraged,ADIBDQ
+IBDQ16,Avoid Events Where No Washroom,ADIBDQ
+IBDQ17,Problem Large Amounts of Gas,ADIBDQ
+IBDQ18,Problem Maintaining/Getting to Weight,ADIBDQ
+IBDQ19,Worried or Anxious,ADIBDQ
+IBDQ20,Troubled by Abdominal Bloating,ADIBDQ
+IBDQ21,Felt Relaxed and Free of Tension,ADIBDQ
+IBDQ22,Rectal Bleeding,ADIBDQ
+IBDQ23,Embarrassed by Bowel Problem,ADIBDQ
+IBDQ24,"Going to Bathroom, Empty Bowels",ADIBDQ
+IBDQ25,Felt Tearful or Upset,ADIBDQ
+IBDQ26,Accidental Soiling of Underpants,ADIBDQ
+IBDQ27,Angry Because of Bowel Problem,ADIBDQ
+IBDQ28,Limited Sexual Activity,ADIBDQ
+IBDQ29,"Nausea, Feeling Sick to Stomach",ADIBDQ
+IBDQ30,Felt Irritable,ADIBDQ
+IBDQ31,Lack of Understanding From Others,ADIBDQ
+IBDQ32,"Satisfied, Happy w/Personal Life",ADIBDQ
+IBDQB,IBDQ Bowel Score,ADIBDQ
+IBDQE,IBDQ Emotional Score,ADIBDQ
+IBDQREM,IBDQ Remission,ADIBDQ
+IBDQSF,IBDQ Social Score,ADIBDQ
+IBDQSY,IBDQ Systemic Score,ADIBDQ
+IBDQTOT,IBDQ Total Score,ADIBDQ
+IBDQBP,IBDQ Bowel Score (Primary ICE Approach),ADIBDQI
+IBDQEP,IBDQ Emotional Score (Primary ICE Approach),ADIBDQI
+IBDQREMP,IBDQ Remission (Primary Estimand Approach),ADIBDQI
+IBDQSFP,IBDQ Social Score (Primary ICE Approach),ADIBDQI
+IBDQSYP,IBDQ Systemic Score (Primary ICE Approach),ADIBDQI
+IBDQTOTP,IBDQ Total Score (Primary ICE Approach),ADIBDQI
+IBTOT16P,A >= 16-point improvement from baseline in the IBDQ total score (Primary Estimand Approach),ADIBDQI
+IBTOT20P,A > 20-point improvement from baseline in the IBDQ total score (Primary Estimand Approach),ADIBDQI
+ALB,Albumin (g/L),ADLB
+ALP,Alkaline Phosphatase (Enzyme U/L),ADLB
+ALT,Alanine Aminotransferase (Enzyme U/L),ADLB
+ANISO,Anisocytes,ADLB
+AST,Aspartate Aminotransferase (Enzyme U/L),ADLB
+BASO,Basophils (10^9/L),ADLB
+BASOLE,Basophils/Leukocytes (fraction of 1),ADLB
+BICARB,Bicarbonate (mmol/L),ADLB
+BILDIR,Direct Bilirubin (umol/L),ADLB
+BILI,Bilirubin (umol/L),ADLB
+BURRCE,Burr Cells,ADLB
+CA,Calcium (mmol/L),ADLB
+CACRALB,Calcium Corrected for Albumin (mmol/L),ADLB
+CHOL,Cholesterol (mmol/L),ADLB
+CK,Creatine Kinase (Enzyme U/L),ADLB
+CL,Chloride (mmol/L),ADLB
+CREAT,Creatinine (umol/L),ADLB
+ELLIPCY,Elliptocytes,ADLB
+EOS,Eosinophils (10^9/L),ADLB
+EOSLE,Eosinophils/Leukocytes (fraction of 1),ADLB
+FSH,Follicle Stimulating Hormone (IU/L),ADLB
+GFRBSCRT,GFR from Creatinine Adjusted for BSA (mL/min/1.73 m2),ADLB
+GGT,Gamma Glutamyl Transferase (Enzyme U/L),ADLB
+GLUC,Glucose (mmol/L),ADLB
+GRANIM,Immature Granulocytes,ADLB
+HCG,Choriogonadotropin Beta,ADLB
+HCT,Hematocrit (fraction of 1),ADLB
+HDL,HDL Cholesterol (mmol/L),ADLB
+HGB,Hemoglobin (g/L),ADLB
+HPOCROM,Hypochromia,ADLB
+HYLAW,Hy's Law,ADLB
+INR,Prothrombin Intl. Normalized Ratio (RATIO),ADLB
+K,Potassium (mmol/L),ADLB
+LDH,Lactate Dehydrogenase (Enzyme U/L),ADLB
+LDL,LDL Cholesterol (mmol/L),ADLB
+LIVIMP,Potential Functional Liver Impairment,ADLB
+LYM,Lymphocytes (10^9/L),ADLB
+LYMAT,Lymphocytes Atypical (10^9/L),ADLB
+LYMATLE,Lymphocytes Atypical/Leukocytes (fraction of 1),ADLB
+LYMLE,Lymphocytes/Leukocytes (fraction of 1),ADLB
+MACROCY,Macrocytes,ADLB
+MCH,Ery. Mean Corpuscular Hemoglobin (pg),ADLB
+MCV,Ery. Mean Corpuscular Volume (fL),ADLB
+MG,Magnesium (mmol/L),ADLB
+MICROCY,Microcytes,ADLB
+MONO,Monocytes (10^9/L),ADLB
+MONOLE,Monocytes/Leukocytes (fraction of 1),ADLB
+MYCY,Myelocytes (10^9/L),ADLB
+MYCYLE,Myelocytes/Leukocytes (fraction of 1),ADLB
+NEUTB,Neutrophils Band Form (10^9/L),ADLB
+NEUTBLE,Neutrophils Band Form/Leukocytes (fraction of 1),ADLB
+NEUTLE,Neutrophils/Leukocytes (fraction of 1),ADLB
+NEUTSGB,"Neutrophils, Segmented + Band Form (10^9/L)",ADLB
+PHOS,Phosphate (mmol/L),ADLB
+PLAT,Platelets (10^9/L),ADLB
+PROT,Protein (g/L),ADLB
+PT,Prothrombin Time (s),ADLB
+RBC,Erythrocytes (10^12/L),ADLB
+RBCMORPH,Erythrocyte Cell Morphology,ADLB
+RBCNURBC,Nucleated Erythrocytes/Erythrocytes (fraction of 1),ADLB
+RDW,Erythrocytes Distribution Width (RATIO),ADLB
+RETIRBC,Reticulocytes/Erythrocytes (fraction of 1),ADLB
+SCHISTO,Schistocytes,ADLB
+SODIUM,Sodium (mmol/L),ADLB
+TRIG,Triglycerides (mmol/L),ADLB
+URATE,Urate (umol/L),ADLB
+UREAN,Urea Nitrogen (mmol/L),ADLB
+WBC,Leukocytes (10^9/L),ADLB
+CAL100,Fecal Calprotectin Absolute Value <=100,ADLBI
+CAL100P,Fecal Calprotectin Absolute Value <=100 (Primary Estimand Approach),ADLBI
+CAL50,Fecal Calprotectin Absolute Value <=50,ADLBI
+CAL50P,Fecal Calprotectin Absolute Value <=50 (Primary Estimand Approach),ADLBI
+CALNRM,Fecal Calprotectin <=250,ADLBI
+CALNRMP,Fecal Calprotectin <=250 (Primary Estimand Approach),ADLBI
+CALPRO,Fecal Calprotectin (mg/kg),ADLBI
+CALPROP,Fecal Calprotectin (mg/kg) (Primary ICE Approach),ADLBI
+CRP,C-Reactive Protein (mg/L),ADLBI
+CRPNRM,C-Reactive Protein <=3,ADLBI
+CRPNRMP,C-Reactive Protein <=3 (Primary Estimand Approach),ADLBI
+CRPP,C-Reactive Protein (mg/L) (Primary ICE Approach),ADLBI
+LCALPRO,Fecal Calprotectin (mg/kg) Log,ADLBI
+LCALPROP,Fecal Calprotectin (mg/kg) Log (Primary ICE Approach),ADLBI
+LCRP,C-Reactive Protein (mg/L) Log,ADLBI
+LCRPP,C-Reactive Protein (mg/L) Log (Primary ICE Approach),ADLBI
+ALBL,Hypoalbuminemia,ADLBTOX
+ALPH,Alkaline Phosphatase Increased,ADLBTOX
+ALTH,Alanine Aminotransferase Increased,ADLBTOX
+ASTH,Aspartate Aminotransferase Increased,ADLBTOX
+BILIH,Blood Bilirubin Increased,ADLBTOX
+CACRALBH,Hypercalcemia,ADLBTOX
+CACRALBL,Hypocalcemia,ADLBTOX
+CHOLH,Cholesterol High,ADLBTOX
+CKH,CPK Increased,ADLBTOX
+CREATH,Creatinine Increased,ADLBTOX
+GGTH,GGT Increased,ADLBTOX
+GLUCL,Hypoglycemia,ADLBTOX
+HGBH,Hemoglobin Increased,ADLBTOX
+HGBL,Anemia,ADLBTOX
+KH,Hyperkalemia,ADLBTOX
+KL,Hypokalemia,ADLBTOX
+LYMH,Lymphocyte Count Increased,ADLBTOX
+LYML,Lymphocyte Count Decreased,ADLBTOX
+MGH,Hypermagnesemia,ADLBTOX
+MGL,Hypomagnesemia,ADLBTOX
+NEUTSGBL,Neutrophil Count Decreased,ADLBTOX
+PLATL,Platelet Count Decreased,ADLBTOX
+SODIUMH,Hypernatremia,ADLBTOX
+SODIUML,Hyponatremia,ADLBTOX
+TRIGH,Hypertriglyceridemia,ADLBTOX
+WBCH,Leukocytosis,ADLBTOX
+WBCL,White Blood Cell Decreased,ADLBTOX
+ASTOOL,Absolute Number of Stools,ADMAYO
+ASTOOLAL,Absolute Number of Stools (Alternative Eligible Days),ADMAYO
+CREM,Clinical Remission,ADMAYO
+CREMA1,Clinical Remission (Alternative Definition 1),ADMAYO
+CREMA2,Clinical Remission (Alternative Definition 2),ADMAYO
+CREMAL,Clinical Remission (Alternative Eligible Days),ADMAYO
+CRESP,Clinical Response,ADMAYO
+CRESPAL,Clinical Response (Alternative Eligible Days),ADMAYO
+DRBLEED,Daily Amount of Blood in Stool,ADMAYO
+DSTOOL,Daily Number of Stools,ADMAYO
+ENASCOR,Endoscopy Adjudicated Score,ADMAYO
+ENCSCOR,Endoscopy Central Score,ADMAYO
+ENFSCOR,Endoscopy Final Score,ADMAYO
+ENFSCORI,Final Endoscopy Subscore (Mayo Worksheet),ADMAYO
+ENIMP,Endoscopic Improvement,ADMAYO
+ENLSCOR,Endoscopy Local Score,ADMAYO
+ENREM,Endoscopic Remission,ADMAYO
+FMAYO,Full Mayo Score,ADMAYO
+FMAYOAL,Full Mayo Score (Alternative Eligible Days),ADMAYO
+MFMAYO,Number of Missing Observations for Full Mayo Score,ADMAYO
+MFMAYOAL,Number of Missing Observations for Full Mayo Score (Alternative Eligible Days),ADMAYO
+MMAYO,Modified Mayo Score,ADMAYO
+MMAYOAL,Modified Mayo Score (Alternative Eligible Days),ADMAYO
+MMMAYO,Number of Missing Observations for Modified Mayo Score,ADMAYO
+MMMAYOAL,Number of Missing Observations for Modified Mayo Score (Alternative Eligible Days),ADMAYO
+MPMAYO,Number of Missing Observations for Partial Mayo Score,ADMAYO
+MPMAYOAL,Number of Missing Observations for Partial Mayo Score (Alternative Eligible Days),ADMAYO
+NFMAYO,Number of Non-missing Observations for Full Mayo Score,ADMAYO
+NFMAYOAL,Number of Non-missing Observations for Full Mayo Score (Alternative Eligible Days),ADMAYO
+NMMAYO,Number of Non-missing Observations for Modified Mayo Score,ADMAYO
+NMMAYOAL,Number of Non-missing Observations for Modified Mayo Score (Alternative Eligible Days),ADMAYO
+NPMAYO,Number of Non-missing Observations for Partial Mayo Score,ADMAYO
+NPMAYOAL,Number of Non-missing Observations for Partial Mayo Score (Alternative Eligible Days),ADMAYO
+PGSCOR,Physician Global Assessment Score (Mayo Worksheet),ADMAYO
+PMAYO,Partial Mayo Score,ADMAYO
+PMAYOAL,Partial Mayo Score (Alternative Eligible Days),ADMAYO
+RBSCOR,Rectal Bleeding Subscore,ADMAYO
+RBSCOR0,Rectal Bleeding Subscore of 0,ADMAYO
+RBSCORAL,Rectal Bleeding Subscore (Alternative Eligible Days),ADMAYO
+RBSCORI,Rectal Bleeding Subscore (Mayo Worksheet),ADMAYO
+SFSCOR,Stool Frequency Subscore,ADMAYO
+SFSCOR0,Stool Frequency Subscore of 0,ADMAYO
+SFSCOR01,Stool Frequency Subscore of 0 or 1,ADMAYO
+SFSCORAL,Stool Frequency Subscore (Alternative Eligible Days),ADMAYO
+SFSCORI,Stool Frequency Subscore (Mayo Worksheet),ADMAYO
+SREM,Symptomatic Remission,ADMAYO
+SREMA1,Symptomatic Remission (Alternative Definition 1),ADMAYO
+SREMA2,Symptomatic Remission (Alternative Definition 2),ADMAYO
+SREMAL,Symptomatic Remission (Alternative Eligible Days),ADMAYO
+STOOL0,Number Stools Prior to UC or When in Rem.,ADMAYO
+ASTOOL,Absolute Number of Stools,ADMAYOI
+ASTOOLAL,Absolute Number of Stools (Alternative Eligible Days),ADMAYOI
+CREM,Clinical Remission,ADMAYOI
+CREMA1,Clinical Remission (Alternative Definition 1),ADMAYOI
+CREMA2,Clinical Remission (Alternative Definition 2),ADMAYOI
+CREMAL,Clinical Remission (Alternative Eligible Days),ADMAYOI
+CRESP,Clinical Response,ADMAYOI
+CRESPAL,Clinical Response (Alternative Eligible Days),ADMAYOI
+ENFSCOR,Endoscopy Final Score,ADMAYOI
+ENIMP,Endoscopic Improvement,ADMAYOI
+ENREM,Endoscopic Remission,ADMAYOI
+FMAYO,Full Mayo Score,ADMAYOI
+FMAYOAL,Full Mayo Score (Alternative Eligible Days),ADMAYOI
+MMAYO,Modified Mayo Score,ADMAYOI
+MMAYOAL,Modified Mayo Score (Alternative Eligible Days),ADMAYOI
+PGSCOR,Physician Global Assessment Score (Mayo Worksheet),ADMAYOI
+PMAYO,Partial Mayo Score,ADMAYOI
+PMAYOAL,Partial Mayo Score (Alternative Eligible Days),ADMAYOI
+RBSCOR,Rectal Bleeding Subscore,ADMAYOI
+RBSCOR0,Rectal Bleeding Subscore of 0,ADMAYOI
+RBSCORAL,Rectal Bleeding Subscore (Alternative Eligible Days),ADMAYOI
+SFSCOR,Stool Frequency Subscore,ADMAYOI
+SFSCOR0,Stool Frequency Subscore of 0,ADMAYOI
+SFSCOR01,Stool Frequency Subscore of 0 or 1,ADMAYOI
+SFSCORAL,Stool Frequency Subscore (Alternative Eligible Days),ADMAYOI
+SREM,Symptomatic Remission,ADMAYOI
+SREMA1,Symptomatic Remission (Alternative Definition 1),ADMAYOI
+SREMA2,Symptomatic Remission (Alternative Definition 2),ADMAYOI
+SREMAL,Symptomatic Remission (Alternative Eligible Days),ADMAYOI
+CRESP,Clinical Response,ADMAYOMI
+ENFSCOR,Endoscopy Final Score,ADMAYOMI
+FMAYO,Full Mayo Score,ADMAYOMI
+MMAYO,Modified Mayo Score,ADMAYOMI
+PGSCOR,Physician Global Assessment Score (Mayo Worksheet),ADMAYOMI
+PMAYO,Partial Mayo Score,ADMAYOMI
+RBSCOR,Rectal Bleeding Subscore,ADMAYOMI
+SFSCOR,Stool Frequency Subscore,ADMAYOMI
+G2113F,Fecal JNJ-77242113 (ug/g),ADPC
+G2113P,Plasma JNJ-77242113 (ng/mL),ADPC
+P9ANX,PROMIS29 Anxiety T-score,ADPR29
+P9DEPRES,PROMIS29 Depression T-score,ADPR29
+P9FATIG,PROMIS29 Fatigue T-score,ADPR29
+P9MCST,PROMIS29 Mental Component T-score,ADPR29
+P9MCSZ,PROMIS29 Mental Component Z-score,ADPR29
+P9PCST,PROMIS29 Physical Component T-score,ADPR29
+P9PCSZ,PROMIS29 Physical Component Z-score,ADPR29
+P9PHYS,PROMIS29 Physical Function T-score,ADPR29
+P9PNINF,PROMIS29 Pain Interference T-score,ADPR29
+P9PNINT,PROMIS29 Pain Intensity,ADPR29
+P9SLEEP,PROMIS29 Sleep Disturbance T-score,ADPR29
+P9SOCIAL,PROMIS29 Social Roles and Activ T-score,ADPR29
+PROM0201,Able to Do Chores,ADPR29
+PROM0202,"Go Up, Down Stairs, Normal Pace",ADPR29
+PROM0203,Go for Walk of At Least 15 Min,ADPR29
+PROM0204,Able to Run Errands and Shop,ADPR29
+PROM0205,Felt Fearful,ADPR29
+PROM0206,Hard to Focus on Anything,ADPR29
+PROM0207,Worries Overwhelmed,ADPR29
+PROM0208,Felt Uneasy,ADPR29
+PROM0209,Felt Worthless,ADPR29
+PROM0210,Felt Helpless,ADPR29
+PROM0211,Felt Depressed,ADPR29
+PROM0212,Felt Hopeless,ADPR29
+PROM0213,Feel Fatigued,ADPR29
+PROM0214,Trouble Starting Things,ADPR29
+PROM0215,"How Run-Down, Average",ADPR29
+PROM0216,"How Fatigued, Average",ADPR29
+PROM0217,Sleep Quality,ADPR29
+PROM0218,Sleep Was Refreshing,ADPR29
+PROM0219,Problem with Sleep,ADPR29
+PROM0220,Difficulty Falling Asleep,ADPR29
+PROM0221,Trouble Doing Leisure Activities,ADPR29
+PROM0222,Trouble Doing Family Activities,ADPR29
+PROM0223,Trouble Doing Usual Work,ADPR29
+PROM0224,Trouble Doing Friend Activities,ADPR29
+PROM0225,Day to Day Activities,ADPR29
+PROM0226,Work Around the Home,ADPR29
+PROM0227,Participate in Social Activities,ADPR29
+PROM0228,Household Chores,ADPR29
+PROM0229,Pain on Average,ADPR29
+P9ANXP,PROMIS29 Anxiety T-score (Primary ICE Approach),ADPR29I
+P9DEPRP,PROMIS29 Depression T-score (Primary ICE Approach),ADPR29I
+P9FATIGP,PROMIS29 Fatigue T-score (Primary ICE Approach),ADPR29I
+P9MCSTP,PROMIS29 Mental Component T-score (Primary ICE Approach),ADPR29I
+P9PCSTP,PROMIS29 Physical Component T-score (Primary ICE Approach),ADPR29I
+P9PHYSP,PROMIS29 Physical Function T-score (Primary ICE Approach),ADPR29I
+P9PINFP,PROMIS29 Pain Interference T-score (Primary ICE Approach),ADPR29I
+P9PINTP,PROMIS29 Pain Intensity (Primary ICE Approach),ADPR29I
+P9SLEEPP,PROMIS29 Sleep Disturbance T-score (Primary ICE Approach),ADPR29I
+P9SOCAP,PROMIS29 Social Roles and Activ T-score (Primary ICE Approach),ADPR29I
+PANX5P,A >= 5-point improvement from baseline in the PROMIS29 Anxiety T-score (Primary Estimand Approach),ADPR29I
+PANX7P,A >= 7-point improvement from baseline in the PROMIS29 Anxiety T-score (Primary Estimand Approach),ADPR29I
+PDEPR5P,A >= 5-point improvement from baseline in the PROMIS29 Depression T-score (Primary Estimand Approach),ADPR29I
+PDEPR7P,A >= 7-point improvement from baseline in the PROMIS29 Depression T-score (Primary Estimand Approach),ADPR29I
+PFATIG5P,A >= 5-point improvement from baseline in the PROMIS29 Fatigue T-score (Primary Estimand Approach),ADPR29I
+PFATIG7P,A >= 7-point improvement from baseline in the PROMIS29 Fatigue T-score (Primary Estimand Approach),ADPR29I
+PMCST5P,A >= 5-point improvement from baseline in the PROMIS29 Mental Component T-score (Primary Estimand Approach),ADPR29I
+PMCST7P,A >= 7-point improvement from baseline in the PROMIS29 Mental Component T-score (Primary Estimand Approach),ADPR29I
+PPCST5P,A >= 5-point improvement from baseline in the PROMIS29 Physical Component T-score (Primary Estimand Approach),ADPR29I
+PPCST7P,A >= 7-point improvement from baseline in the PROMIS29 Physical Component T-score (Primary Estimand Approach),ADPR29I
+PPHYS5P,A >= 5-point improvement from baseline in the PROMIS29 Physical Function T-score (Primary Estimand Approach),ADPR29I
+PPHYS7P,A >= 7-point improvement from baseline in the PROMIS29 Physical Function T-score (Primary Estimand Approach),ADPR29I
+PPINF5P,A >= 5-point improvement from baseline in the PROMIS29 Pain Interference T-score (Primary Estimand Approach),ADPR29I
+PPINF7P,A >= 7-point improvement from baseline in the PROMIS29 Pain Interference T-score (Primary Estimand Approach),ADPR29I
+PPINT33P,A >= 3-point improvement from baseline in the PROMIS29 Pain Intensity among participant with pain intensity >=3 at baseline (Primary Estimand Approach),ADPR29I
+PPINT3P,A >= 3-point improvement from baseline in the PROMIS29 Pain Intensity (Primary Estimand Approach),ADPR29I
+PPINT5P,A >= 5-point improvement from baseline in the PROMIS29 Pain Intensity (Primary Estimand Approach),ADPR29I
+PPINT7P,A >= 7-point improvement from baseline in the PROMIS29 Pain Intensity (Primary Estimand Approach),ADPR29I
+PSLEEP5P,A >= 5-point improvement from baseline in the PROMIS29 Sleep Disturbance T-score (Primary Estimand Approach),ADPR29I
+PSLEEP7P,A >= 7-point improvement from baseline in the PROMIS29 Sleep Disturbance T-score (Primary Estimand Approach),ADPR29I
+PSOCA5P,A >= 5-point improvement from baseline in the PROMIS29 Social Roles and Activ T-score (Primary Estimand Approach),ADPR29I
+PSOCA7P,A >= 7-point improvement from baseline in the PROMIS29 Social Roles and Activ T-score (Primary Estimand Approach),ADPR29I
+DURFUP,Duration of follow-up (weeks),ADSAF
+TSQM9101,Ability of the medication to prevent or treat condition,ADTSQM
+TSQM9102,Medication relieves symptoms,ADTSQM
+TSQM9103,Amount of time it takes the medication to start working,ADTSQM
+TSQM9104,Easy or difficult is it to use the medication in its current form,ADTSQM
+TSQM9105,Easy or difficult is it to plan use the medication each time,ADTSQM
+TSQM9106,Convenient or inconvenient is it to take the medication as instructed,ADTSQM
+TSQM9107,Confident taking this medication is a good thing,ADTSQM
+TSQM9108,"Certain, good things medication outweigh the bad things",ADTSQM
+TSQM9109,Overall,ADTSQM
+TSQMC,TSQM Convenience,ADTSQM
+TSQME,TSQM Effectiveness,ADTSQM
+TSQMG,TSQM Global Satisfaction Scale,ADTSQM
+TSQMCP,TSQM Convenience (Primary ICE Approach),ADTSQMI
+TSQMEP,TSQM Effectiveness (Primary ICE Approach),ADTSQMI
+TSQMGP,TSQM Global Satisfaction Scale (Primary ICE Approach),ADTSQMI
+UC901A,How Many Bowel Movements (Weekly Average),ADUCPRO
+UC901AA,How Many Bowel Movements (Alternative Definition),ADUCPRO
+UC901D,How Many Bowel Movements (Daily),ADUCPRO
+UC902A,Liquid Bowel Movements (Weekly Average),ADUCPRO
+UC902AA,Liquid Bowel Movements (Alternative Definition),ADUCPRO
+UC902D,Liquid Bowel Movements (Daily),ADUCPRO
+UC903A,Blood in Bowel Movements (Weekly Average),ADUCPRO
+UC903AA,Blood in Bowel Movements (Alternative Definition),ADUCPRO
+UC903D,Blood in Bowel Movements (Daily),ADUCPRO
+UC904A,Mucus in Bowel Movements (Weekly Average),ADUCPRO
+UC904AA,Mucus in Bowel Movements (Alternative Definition),ADUCPRO
+UC904D,Mucus in Bowel Movements (Daily),ADUCPRO
+UC905A,"Stool, Blood, Liquid leakage (Weekly Average)",ADUCPRO
+UC905AA,"Stool, Blood, Liquid leakage (Alternative Definition)",ADUCPRO
+UC905D,"Stool, Blood, Liquid leakage (Daily)",ADUCPRO
+UC906A,Pass Gas (Weekly Average),ADUCPRO
+UC906AA,Pass Gas (Alternative Definition),ADUCPRO
+UC906D,Pass Gas (Daily),ADUCPRO
+UC907A,Bowel Urgency (Weekly Average),ADUCPRO
+UC907AA,Bowel Urgency (Alternative Definition),ADUCPRO
+UC907D,Bowel Urgency (Daily),ADUCPRO
+UC908A,Abdominal Pain (Weekly Average),ADUCPRO
+UC908AA,Abdominal Pain (Alternative Definition),ADUCPRO
+UC908D,Abdominal Pain (Daily),ADUCPRO
+UC909A,Bloating in Belly (Weekly Average),ADUCPRO
+UC909AA,Bloating in Belly (Alternative Definition),ADUCPRO
+UC909D,Bloating in Belly (Daily),ADUCPRO
+UCBS,Bowel Signs and Symptoms Domain Score,ADUCPRO
+UCBS5,Bowel Signs and Symptoms Domain Score >= 5 Pt Improvement from Baseline,ADUCPRO
+UCFS,Functional Symptoms Domain Score,ADUCPRO
+UCFS15,Functional Symptoms Domain Score >= 1.5 Pt Improvement from Baseline,ADUCPRO
+UCINC0,No Incontinence,ADUCPRO
+UCINC00,Resolution of Incontinence,ADUCPRO
+UCINC00A,Resolution of Incontinence (Alternative Definition),ADUCPRO
+UCINC0A,No Incontinence (Alternative Definition),ADUCPRO
+UCPAN0,No Abdominal Pain,ADUCPRO
+UCPAN00,Resolution of Abdominal Pain,ADUCPRO
+UCPAN00A,Resolution of Abdominal Pain (Alternative Definition),ADUCPRO
+UCPAN0A,No Abdominal Pain (Alternative Definition),ADUCPRO
+UCURG0,No Bowel Urgency,ADUCPRO
+UCURG00,Resolution of Bowel Urgency,ADUCPRO
+UCURG00A,Resolution of Bowel Urgency (Alternative Definition),ADUCPRO
+UCURG0A,No Bowel Urgency (Alternative Definition),ADUCPRO
+UCURG1,Bowel Urgency >=1 Pt Improvement from Baseline,ADUCPRO
+UCURG2,Bowel Urgency >=2 Pt Improvement from Baseline,ADUCPRO
+UC901A,How Many Bowel Movements (Weekly Average),ADUCPROI
+UC901AA,How Many Bowel Movements (Alternative Definition),ADUCPROI
+UC902A,Liquid Bowel Movements (Weekly Average),ADUCPROI
+UC902AA,Liquid Bowel Movements (Alternative Definition),ADUCPROI
+UC903A,Blood in Bowel Movements (Weekly Average),ADUCPROI
+UC903AA,Blood in Bowel Movements (Alternative Definition),ADUCPROI
+UC904A,Mucus in Bowel Movements (Weekly Average),ADUCPROI
+UC904AA,Mucus in Bowel Movements (Alternative Definition),ADUCPROI
+UC905A,"Stool, Blood, Liquid leakage (Weekly Average)",ADUCPROI
+UC905AA,"Stool, Blood, Liquid leakage (Alternative Definition)",ADUCPROI
+UC906A,Pass Gas (Weekly Average),ADUCPROI
+UC906AA,Pass Gas (Alternative Definition),ADUCPROI
+UC907A,Bowel Urgency (Weekly Average),ADUCPROI
+UC907AA,Bowel Urgency (Alternative Definition),ADUCPROI
+UC908A,Abdominal Pain (Weekly Average),ADUCPROI
+UC908AA,Abdominal Pain (Alternative Definition),ADUCPROI
+UC909A,Bloating in Belly (Weekly Average),ADUCPROI
+UC909AA,Bloating in Belly (Alternative Definition),ADUCPROI
+UCBS,Bowel Signs and Symptoms Domain Score,ADUCPROI
+UCBS5,Bowel Signs and Symptoms Domain Score >= 5 Pt Improvement from Baseline,ADUCPROI
+UCFS,Functional Symptoms Domain Score,ADUCPROI
+UCFS15,Functional Symptoms Domain Score >= 1.5 Pt Improvement from Baseline,ADUCPROI
+UCINC0,No Incontinence,ADUCPROI
+UCINC00,Resolution of Incontinence,ADUCPROI
+UCINC00A,Resolution of Incontinence (Alternative Definition),ADUCPROI
+UCINC0A,No Incontinence (Alternative Definition),ADUCPROI
+UCPAN0,No Abdominal Pain,ADUCPROI
+UCPAN00,Resolution of Abdominal Pain,ADUCPROI
+UCPAN00A,Resolution of Abdominal Pain (Alternative Definition),ADUCPROI
+UCPAN0A,No Abdominal Pain (Alternative Definition),ADUCPROI
+UCURG0,No Bowel Urgency,ADUCPROI
+UCURG00,Resolution of Bowel Urgency,ADUCPROI
+UCURG00A,Resolution of Bowel Urgency (Alternative Definition),ADUCPROI
+UCURG0A,No Bowel Urgency (Alternative Definition),ADUCPROI
+UCURG1,Bowel Urgency >=1 Pt Improvement from Baseline,ADUCPROI
+UCURG2,Bowel Urgency >=2 Pt Improvement from Baseline,ADUCPROI
+NBIOFAIL,"Number of biologics with primary nonresponse, secondary nonresponse, or intolerance",ADADT
+NBIOINTL,Number of biologics with intolerance,ADADT
+NBIOPNR,Number of biologics with primary nonresponse,ADADT
+NBIOSNR,Number of biologics with secondary nonresponse,ADADT
+BWSAC,Ascending Colon Bowel Wall Stratification,ADIUS
+BWSDC,Descending Colon Bowel Wall Stratification,ADIUS
+BWSSC,Sigmoid Colon Bowel Wall Stratification,ADIUS
+BWSTC,Transverse Colon Bowel Wall Stratification,ADIUS
+BWTACC1,Ascending Colon Bowel Wall Thickness: Cross-Section 1 (mm),ADIUS
+BWTACC2,Ascending Colon Bowel Wall Thickness: Cross-Section 2 (mm),ADIUS
+BWTACL1,Ascending Colon Bowel Wall Thickness: Longitudinal 1 (mm),ADIUS
+BWTACL2,Ascending Colon Bowel Wall Thickness: Longitudinal 2 (mm),ADIUS
+BWTACM,Ascending Colon Bowel Wall Thickness Mean,ADIUS
+BWTDCC1,Descending Colon Bowel Wall Thickness: Cross-Section 1 (mm),ADIUS
+BWTDCC2,Descending Colon Bowel Wall Thickness: Cross-Section 2 (mm),ADIUS
+BWTDCL1,Descending Colon Bowel Wall Thickness: Longitudinal 1 (mm),ADIUS
+BWTDCL2,Descending Colon Bowel Wall Thickness: Longitudinal 2 (mm),ADIUS
+BWTDCM,Descending Colon Bowel Wall Thickness Mean,ADIUS
+BWTPAT,Pathologic BWT (colon >3mm),ADIUS
+BWTSCC1,Sigmoid Colon Bowel Wall Thickness: Cross-Section 1 (mm),ADIUS
+BWTSCC2,Sigmoid Colon Bowel Wall Thickness: Cross-Section 2 (mm),ADIUS
+BWTSCL1,Sigmoid Colon Bowel Wall Thickness: Longitudinal 1 (mm),ADIUS
+BWTSCL2,Sigmoid Colon Bowel Wall Thickness: Longitudinal 2 (mm),ADIUS
+BWTSCM,Sigmoid Colon Bowel Wall Thickness Mean,ADIUS
+BWTTCC1,Transverse Colon Bowel Wall Thickness: Cross-Section 1 (mm),ADIUS
+BWTTCC2,Transverse Colon Bowel Wall Thickness: Cross-Section 2 (mm),ADIUS
+BWTTCL1,Transverse Colon Bowel Wall Thickness: Longitudinal 1 (mm),ADIUS
+BWTTCL2,Transverse Colon Bowel Wall Thickness: Longitudinal 2 (mm),ADIUS
+BWTTCM,Transverse Colon Bowel Wall Thickness Mean,ADIUS
+CDSAC,Ascending Colon Color Doppler Signal,ADIUS
+CDSDC,Descending Colon Color Doppler Signal,ADIUS
+CDSSC,Sigmoid Colon Color Doppler Signal,ADIUS
+CDSTC,Transverse Colon Color Doppler Signal,ADIUS
+HAUAC,Ascending Colon Haustration,ADIUS
+HAUDC,Descending Colon Haustration,ADIUS
+HAUSC,Sigmoid Colon Haustration,ADIUS
+HAUTC,Transverse Colon Haustration,ADIUS
+IFATAC,Ascending Colon Inflammatory Mesenteric Fat,ADIUS
+IFATDC,Descending Colon Inflammatory Mesenteric Fat,ADIUS
+IFATSC,Sigmoid Colon Inflammatory Mesenteric Fat,ADIUS
+IFATTC,Transverse Colon Inflammatory Mesenteric Fat,ADIUS
+IUSREM,IUS Remission,ADIUS
+IUSRES,IUS Response,ADIUS
+BWTPAT,Pathologic BWT (colon >3mm),ADIUSI
+IUSREM,IUS Remission,ADIUSI
+IUSRES,IUS Response,ADIUSI
+CAL150,Fecal Calprotectin Absolute Value <=150,ADLBI
+CAL150P,Fecal Calprotectin Absolute Value <=150 (Primary Estimand Approach),ADLBI
+CS1CREM,Corticosteroid-free Remission (Alternative Definition),ADMAYOI
+CSCREM,Corticosteroid-free Remission,ADMAYOI
+IBDQB,IBDQ Bowel Score,ADIBDQI
+IBDQE,IBDQ Emotional Score,ADIBDQI
+IBDQREM,IBDQ Remission (Primary Estimand Approach),ADIBDQI
+IBDQSF,IBDQ Social Score,ADIBDQI
+IBDQSY,IBDQ Systemic Score,ADIBDQI
+IBDQTOT,IBDQ Total Score,ADIBDQI
+IBTOT16,A >= 16-point improvement from baseline in the IBDQ total score (Primary Estimand Approach),ADIBDQI
+IBTOT20,A > 20-point improvement from baseline in the IBDQ total score (Primary Estimand Approach),ADIBDQI
+POIKILO,Poikilocytes,ADLB
+INRH,INR Increased,ADLBTOX
+CS1CREM,Corticosteroid-free Remission (Alternative Definition),ADMAYO
+CSCREM,Corticosteroid-free Remission,ADMAYO
+P9ANX,PROMIS29 Anxiety T-score,ADPR29I
+P9ANX5,A >= 5-point improvement from baseline in the PROMIS29 Anxiety T-score,ADPR29I
+P9ANX7,A >= 7-point improvement from baseline in the PROMIS29 Anxiety T-score,ADPR29I
+P9DEPRE5,A >= 5-point improvement from baseline in the PROMIS29 Depression T-score,ADPR29I
+P9DEPRE7,A >= 7-point improvement from baseline in the PROMIS29 Depression T-score,ADPR29I
+P9DEPRES,PROMIS29 Depression T-score,ADPR29I
+P9FATIG,PROMIS29 Fatigue T-score,ADPR29I
+P9FATIG5,A >= 5-point improvement from baseline in the PROMIS29 Fatigue T-score,ADPR29I
+P9FATIG7,A >= 7-point improvement from baseline in the PROMIS29 Fatigue T-score,ADPR29I
+P9MCST,PROMIS29 Mental Component T-score,ADPR29I
+P9MCST5,A >= 5-point improvement from baseline in the PROMIS29 Mental Component T-score,ADPR29I
+P9MCST7,A >= 7-point improvement from baseline in the PROMIS29 Mental Component T-score,ADPR29I
+P9PCST,PROMIS29 Physical Component T-score,ADPR29I
+P9PCST5,A >= 5-point improvement from baseline in the PROMIS29 Physical Component T-score,ADPR29I
+P9PCST7,A >= 7-point improvement from baseline in the PROMIS29 Physical Component T-score,ADPR29I
+P9PHYS,PROMIS29 Physical Function T-score,ADPR29I
+P9PHYS5,A >= 5-point improvement from baseline in the PROMIS29 Physical Function T-score,ADPR29I
+P9PHYS7,A >= 7-point improvement from baseline in the PROMIS29 Physical Function T-score,ADPR29I
+P9PINT3,A >= 3-point improvement from baseline in the PROMIS29 Pain Intensity,ADPR29I
+P9PINT33,A >= 3-point improvement from baseline in the PROMIS29 Pain Intensity among participant with pain intensity >=3 at baseline,ADPR29I
+P9PNINF,PROMIS29 Pain Interference T-score,ADPR29I
+P9PNINF5,A >= 5-point improvement from baseline in the PROMIS29 Pain Interference T-score,ADPR29I
+P9PNINF7,A >= 7-point improvement from baseline in the PROMIS29 Pain Interference T-score,ADPR29I
+P9PNINT,PROMIS29 Pain Intensity,ADPR29I
+P9SLEEP,PROMIS29 Sleep Disturbance T-score,ADPR29I
+P9SLEEP5,A >= 5-point improvement from baseline in the PROMIS29 Sleep Disturbance T-score,ADPR29I
+P9SLEEP7,A >= 7-point improvement from baseline in the PROMIS29 Sleep Disturbance T-score,ADPR29I
+P9SOCIA5,A >= 5-point improvement from baseline in the PROMIS29 Social Roles and Activ T-score,ADPR29I
+P9SOCIA7,A >= 7-point improvement from baseline in the PROMIS29 Social Roles and Activ T-score,ADPR29I
+P9SOCIAL,PROMIS29 Social Roles and Activ T-score,ADPR29I
+DIABP,Diastolic Blood Pressure (mmHg),ADVS
+PULSE,Pulse Rate (BEATS/MIN),ADVS
+SYSBP,Systolic Blood Pressure (mmHg),ADVS
+TEMP,Temperature (C),ADVS
+WEIGHT,Weight (kg),ADVS
+CORTD,"Average Daily Prednisone-equivalent Corticosteroid Dose (exc Budesonide, Beclomethasone diproprionate)",ADVSCORT
