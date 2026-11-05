@@ -1,0 +1,598 @@
+﻿PARAMCD,PARAM,SOURCE
+ASABL,Baseline Aminosalicylates (5-ASA) Use,ADBDC
+BL5ASA,Oral 5-aminosalicylic acid [5-ASA] compounds,ADBDC
+BLCORT,Oral corticosteroids including budesonide and beclomethasone dipropionate,ADBDC
+BUDEBL,Baseline Budesonide Use,ADBDC
+CALPRO,Fecal Calprotectin (mg/kg),ADBDC
+CORTBL,Baseline Corticosteroid Use,ADBDC
+CORTEXBL,Baseline Corticosteroid Use (Excluding budesonide and beclomethasone dipropionate),ADBDC
+CRP,C Reactive Protein (mg/L),ADBDC
+CSDEP,Dependent on oral or IV corticosteroids,ADBDC
+CSIMM,"Refractory, dependent or intolerant to oral or IV corticosteroids, and refractory or intolerant to 6-MP/AZA",ADBDC
+CSINT,Intolerant to oral or IV corticosteroids,ADBDC
+CSRDI,"Refractory, dependent or intolerant to oral or IV corticosteroids",ADBDC
+CSREF,Refractory to oral or IV corticosteroids,ADBDC
+CSRNOIMM,"Refractory, dependent, or intolerant to oral or IV corticosteroids, but not refractory or intolerant to 6-MP/AZA",ADBDC
+DEXABL,Baseline Dexamethasone Use,ADBDC
+DISDURN,Disease Duration (yrs),ADBDC
+ENSCORE,Endoscopy Final Score,ADBDC
+EXTENT,Extent of Disease (limited/extensive),ADBDC
+IMMINT,Intolerant to 6-MP/AZA,ADBDC
+IMMREF,Refractory to 6-MP/AZA,ADBDC
+IMMRI,Refractory or intolerant to 6-MP/AZA,ADBDC
+MAYO,Mayo Score,ADBDC
+MESA1,Baseline Mesalamine (5-ASA) Use,ADBDC
+MESA2,Baseline Mesalazine (5-ASA) Use,ADBDC
+MESA3,Baseline Sulfasalazine (5-ASA) Use,ADBDC
+METHBL,Baseline Methylprednisolone Use,ADBDC
+PMAYO,Partial Mayo Score,ADBDC
+PREDBL,Baseline Prednisone Use,ADBDC
+PREDLBL,Baseline Prednisolone Use,ADBDC
+RBSCORE,Rectal Bleeding Score,ADBDC
+SFSCORE,Stool Frequency Score,ADBDC
+TOFAEXP,Tofacitinib experienced,ADBDC
+TOFARI,Refractory or intolerant to Tofacitinib,ADBDC
+VEDOEXP,Vedolizumab experienced,ADBDC
+VEDORI,Refractory or intolerant to Vedolizumab,ADBDC
+BSF567E1,"Average Number of BSFS type-5,6 or 7 Stools per day (Estimand 1)",ADBSFS
+BSF567O,"Average Number of BSFS type-5,6 or 7 Stools per day (Observed)",ADBSFS
+BSF67E1,Average Number of BSFS type-6 or 7 Stools per day (Estimand 1),ADBSFS
+BSF67O,Average Number of BSFS type-6 or 7 Stools per day (Observed),ADBSFS
+RE567E1,"Reduction of at least two in BSFS Type 5, 6 or 7 Stools (Estimand 1)",ADBSFS
+RE567E1M,"Reduction of at least two in BSFS Type 5, 6 or 7 Stools (Estimand 1/Missing as NR)",ADBSFS
+RE567O,"Reduction of at least two in BSFS Type 5, 6 or 7 Stools (Observed)",ADBSFS
+RE67E1,Reduction of at least two in BSFS Type 6 or 7 Stools (Estimand 1),ADBSFS
+RE67E1M,Reduction of at least two in BSFS Type 6 or 7 Stools (Estimand 1/Missing as NR),ADBSFS
+RE67O,Reduction of at least two in BSFS Type 6 or 7 Stools (Observed),ADBSFS
+AMINOMED,Aminosalicylates Prior Use,ADCMDUR
+AMINOSAL,Aminosalicylates Time Taken,ADCMDUR
+ANTIBMED,Antibiotics Prior Use,ADCMDUR
+AZATHIOP,Azathioprine Time Taken,ADCMDUR
+BALSALAZ,Balsalazide Time Taken,ADCMDUR
+BECLOMET,Beclomethasone Time Taken,ADCMDUR
+BUDESONI,Budesonide Time Taken,ADCMDUR
+CIPROFLO,Ciprofloxacin Time Taken,ADCMDUR
+CORTICO,Corticosteroids (Excluding Budesonide) Time Taken,ADCMDUR
+CORTMED,Corticosteroid Prior Use,ADCMDUR
+CYCLOSPO,Cyclosporine Time Taken,ADCMDUR
+IMMUMED,Immunomodulatory Agents Prior Use,ADCMDUR
+MESALAMI,Mesalamine Time Taken,ADCMDUR
+METHOTRE,Methotrexate Time Taken,ADCMDUR
+METRONID,Metronidazole Time Taken,ADCMDUR
+MYCOPHEN,Mycophenolate Mofetil Time Taken,ADCMDUR
+OLSALAZI,Olsalazine Time Taken,ADCMDUR
+RIFAXIMI,Rifaximin Time Taken,ADCMDUR
+SIROLIMU,Sirolimus Time Taken,ADCMDUR
+SIX_MP,6-Mercaptopurine Time Taken,ADCMDUR
+SULFASAL,Sulfasalazine Time Taken,ADCMDUR
+TACROLIM,Tacrolimus Time Taken,ADCMDUR
+TOFACIPU,Tofacitinib Prior Use,ADCMDUR
+TOFACITI,Tofacitinib Time Taken,ADCMDUR
+UCMED,UC Medications Prior Use,ADCMDUR
+VEDOLIPU,Vedolizumab Prior Use,ADCMDUR
+VEDOLIZU,Vedolizumab Time Taken,ADCMDUR
+CSS0201,CSS02-Wish to be Dead,ADCSSRS
+CSS0202,CSS02-Non-Specific Suicidal Thought,ADCSSRS
+CSS0203,CSS02-Suicidal Ideation-No Intent,ADCSSRS
+CSS0204,"CSS02-Ideation With Intent, No Plan",ADCSSRS
+CSS0205,CSS02-Ideation With Plan/Intent,ADCSSRS
+CSS0212,CSS02-Actual Attempt,ADCSSRS
+CSS0214,CSS02-Non-suicidal Self-injurious Behav,ADCSSRS
+CSS0215,CSS02-Interrupted Attempt,ADCSSRS
+CSS0217,CSS02-Aborted Attempt,ADCSSRS
+CSS0219,CSS02-Preparatory Acts/Behavior,ADCSSRS
+CSS0401A,CSS04-Wish to be Dead-Life,ADCSSRS
+CSS0401B,CSS04-Wish to be Dead-P_M,ADCSSRS
+CSS0402A,CSS04-Non-Spec Suicid Thought-Life,ADCSSRS
+CSS0402B,CSS04-Non-Spec Suicid Thought-P_M,ADCSSRS
+CSS0403A,"CSS04-Idea, No Intent, No Plan-Life",ADCSSRS
+CSS0403B,"CSS04-Idea, No Intent, No Plan-P_M",ADCSSRS
+CSS0404A,"CSS04-Idea, Intent, No Plan-Life",ADCSSRS
+CSS0404B,"CSS04-Idea, Intent, No Plan-P_M",ADCSSRS
+CSS0405A,"CSS04-Idea, Plan, Intent-Life",ADCSSRS
+CSS0405B,"CSS04-Idea, Plan, Intent-P_M",ADCSSRS
+CSS0412A,CSS04-Actual Attempt-Life,ADCSSRS
+CSS0412B,CSS04-Actual Attempt-P_Y,ADCSSRS
+CSS0414A,CSS04-Non-suicidal Self-injur Behav-Life,ADCSSRS
+CSS0414B,CSS04-Non-suicidal Self-injur Behav-P_Y,ADCSSRS
+CSS0415A,CSS04-Interrupted Attempt-Life,ADCSSRS
+CSS0415B,CSS04-Interrupted Attempt-P_Y,ADCSSRS
+CSS0417A,CSS04-Aborted Attempt-Life,ADCSSRS
+CSS0417B,CSS04-Aborted Attempt-P_Y,ADCSSRS
+CSS0419A,CSS04-Preparatory Acts/Behavior-Life,ADCSSRS
+CSS0419B,CSS04-Preparatory Acts/Behavior-P_Y,ADCSSRS
+MAXSCORE,Maximum score,ADCSSRSI
+DCSCREEN,Reason for Discontinuation During Screening,ADDISP
+DCSREAS,Reason for Study Termination,ADDISP
+DCTREAS,Reason for Treatment Discontinuation,ADDISP
+EOSSTT,Study Status,ADDISP
+EOTSTT,Treatment Status,ADDISP
+SAFFUP,Safety Follow-up,ADDISP
+UNBREAS,Reason for Unblinding,ADDISP
+CREME4,Clinical Remission (Estimand 4),ADEFF
+CREME4M,Clinical Remission (Estimand 4/Missing as NR),ADEFF
+CREME5,Clinical Remission (Estimand 5),ADEFF
+CREME5M,Clinical Remission (Estimand 5/Missing as NR),ADEFF
+CREME6,Clinical Remission (Estimand 6),ADEFF
+CREMO,Clinical Remission (Observed),ADEFF
+CRESPE1,Clinical Response (Estimand 1),ADEFF
+CRESPE1M,Clinical Response (Estimand 1/Missing as NR),ADEFF
+CRESPE2,Clinical Response (Estimand 2),ADEFF
+CRESPE2M,Clinical Response (Estimand 2/Missing as NR),ADEFF
+CRESPE3,Clinical Response (Estimand 3),ADEFF
+CRESPO,Clinical Response (Observed),ADEFF
+CRMH1E1,Clinical Remission (Health Authority Definition 1 Estimand 1),ADEFF
+CRMH1E1M,Clinical Remission (Health Authority Definition 1 Estimand 1/Missing as NR),ADEFF
+CRMH1O,Clinical Remission (Health Authority Definition 1 Observed),ADEFF
+CRMH2E1,Clinical Remission (Health Authority Definition 2 Estimand 1),ADEFF
+CRMH2E1M,Clinical Remission (Health Authority Definition 2 Estimand 1/Missing as NR),ADEFF
+CRMH2O,Clinical Remission (Health Authority Definition 2 Observed),ADEFF
+CRMUNE1,Clinical Remission (UNIFI definition Estimand 1),ADEFF
+CRMUNE1M,Clinical Remission (UNIFI definition Estimand 1/Missing as NR),ADEFF
+CRMUNO,Clinical Remission (UNIFI definition Observed),ADEFF
+ENHLE1,Endoscopic Healing (Estimand 1),ADEFF
+ENHLE1M,Endoscopic Healing (Estimand 1/Missing as NR),ADEFF
+ENHLO,Endoscopic Healing (Observed),ADEFF
+ENNRME1,Endoscopic Normalization (Estimand 1),ADEFF
+ENNRME1M,Endoscopic Normalization (Estimand 1/Missing as NR),ADEFF
+ENNRMO,Endoscopic Normalization (Observed),ADEFF
+MCRESE1,Modified Mayo Response (Estimand 1),ADEFF
+MCRESE1M,Modified Mayo Response (Estimand 1/Missing as NR),ADEFF
+MCRESO,Modified Mayo Response (Observed),ADEFF
+PMREME1,Partial Mayo Remission (Estimand 1),ADEFF
+PMREME1M,Partial Mayo Remission (Estimand 1/Missing as NR),ADEFF
+PMREMO,Partial Mayo Remission (Observed),ADEFF
+PMRESE1,Partial Mayo Response (Estimand 1),ADEFF
+PMRESE1M,Partial Mayo Response (Estimand 1/Missing as NR),ADEFF
+PMRESO,Partial Mayo Response (Observed),ADEFF
+RBSC0E1,Rectal Bleeding Score Equal to 0 (Estimand 1),ADEFF
+RBSC0E1M,Rectal Bleeding Score Equal to 0 (Estimand 1/Missing as NR),ADEFF
+RBSC0O,Rectal Bleeding Score Equal to 0 (Observed),ADEFF
+SFSC0E1,Stool Frequency Score Equal to 0 (Estimand 1),ADEFF
+SFSC0E1M,Stool Frequency Score Equal to 0 (Estimand 1/Missing as NR),ADEFF
+SFSC0O,Stool Frequency Score Equal to 0 (Observed),ADEFF
+SFSC1E1,Stool Frequency Score Equal to 0 or 1 (Estimand 1),ADEFF
+SFSC1E1M,Stool Frequency Score Equal to 0 or 1 (Estimand 1/Missing as NR),ADEFF
+SFSC1O,Stool Frequency Score Equal to 0 or 1 (Observed),ADEFF
+SREME1,Symptomatic Remission (Estimand 1),ADEFF
+SREME1M,Symptomatic Remission (Estimand 1/Missing as NR),ADEFF
+SREMO,Symptomatic Remission (Observed),ADEFF
+UCEI4E1,UCEIS Less or Equal Than 4 (Estimand 1),ADEFF
+UCEI4E1M,UCEIS Less or Equal Than 4 (Estimand 1/Missing as NR),ADEFF
+UCEI4O,UCEIS Less or Equal Than 4 (Observed),ADEFF
+REM0E4,Clinical Remission (Estimand 4) Cort free,ADEFFCF
+REM0E4M,Clinical Remission (Estimand 4/Missing as NR) Cort free,ADEFFCF
+REM0O,Clinical Remission (Observed) Cort free,ADEFFCF
+REM30E4,Clinical Remission (Estimand 4) 30 dy Cort free,ADEFFCF
+REM30E4M,Clinical Remission (Estimand 4/Missing as NR) 30 dy Cort free,ADEFFCF
+REM30O,Clinical Remission (Observed) 30 dy Cort free,ADEFFCF
+REM60E4,Clinical Remission (Estimand 4) 60 dy Cort free,ADEFFCF
+REM60E4M,Clinical Remission (Estimand 4/Missing as NR) 60 dy Cort free,ADEFFCF
+REM60O,Clinical Remission (Observed) 60 dy Cort free,ADEFFCF
+REM7E4,Clinical Remission (Estimand 4) 7 dy Cort free,ADEFFCF
+REM7E4M,Clinical Remission (Estimand 4/Missing as NR) 7 dy Cort free,ADEFFCF
+REM7O,Clinical Remission (Observed) 7 dy Cort free,ADEFFCF
+REM90E4,Clinical Remission (Estimand 4) 90 dy Cort free,ADEFFCF
+REM90E4M,Clinical Remission (Estimand 4/Missing as NR) 90 dy Cort free,ADEFFCF
+REM90O,Clinical Remission (Observed) 90 dy Cort free,ADEFFCF
+RES0E1,Clinical Response (Estimand 1) Cort free,ADEFFCF
+RES0E1M,Clinical Response (Estimand 1/Missing as NR) Cort free,ADEFFCF
+RES0O,Clinical Response (Observed) Cort free,ADEFFCF
+RES30E1,Clinical Response (Estimand 1) 30 dy Cort free,ADEFFCF
+RES30E1M,Clinical Response (Estimand 1/Missing as NR) 30 dy Cort free,ADEFFCF
+RES30O,Clinical Response (Observed) 30 dy Cort free,ADEFFCF
+RES60E1,Clinical Response (Estimand 1) 60 dy Cort free,ADEFFCF
+RES60E1M,Clinical Response (Estimand 1/Missing as NR) 60 dy Cort free,ADEFFCF
+RES60O,Clinical Response (Observed) 60 dy Cort free,ADEFFCF
+RES7E1,Clinical Response (Estimand 1) 7 dy Cort free,ADEFFCF
+RES7E1M,Clinical Response (Estimand 1/Missing as NR) 7 dy Cort free,ADEFFCF
+RES7O,Clinical Response (Observed) 7 dy Cort free,ADEFFCF
+RES90E1,Clinical Response (Estimand 1) 90 dy Cort free,ADEFFCF
+RES90E1M,Clinical Response (Estimand 1/Missing as NR) 90 dy Cort free,ADEFFCF
+RES90O,Clinical Response (Observed) 90 dy Cort free,ADEFFCF
+RH10E1,Clinical Remission (Health Authority Definition 1 Estimand 1) Cort free,ADEFFCF
+RH10E1M,Clinical Remission (Health Authority Definition 1 Estimand 1/Missing as NR) Cort free,ADEFFCF
+RH10O,Clinical Remission (Health Authority Definition 1 Observed) Cort free,ADEFFCF
+RH130E1,Clinical Remission (Health Authority Definition 1 Estimand 1) 30 dy Cort free,ADEFFCF
+RH130E1M,Clinical Remission (Health Authority Definition 1 Estimand 1/Missing as NR) 30 dy Cort free,ADEFFCF
+RH130O,Clinical Remission (Health Authority Definition 1 Observed) 30 dy Cort free,ADEFFCF
+RH160E1,Clinical Remission (Health Authority Definition 1 Estimand 1) 60 dy Cort free,ADEFFCF
+RH160E1M,Clinical Remission (Health Authority Definition 1 Estimand 1/Missing as NR) 60 dy Cort free,ADEFFCF
+RH160O,Clinical Remission (Health Authority Definition 1 Observed) 60 dy Cort free,ADEFFCF
+RH17E1,Clinical Remission (Health Authority Definition 1 Estimand 1) 7 dy Cort free,ADEFFCF
+RH17E1M,Clinical Remission (Health Authority Definition 1 Estimand 1/Missing as NR) 7 dy Cort free,ADEFFCF
+RH17O,Clinical Remission (Health Authority Definition 1 Observed) 7 dy Cort free,ADEFFCF
+RH190E1,Clinical Remission (Health Authority Definition 1 Estimand 1) 90 dy Cort free,ADEFFCF
+RH190E1M,Clinical Remission (Health Authority Definition 1 Estimand 1/Missing as NR) 90 dy Cort free,ADEFFCF
+RH190O,Clinical Remission (Health Authority Definition 1 Observed) 90 dy Cort free,ADEFFCF
+ARCHCH,Architectural change,ADHIST
+ARCHCHE1,Architectural change (Estimand 1),ADHIST
+BPLASCE1,Basal Plasmacytosis (Estimand 1),ADHIST
+BPLASCYT,Basal Plasmacytosis,ADHIST
+CHRIINE1,Chronic Inflammatory Infiltrate (Estimand 1),ADHIST
+CHRIINF,Chronic Inflammatory Infiltrate,ADHIST
+CRYPTDE1,Crypt Destruction (Estimand 1),ADHIST
+CRYPTDES,Crypt Destruction,ADHIST
+DHEMHE1,Deep Histologic-Endoscopic Mucosal Healing (Estimand 1),ADHIST
+DHEMHE1M,Deep Histologic-Endoscopic Mucosal Healing (Estimand 1/Missing as NR),ADHIST
+DHEMHO,Deep Histologic-Endoscopic Mucosal Healing (Observed),ADHIST
+EOS,Eosinophils,ADHIST
+EOSE1,Eosinophils (Estimand 1),ADHIST
+GBHIE1,Geboes High Activity Subscore (Estimand 1),ADHIST
+GBHIO,Geboes High Activity Subscore (Observed),ADHIST
+GBLOWE1,Geboes Low Activity Subscore (Estimand 1),ADHIST
+GBLOWO,Geboes Low Activity Subscore (Observed),ADHIST
+GBTIME1,Geboes total score < 3.2 (Estimand 1),ADHIST
+GBTIME1M,Geboes total score < 3.2 (Estimand 1/Missing as NR),ADHIST
+GBTIMO,Geboes total score < 3.2 (Observed),ADHIST
+GBTOTE1,Geboes Total Score (Estimand 1),ADHIST
+GBTOTO,Geboes Total Score (Observed),ADHIST
+HEMHE1,Histologic-Endoscopic Mucosal Healing (Estimand 1),ADHIST
+HEMHE1M,Histologic-Endoscopic Mucosal Healing (Estimand 1/Missing as NR),ADHIST
+HEMHO,Histologic-Endoscopic Mucosal Healing (Observed),ADHIST
+HHEALE1,Histologic Healing (Estimand 1),ADHIST
+HHEALE1M,Histologic Healing (Estimand 1/Missing as NR),ADHIST
+HHEALO,Histologic Healing (Observed),ADHIST
+HREME1,Histologic Remission (Estimand 1),ADHIST
+HREME1M,Histologic Remission (Estimand 1/Missing as NR),ADHIST
+HREMO,Histologic Remission (Observed),ADHIST
+MHEALE1,Mucosal Healing (Estimand 1),ADHIST
+MHEALE1M,Mucosal Healing (Estimand 1/Missing as NR),ADHIST
+MHEALO,Mucosal Healing (Observed),ADHIST
+NANCYHE1,Nancy Histology Index (Estimand 1),ADHIST
+NANCYHI,Nancy Histology Index,ADHIST
+NEUTEP,Neutrophils Epithelium,ADHIST
+NEUTEPE1,Neutrophils Epithelium (Estimand 1),ADHIST
+NEUTLP,Neutrophils Lamina Propria,ADHIST
+NEUTLPE1,Neutrophils Lamina Propria (Estimand 1),ADHIST
+NHIRME1,Nancy Histologic Index (NHI)-based Histologic Remission (Estimand 1),ADHIST
+NHIRME1M,Nancy Histologic Index (NHI)-based Histologic Remission (Estimand 1/Missing as NR),ADHIST
+NHIRMO,Nancy Histologic Index (NHI)-based Histologic Remission (Observed),ADHIST
+RHIRME1,Robarts Histologic Index (RHI)-based Histologic Remission (Estimand 1),ADHIST
+RHIRME1M,Robarts Histologic Index (RHI)-based Histologic Remission (Estimand 1/Missing as NR),ADHIST
+RHIRMO,Robarts Histologic Index (RHI)-based Histologic Remission (Observed),ADHIST
+ULCER,Erosion or Ulceration,ADHIST
+ULCERE1,Erosion or Ulceration (Estimand 1),ADHIST
+IB13IE1,Pain Abdomen at least 2 Pt improvements (Estimand 1),ADIBDQ
+IB13IE1M,Pain Abdomen at least 2 Pt improvements (Estimand 1/Missing as NR),ADIBDQ
+IB13IO,Pain Abdomen at least 2 Pt improvements (Observed),ADIBDQ
+IB16IE1,IBDQ >= 16 Pt Improvement from Baseline (Estimand 1),ADIBDQ
+IB16IE1M,IBDQ >= 16 Pt Improvement from Baseline (Estimand 1/Missing as NR),ADIBDQ
+IB16IO,IBDQ >= 16 Pt Improvement from Baseline (Observed),ADIBDQ
+IB24IE1,Going to Bathroom at least 2 Pt improvements (Estimand 1),ADIBDQ
+IB24IE1M,Going to Bathroom at least 2 Pt improvements (Estimand 1/Missing as NR),ADIBDQ
+IB24IO,Going to Bathroom at least 2 Pt improvements (Observed),ADIBDQ
+IBDBE1,IBDQ Bowel Score (Estimand 1),ADIBDQ
+IBDBO,IBDQ Bowel Score (Observed),ADIBDQ
+IBDEE1,IBDQ Emotional Score (Estimand 1),ADIBDQ
+IBDEO,IBDQ Emotional Score (Observed),ADIBDQ
+IBDIME1,IBDQ > 20 Pt Improvement from Baseline (Estimand 1),ADIBDQ
+IBDIME1M,IBDQ > 20 Pt Improvement from Baseline (Estimand 1/Missing as NR),ADIBDQ
+IBDIMO,IBDQ > 20 Pt Improvement from Baseline (Observed),ADIBDQ
+IBDQ01E1,Frequency of Bowel Movements (Estimand 1),ADIBDQ
+IBDQ01O,Frequency of Bowel Movements (Observed),ADIBDQ
+IBDQ05E1,Loose Bowel Movements (Estimand 1),ADIBDQ
+IBDQ05O,Loose Bowel Movements (Observed),ADIBDQ
+IBDQ09E1,Troubled by Cramps in Abdomen (Estimand 1),ADIBDQ
+IBDQ09O,Troubled by Cramps in Abdomen (Observed),ADIBDQ
+IBDQ13E1,Troubled by Pain in the Abdomen (Estimand 1),ADIBDQ
+IBDQ13O,Troubled by Pain in the Abdomen (Observed),ADIBDQ
+IBDQ16E1,Avoid Events Where No Washroom (Estimand 1),ADIBDQ
+IBDQ16O,Avoid Events Where No Washroom (Observed),ADIBDQ
+IBDQ17E1,Problem Large Amounts of Gas (Estimand 1),ADIBDQ
+IBDQ17O,Problem Large Amounts of Gas (Observed),ADIBDQ
+IBDQ20E1,Troubled by Abdominal Bloating (Estimand 1),ADIBDQ
+IBDQ20O,Troubled by Abdominal Bloating (Observed),ADIBDQ
+IBDQ22E1,Rectal Bleeding (Estimand 1),ADIBDQ
+IBDQ22O,Rectal Bleeding (Observed),ADIBDQ
+IBDQ24E1,"Going to Bathroom, Empty Bowels (Estimand 1)",ADIBDQ
+IBDQ24O,"Going to Bathroom, Empty Bowels (Observed)",ADIBDQ
+IBDQ26E1,Accidental Soiling of Underpants (Estimand 1),ADIBDQ
+IBDQ26O,Accidental Soiling of Underpants (Observed),ADIBDQ
+IBDQ29E1,"Nausea, Feeling Sick to Stomach (Estimand 1)",ADIBDQ
+IBDQ29O,"Nausea, Feeling Sick to Stomach (Observed)",ADIBDQ
+IBDREE1,IBDQ Remission (Estimand 1),ADIBDQ
+IBDREE1M,IBDQ Remission (Estimand 1/Missing as NR),ADIBDQ
+IBDREO,IBDQ Remission (Observed),ADIBDQ
+IBDSFE1,IBDQ Social Score (Estimand 1),ADIBDQ
+IBDSFO,IBDQ Social Score (Observed),ADIBDQ
+IBDSYE1,IBDQ Systemic Score (Estimand 1),ADIBDQ
+IBDSYO,IBDQ Systemic Score (Observed),ADIBDQ
+IBDTE1,IBDQ Total Score (Estimand 1),ADIBDQ
+IBDTO,IBDQ Total Score (Observed),ADIBDQ
+ICEMET,Intercurrent Event Criteria Met,ADICE
+GLMADAST,Golimumab Sample ADA status,ADIS
+GLMNABST,Golimumab Sample Nab Status,ADIS
+GLPTITER,Golimumab Subject Peak Titer,ADIS
+GLTITER,Golimumab Sample Titer,ADIS
+GLUADAST,Golimumab Subject ADA status,ADIS
+GLUNABST,Golimumab Subject Nab Status,ADIS
+GSMADAST,Guselkumab Sample ADA status,ADIS
+GSMNABST,Guselkumab Sample Nab Status,ADIS
+GSPTITER,Guselkumab Subject Peak Titer,ADIS
+GSTITER,Guselkumab Sample Titer,ADIS
+GSUADAST,Guselkumab Subject ADA status,ADIS
+GSUNABST,Guselkumab Subject Nab Status,ADIS
+ALB,Albumin (g/L),ADLB
+ALP,Alkaline Phosphatase (Enzyme U/L),ADLB
+ALT,Alanine Aminotransferase (Enzyme U/L),ADLB
+AST,Aspartate Aminotransferase (Enzyme U/L),ADLB
+BASO,Basophils (10^9/L),ADLB
+BASOLE,Basophils/Leukocytes (fraction of 1),ADLB
+BILDIR,Direct Bilirubin (umol/L),ADLB
+BILI,Bilirubin (umol/L),ADLB
+CA,Calcium (mmol/L),ADLB
+CACR,Calcium Corrected (mmol/L),ADLB
+CALPRO,Calprotectin (mg/kg),ADLB
+CDFTXN,Clostridium difficile Toxin,ADLB
+CL,Chloride (mmol/L),ADLB
+CREAT,Creatinine (umol/L),ADLB
+CRP,C Reactive Protein (mg/L),ADLB
+DNA,Deoxyribonucleic Acid (IU/mL),ADLB
+EOS,Eosinophils (10^9/L),ADLB
+EOSLE,Eosinophils/Leukocytes (fraction of 1),ADLB
+GGT,Gamma Glutamyl Transferase (Enzyme U/L),ADLB
+GLDHAG,Glutamate Dehydrogenase Antigen,ADLB
+GRANIM,Immature Granulocytes,ADLB
+HBCAB,Hepatitis B Virus Core Antibody,ADLB
+HBSAB,Hepatitis B Virus Surface Antibody,ADLB
+HBSAG,Hepatitis B Virus Surface Antigen,ADLB
+HCAB,Hepatitis C Virus Antibody,ADLB
+HCG,Choriogonadotropin Beta,ADLB
+HCT,Hematocrit (fraction of 1),ADLB
+HGB,Hemoglobin (g/L),ADLB
+HIV12P24,HIV-1/2 Antibody + HIV-1 p24 Antigen,ADLB
+HIV1AB,HIV-1 Antibody,ADLB
+HIV1NUAC,HIV-1 Nucleic Acid,ADLB
+HIV2AB,HIV-2 Antibody,ADLB
+HIVAB,HIV Antibody,ADLB
+K,Potassium (mmol/L),ADLB
+LYM,Lymphocytes (10^9/L),ADLB
+LYMAT,Lymphocytes Atypical (10^9/L),ADLB
+LYMATLE,Lymphocytes Atypical/Leukocytes (fraction of 1),ADLB
+LYMLE,Lymphocytes/Leukocytes (fraction of 1),ADLB
+METAMY,Metamyelocytes (10^9/L),ADLB
+METAMYLE,Metamyelocytes/Leukocytes (fraction of 1),ADLB
+MONO,Monocytes (10^9/L),ADLB
+MONOLE,Monocytes/Leukocytes (fraction of 1),ADLB
+MYCY,Myelocytes (10^9/L),ADLB
+MYCYLE,Myelocytes/Leukocytes (fraction of 1),ADLB
+MYTBGIR,M. tuberculosis IFN Gamma Response,ADLB
+NEUTB,Neutrophils Band Form (10^9/L),ADLB
+NEUTBLE,Neutrophils Band Form/Leukocytes (fraction of 1),ADLB
+NEUTSG,"Neutrophils, Segmented (10^9/L)",ADLB
+NEUTSGLE,"Neutrophils, Segmented/Leukocytes (fraction of 1)",ADLB
+PHOS,Phosphate (mmol/L),ADLB
+PLAT,Platelets (10^9/L),ADLB
+PROT,Protein (g/L),ADLB
+RBCNURBC,Nucleated Erythrocytes/Erythrocytes (fraction of 1),ADLB
+SCHISTO,Schistocytes,ADLB
+SODIUM,Sodium (mmol/L),ADLB
+TRGTCE,Target Cells,ADLB
+UREAN,Urea Nitrogen (mmol/L),ADLB
+WBC,Leukocytes (10^9/L),ADLB
+CALNRE1M,Fecal Calprotectin Normalized (<=250) (Estimand 1/Missing as NR),ADLBEF
+CALNRM,Fecal Calprotectin Normalized (<=250),ADLBEF
+CALPE1,Fecal Calprotectin (mg/kg) (Estimand 1),ADLBEF
+CALPRO,Fecal Calprotectin (mg/kg),ADLBEF
+CRP,C Reactive Protein (mg/L),ADLBEF
+CRPE1,C Reactive Protein (mg/L) (Estimand 1),ADLBEF
+CRPNRE1M,C Reactive Protein Normalized (<=3) (Estimand 1/Missing as NR),ADLBEF
+CRPNRM,C Reactive Protein Normalized (<=3),ADLBEF
+LCALPE1,Fecal Calprotectin Log (Estimand 1),ADLBEF
+LCALPRO,Fecal Calprotectin (mg/kg) Log,ADLBEF
+LCRP,C Reactive Protein (mg/L) Log,ADLBEF
+LCRPE1,C Reactive Protein Log (Estimand 1),ADLBEF
+ALBL,Hypoalbuminemia,ADLBTOX
+ALPH,Alkaline Phosphatase Increased,ADLBTOX
+ALTH,Alanine Aminotransferase Increased,ADLBTOX
+ASTH,Aspartate Aminotransferase Increased,ADLBTOX
+BILIH,Blood Bilirubin Increased,ADLBTOX
+CACRH,Hypercalcemia (Corrected),ADLBTOX
+CACRL,Hypocalcemia (Corrected),ADLBTOX
+CREATH,Creatinine Increased,ADLBTOX
+GGTH,GGT Increased,ADLBTOX
+HGBH,Hemoglobin Increased,ADLBTOX
+HGBL,Anemia,ADLBTOX
+KH,Hyperkalemia,ADLBTOX
+KL,Hypokalemia,ADLBTOX
+LYMH,Lymphocyte Count Increased,ADLBTOX
+LYML,Lymphocyte Count Decreased,ADLBTOX
+NEUTSGL,Neutrophil Count Decreased,ADLBTOX
+PLATL,Platelet Count Decreased,ADLBTOX
+SODIUMH,Hypernatremia,ADLBTOX
+SODIUML,Hyponatremia,ADLBTOX
+WBCH,Leukocytosis,ADLBTOX
+WBCL,White Blood Cell Decreased,ADLBTOX
+ABSSTOOL,Absolute Stool Number,ADMAYO
+ENSCORE,Endoscopy Final Score,ADMAYO
+FRIAB,Friability Present,ADMAYO
+MAYO,Mayo Score,ADMAYO
+MMAYO,Modified Mayo Score,ADMAYO
+NUMMAYO,Number of Observed Mayo Components Present,ADMAYO
+NUMMMAYO,Number of Observed Modified Mayo Components Present,ADMAYO
+NUMPMAYO,Number of Observed Partial Mayo Components Present,ADMAYO
+PGSCORE,Physician Global Assessment Score,ADMAYO
+PMAYO,Partial Mayo Score,ADMAYO
+RBSCORE,Rectal Bleeding Score,ADMAYO
+SFSCORE,Stool Frequency Score,ADMAYO
+UCEIS,UCEIS Score,ADMAYO
+ABSSTLC,Absolute Stool Number (Composite),ADMAYOI
+ABSSTLE1,Absolute Stool Number (Estimand 1),ADMAYOI
+ABSSTLH,Absolute Stool Number (Hypothetical),ADMAYOI
+ABSSTLT,Absolute Stool Number (Treatment Policy),ADMAYOI
+ENSCORC,Endoscopy Final Score (Composite),ADMAYOI
+ENSCORE1,Endoscopy Final Score (Estimand 1),ADMAYOI
+ENSCORH,Endoscopy Final Score (Hypothetical),ADMAYOI
+ENSCORT,Endoscopy Final Score (Treatment Policy),ADMAYOI
+FRIAB,Friability Present,ADMAYOI
+MAYOC,Mayo Score (Composite),ADMAYOI
+MAYOE1,Mayo Score (Estimand 1),ADMAYOI
+MAYOH,Mayo Score (Hypothetical),ADMAYOI
+MAYOT,Mayo Score (Treatment Policy),ADMAYOI
+MMAYOC,Modified Mayo Score (Composite),ADMAYOI
+MMAYOE1,Modified Mayo Score (Estimand 1),ADMAYOI
+MMAYOH,Modified Mayo Score (Hypothetical),ADMAYOI
+MMAYOT,Modified Mayo Score (Treatment Policy),ADMAYOI
+PGSCORC,Physician Global Assessment Score (Composite),ADMAYOI
+PGSCORE1,Physician Global Assessment Score (Estimand 1),ADMAYOI
+PGSCORH,Physician Global Assessment Score (Hypothetical),ADMAYOI
+PGSCORT,Physician Global Assessment Score (Treatment Policy),ADMAYOI
+PMAYOC,Partial Mayo Score (Composite),ADMAYOI
+PMAYOE1,Partial Mayo Score (Estimand 1),ADMAYOI
+PMAYOH,Partial Mayo Score (Hypothetical),ADMAYOI
+PMAYOT,Partial Mayo Score (Treatment Policy),ADMAYOI
+RBSCORC,Rectal Bleeding Score (Composite),ADMAYOI
+RBSCORE1,Rectal Bleeding Score (Estimand 1),ADMAYOI
+RBSCORH,Rectal Bleeding Score (Hypothetical),ADMAYOI
+RBSCORT,Rectal Bleeding Score (Treatment Policy),ADMAYOI
+SFSCORC,Stool Frequency Score (Composite),ADMAYOI
+SFSCORE1,Stool Frequency Score (Estimand 1),ADMAYOI
+SFSCORH,Stool Frequency Score (Hypothetical),ADMAYOI
+SFSCORT,Stool Frequency Score (Treatment Policy),ADMAYOI
+UCEISC,UCEIS Score (Composite),ADMAYOI
+UCEISE1,UCEIS Score (Estimand 1),ADMAYOI
+UCEISH,UCEIS Score (Hypothetical),ADMAYOI
+UCEIST,UCEIS Score (Treatment Policy),ADMAYOI
+NRS,Negative Response Signature,ADNRS
+ENDO1,ENDO1,ADPANDEM
+ENDO1CV,ENDO1CV,ADPANDEM
+ENDO2,ENDO2,ADPANDEM
+ENDO2CV,ENDO2CV,ADPANDEM
+ENDOA,ENDOA,ADPANDEM
+ENDOC,ENDOC,ADPANDEM
+ENDOCCV,ENDOCCV,ADPANDEM
+ENDON,ENDON,ADPANDEM
+ENDONCV,ENDONCV,ADPANDEM
+EXP1,EXP1,ADPANDEM
+EXP1CV,EXP1CV,ADPANDEM
+EXP2,EXP2,ADPANDEM
+EXP2CV,EXP2CV,ADPANDEM
+EXPA,EXPA,ADPANDEM
+EXPC,EXPC,ADPANDEM
+EXPCCV,EXPCCV,ADPANDEM
+EXPN,EXPN,ADPANDEM
+EXPNCV,EXPNCV,ADPANDEM
+LAB1,LAB1,ADPANDEM
+LAB1CV,LAB1CV,ADPANDEM
+LAB2,LAB2,ADPANDEM
+LAB2CV,LAB2CV,ADPANDEM
+LABA,LABA,ADPANDEM
+LABC,LABC,ADPANDEM
+LABCCV,LABCCV,ADPANDEM
+LABN,LABN,ADPANDEM
+LABNCV,LABNCV,ADPANDEM
+MAYO1,MAYO1,ADPANDEM
+MAYO1CV,MAYO1CV,ADPANDEM
+MAYO2,MAYO2,ADPANDEM
+MAYO2CV,MAYO2CV,ADPANDEM
+MAYOA,MAYOA,ADPANDEM
+MAYOC,MAYOC,ADPANDEM
+MAYOCCV,MAYOCCV,ADPANDEM
+MAYON,MAYON,ADPANDEM
+MAYONCV,MAYONCV,ADPANDEM
+SV1,SV1,ADPANDEM
+SV1CV,SV1CV,ADPANDEM
+SV2,SV2,ADPANDEM
+SV2CV,SV2CV,ADPANDEM
+SVA,SVA,ADPANDEM
+SVC,SVC,ADPANDEM
+SVCCV,SVCCV,ADPANDEM
+SVN,SVN,ADPANDEM
+SVNCV,SVNCV,ADPANDEM
+GOLCONC,Golimumab Concentration,ADPC
+GUSCONC,Guselkumab Concentration,ADPC
+PGICE1,PGIC Score (Estimand 1),ADPGI
+PGICE1M,PGIC Score (Estimand 1/Missing as NR),ADPGI
+PGICO,PGIC Score (Observed),ADPGI
+PGII1E1,PGIC 1-point Improvement (Estimand 1),ADPGI
+PGII1E1M,PGIC 1-point Improvement (Estimand 1/Missing as NR),ADPGI
+PGII1O,PGIC 1-point Improvement (Observed),ADPGI
+PGII2E1,PGIC 2-point Improvement (Estimand 1),ADPGI
+PGII2E1M,PGIC 2-point Improvement (Estimand 1/Missing as NR),ADPGI
+PGII2O,PGIC 2-point Improvement (Observed),ADPGI
+PANX3E1,Improvement of at least 3 points in PROMIS-29 Anxiety (Estimand 1),ADPROMIS
+PANX3E1M,Improvement of at least 3 points in PROMIS-29 Anxiety (Estimand 1/Missing as NR),ADPROMIS
+PANX3O,Improvement of at least 3 points in PROMIS-29 Anxiety (Observed),ADPROMIS
+PANX5E1,Improvement of at least 5 points in PROMIS-29 Anxiety (Estimand 1),ADPROMIS
+PANX5E1M,Improvement of at least 5 points in PROMIS-29 Anxiety (Estimand 1/Missing as NR),ADPROMIS
+PANX5O,Improvement of at least 5 points in PROMIS-29 Anxiety (Observed),ADPROMIS
+PANXE1,PROMIS-29 Anxiety (Estimand 1),ADPROMIS
+PDEP3E1,Improvement of at least 3 points in PROMIS-29 Depression (Estimand 1),ADPROMIS
+PDEP3E1M,Improvement of at least 3 points in PROMIS-29 Depression (Estimand 1/Missing as NR),ADPROMIS
+PDEP3O,Improvement of at least 3 points in PROMIS-29 Depression (Observed),ADPROMIS
+PDEP5E1,Improvement of at least 5 points in PROMIS-29 Depression (Estimand 1),ADPROMIS
+PDEP5E1M,Improvement of at least 5 points in PROMIS-29 Depression (Estimand 1/Missing as NR),ADPROMIS
+PDEP5O,Improvement of at least 5 points in PROMIS-29 Depression (Observed),ADPROMIS
+PDEPREE1,PROMIS-29 Depression (Estimand 1),ADPROMIS
+PFA73E1,Improvement of at least 3 points in PROMIS Fatigue 7a (Estimand 1),ADPROMIS
+PFA73E1M,Improvement of at least 3 points in PROMIS Fatigue 7a (Estimand 1/Missing as NR),ADPROMIS
+PFA73O,Improvement of at least 3 points in PROMIS Fatigue 7a (Observed),ADPROMIS
+PFA75E1,Improvement of at least 5 points in PROMIS Fatigue 7a (Estimand 1),ADPROMIS
+PFA75E1M,Improvement of at least 5 points in PROMIS Fatigue 7a (Estimand 1/Missing as NR),ADPROMIS
+PFA75O,Improvement of at least 5 points in PROMIS Fatigue 7a (Observed),ADPROMIS
+PFA77E1,Improvement of at least 7 points in PROMIS Fatigue 7a (Estimand 1),ADPROMIS
+PFA77E1M,Improvement of at least 7 points in PROMIS Fatigue 7a (Estimand 1/Missing as NR),ADPROMIS
+PFA77O,Improvement of at least 7 points in PROMIS Fatigue 7a (Observed),ADPROMIS
+PFAT3E1,Improvement of at least 3 points in PROMIS-29 Fatigue (Estimand 1),ADPROMIS
+PFAT3E1M,Improvement of at least 3 points in PROMIS-29 Fatigue (Estimand 1/Missing as NR),ADPROMIS
+PFAT3O,Improvement of at least 3 points in PROMIS-29 Fatigue (Observed),ADPROMIS
+PFAT5E1,Improvement of at least 5 points in PROMIS-29 Fatigue (Estimand 1),ADPROMIS
+PFAT5E1M,Improvement of at least 5 points in PROMIS-29 Fatigue (Estimand 1/Missing as NR),ADPROMIS
+PFAT5O,Improvement of at least 5 points in PROMIS-29 Fatigue (Observed),ADPROMIS
+PFATI7E1,PROMIS Fatigue 7a (Estimand 1),ADPROMIS
+PFATIGE1,PROMIS-29 Fatigue (Estimand 1),ADPROMIS
+PPHY3E1,Improvement of at least 3 points in PROMIS-29 Physical Function (Estimand 1),ADPROMIS
+PPHY3E1M,Improvement of at least 3 points in PROMIS-29 Physical Function (Estimand 1/Missing as NR),ADPROMIS
+PPHY3O,Improvement of at least 3 points in PROMIS-29 Physical Function (Observed),ADPROMIS
+PPHY5E1,Improvement of at least 5 points in PROMIS-29 Physical Function (Estimand 1),ADPROMIS
+PPHY5E1M,Improvement of at least 5 points in PROMIS-29 Physical Function (Estimand 1/Missing as NR),ADPROMIS
+PPHY5O,Improvement of at least 5 points in PROMIS-29 Physical Function (Observed),ADPROMIS
+PPHYSE1,PROMIS-29 Physical Function (Estimand 1),ADPROMIS
+PPIF3E1,Improvement of at least 3 points in PROMIS-29 Pain Interference (Estimand 1),ADPROMIS
+PPIF3E1M,Improvement of at least 3 points in PROMIS-29 Pain Interference (Estimand 1/Missing as NR),ADPROMIS
+PPIF3O,Improvement of at least 3 points in PROMIS-29 Pain Interference (Observed),ADPROMIS
+PPIF5E1,Improvement of at least 5 points in PROMIS-29 Pain Interference (Estimand 1),ADPROMIS
+PPIF5E1M,Improvement of at least 5 points in PROMIS-29 Pain Interference (Estimand 1/Missing as NR),ADPROMIS
+PPIF5O,Improvement of at least 5 points in PROMIS-29 Pain Interference (Observed),ADPROMIS
+PPIT3E1,Improvement of at least 3 points in PROMIS-29 Pain Intensity (Estimand 1),ADPROMIS
+PPIT3E1M,Improvement of at least 3 points in PROMIS-29 Pain Intensity (Estimand 1/Missing as NR),ADPROMIS
+PPIT3O,Improvement of at least 3 points in PROMIS-29 Pain Intensity (Observed),ADPROMIS
+PPIT5E1,Improvement of at least 5 points in PROMIS-29 Pain Intensity (Estimand 1),ADPROMIS
+PPIT5E1M,Improvement of at least 5 points in PROMIS-29 Pain Intensity (Estimand 1/Missing as NR),ADPROMIS
+PPIT5O,Improvement of at least 5 points in PROMIS-29 Pain Intensity (Observed),ADPROMIS
+PPNINFE1,PROMIS-29 Pain Interference (Estimand 1),ADPROMIS
+PPNINTE1,PROMIS-29 Pain Intensity (Estimand 1),ADPROMIS
+PRANX,PROMIS-29 Anxiety,ADPROMIS
+PRDEPRES,PROMIS-29 Depression,ADPROMIS
+PRFATIG,PROMIS-29 Fatigue,ADPROMIS
+PRFATIG7,PROMIS Fatigue 7A,ADPROMIS
+PRPHYS,PROMIS-29 Physical Function,ADPROMIS
+PRPNINF,PROMIS-29 Pain Interference,ADPROMIS
+PRPNINT,PROMIS-29 Pain Intensity,ADPROMIS
+PRSLEEP,PROMIS-29 Sleep Disturbance,ADPROMIS
+PRSOCIAL,PROMIS-29 Social Roles and Activities,ADPROMIS
+PSLE3E1,Improvement of at least 3 points in PROMIS-29 Sleep Disturbance (Estimand 1),ADPROMIS
+PSLE3E1M,Improvement of at least 3 points in PROMIS-29 Sleep Disturbance (Estimand 1/Missing as NR),ADPROMIS
+PSLE3O,Improvement of at least 3 points in PROMIS-29 Sleep Disturbance (Observed),ADPROMIS
+PSLE5E1,Improvement of at least 5 points in PROMIS-29 Sleep Disturbance (Estimand 1),ADPROMIS
+PSLE5E1M,Improvement of at least 5 points in PROMIS-29 Sleep Disturbance (Estimand 1/Missing as NR),ADPROMIS
+PSLE5O,Improvement of at least 5 points in PROMIS-29 Sleep Disturbance (Observed),ADPROMIS
+PSLEEPE1,PROMIS-29 Sleep Disturbance (Estimand 1),ADPROMIS
+PSOC3E1,Improvement of at least 3 points in PROMIS-29 Social Roles and Activities (Estimand 1),ADPROMIS
+PSOC3E1M,Improvement of at least 3 points in PROMIS-29 Social Roles and Activities (Estimand 1/Missing as NR),ADPROMIS
+PSOC3O,Improvement of at least 3 points in PROMIS-29 Social Roles and Activities (Observed),ADPROMIS
+PSOC5E1,Improvement of at least 5 points in PROMIS-29 Social Roles and Activities (Estimand 1),ADPROMIS
+PSOC5E1M,Improvement of at least 5 points in PROMIS-29 Social Roles and Activities (Estimand 1/Missing as NR),ADPROMIS
+PSOC5O,Improvement of at least 5 points in PROMIS-29 Social Roles and Activities (Observed),ADPROMIS
+PSOCIAE1,PROMIS-29 Social Roles and Activities (Estimand 1),ADPROMIS
+DURFUP,Duration of Follow-up (Weeks),ADSAF
+GOLCDOSE,Golimumab Total Cumulative Dose (mg),ADSAF
+GOLTNUM,Golimumab Total Number of Administrations,ADSAF
+GUSCDOSE,Guselkumab Total Cumulative Dose (mg),ADSAF
+GUSTNUM,Guselkumab Total Number of Administrations,ADSAF
+TNUM,Total Number of Administrations,ADSAF
+TTHOSP12,Time to ER/Hospitalization or Censor (Including Surgeries) Through Week 12 (Weeks),ADTTE
+TTSURG12,Time to UC-related Surgery or Censor Through Week 12 (Weeks),ADTTE
+CORTD,Average Daily Prednisone-equivalent Corticosteroid Dose,ADVSCORT
+CORTDP,Average Daily Prednisone-equivalent Corticosteroid Dose (ICE rules applied),ADVSCORT
