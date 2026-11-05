@@ -1,0 +1,151 @@
+﻿PARAMCD,PARAM,SOURCE
+6-MERCAP,6-Mercaptopurine,TMPADCM_SAS7BDAT
+AZATHIOP,Azathioprine,TMPADCM_SAS7BDAT
+BALSALAZ,Balsalazide,TMPADCM_SAS7BDAT
+BUDESONI,Budesonide,TMPADCM_SAS7BDAT
+CIPROFLO,Ciprofloxacin,TMPADCM_SAS7BDAT
+CORTICO,Corticosteroids (Excluding Budesonide),TMPADCM_SAS7BDAT
+CYCLOSPO,Cyclosporine,TMPADCM_SAS7BDAT
+MESALAMI,Mesalamine,TMPADCM_SAS7BDAT
+METHOTRE,f,TMPADCM_SAS7BDAT
+METRONID,Metronidazole,TMPADCM_SAS7BDAT
+MYCOPHEN,Mycophenolate Mofetil,TMPADCM_SAS7BDAT
+OLSALAZI,Olsalazine,TMPADCM_SAS7BDAT
+RIFAXIMI,Rifaximin,TMPADCM_SAS7BDAT
+SIROLIMU,Sirolimus,TMPADCM_SAS7BDAT
+SULFASAL,Sulfasalazine,TMPADCM_SAS7BDAT
+TACROLIM,Tacrolimus,TMPADCM_SAS7BDAT
+AVGPRED,Average Prednisone dose,TMPADEF_SAS7BDAT
+CALSCORE,Calprotectin Score,TMPADEF_SAS7BDAT
+CLINRMI,Clinical Remission,TMPADEF_SAS7BDAT
+CLINRMIL,Clinical Remission by Local Reader,TMPADEF_SAS7BDAT
+CLINRSP,Clinical Response,TMPADEF_SAS7BDAT
+CLINRSPL,Clinical Response by Local Reader,TMPADEF_SAS7BDAT
+CLNRMIL,Clinical Remission with Local Reader,TMPADEF_SAS7BDAT
+CRPSCORE,CRP Score,TMPADEF_SAS7BDAT
+DCSAW8,Discontinued Study Agent at Week 8,TMPADEF_SAS7BDAT
+ENCSCORE,Endoscopy Central Reading,TMPADEF_SAS7BDAT
+ENLSCORE,Endoscopy Local Reading,TMPADEF_SAS7BDAT
+IBDQBOWL,IBDQ Bowel Dimension,TMPADEF_SAS7BDAT
+IBDQEMOT,IBDQ Emotional Dimension,TMPADEF_SAS7BDAT
+IBDQSOCL,IBDQ Social Dimension,TMPADEF_SAS7BDAT
+IBDQSYST,IBDQ Systemic Dimension,TMPADEF_SAS7BDAT
+IBDQTOT,IBDQ Total,TMPADEF_SAS7BDAT
+LTFSCORE,Lactoferrin Score,TMPADEF_SAS7BDAT
+MAYO,Mayo Score,TMPADEF_SAS7BDAT
+MISSCORE,Number of Missing Subscores,TMPADEF_SAS7BDAT
+MUCOSH,Mucosal Healing,TMPADEF_SAS7BDAT
+MUCOSHL,Mucosal Healing by Local Reader,TMPADEF_SAS7BDAT
+MYSENS1,Sensitivity Analysis 1,TMPADEF_SAS7BDAT
+MYSENS3,Sensitivity Analysis 3,TMPADEF_SAS7BDAT
+MYSENS4,Sensitivity Analysis 4,TMPADEF_SAS7BDAT
+PCLINRMI,Partial Mayo Clinical Remission,TMPADEF_SAS7BDAT
+PCLINRSP,Partial Mayo Clinical Response,TMPADEF_SAS7BDAT
+PGSCORE,Physicians Global Assessment,TMPADEF_SAS7BDAT
+PMAYO,Partial Mayo Score,TMPADEF_SAS7BDAT
+RBSCORE,Rectal Bleeding,TMPADEF_SAS7BDAT
+RBWSCORE,Worse Rectal Bleeding,TMPADEF_SAS7BDAT
+SCORE 1,Evaluator 1,TMPADEF_SAS7BDAT
+SCORE 2,Evaluator 2,TMPADEF_SAS7BDAT
+SCORE 3,Evaluator 3,TMPADEF_SAS7BDAT
+SFSCORE,Stool Frequency,TMPADEF_SAS7BDAT
+UCEIS,UCEIS Score,TMPADEF_SAS7BDAT
+INTP,Interpretation,TMPADEG_SAS7BDAT
+CUMDOSE,Cumulative dose by visits (mg),TMPADEXS_SAS7BDAT
+DRGCOMP,Drug Compliance,TMPADEXS_SAS7BDAT
+DUREXP,Duration of Exposure (weeks),TMPADEXS_SAS7BDAT
+DURFUP,Duration of follow up (weeks),TMPADEXS_SAS7BDAT
+ALBS,SERUM Albumin (g/L) | SERUM Albumin,TMPADLB_SAS7BDAT
+ALP,Alkaline Phosphatase (U/L) | Alkaline Phosphatase,TMPADLB_SAS7BDAT
+ALT,Alanine Aminotransferase (U/L) | Alanine Aminotransferase,TMPADLB_SAS7BDAT
+AST,Aspartate Aminotransferase (U/L) | Aspartate Aminotransferase,TMPADLB_SAS7BDAT
+BASO,Basophils (x10E9/L) | Basophils,TMPADLB_SAS7BDAT
+BASOIM,Immature Basophils,TMPADLB_SAS7BDAT
+BASOLE,Basophils/Leukocytes (%) | Basophils/Leukocytes,TMPADLB_SAS7BDAT
+BILI,Bilirubin (umol/L) | Bilirubin,TMPADLB_SAS7BDAT
+BUN,Blood Urea Nitrogen (mmol/L) | Blood Urea Nitrogen,TMPADLB_SAS7BDAT
+CA,Calcium (mmol/L) | Calcium,TMPADLB_SAS7BDAT
+CALPROSA,STOOL Calprotectin (ug/g) | STOOL Calprotectin (ug/L) | STOOL Calprotectin,TMPADLB_SAS7BDAT
+CD1656,CD16 CD56 (x10E9/L) | CD16 CD56,TMPADLB_SAS7BDAT
+CD1656LY,CD16 CD56/Lymphocytes (%) | CD16 CD56/Lymphocytes,TMPADLB_SAS7BDAT
+CD19,CD19 (x10E9/L) | CD19,TMPADLB_SAS7BDAT
+CD19LY,CD19/Lymphocytes (%) | CD19/Lymphocytes,TMPADLB_SAS7BDAT
+CD3,CD3 (x10E9/L) | CD3,TMPADLB_SAS7BDAT
+CD3LY,CD3/Lymphocytes (%) | CD3/Lymphocytes,TMPADLB_SAS7BDAT
+CD4,CD4 (x10E9/L) | CD4,TMPADLB_SAS7BDAT
+CD4CMTBF,BLOOD CD4 Central Memory T Cells (x10E6/L) | BLOOD CD4 Central Memory T Cells/Total Cells (%) | BLOOD CD4 Central Memory T Cells | BLOOD CD4 Central Memory T Cells/Total Cells,TMPADLB_SAS7BDAT
+CD4EMTBF,BLOOD CD4 Effector Memory T Cells (x10E6/L) | BLOOD CD4 Effector Memory T Cells/Total Cells (%) | BLOOD CD4 Effector Memory T Cells | BLOOD CD4 Effector Memory T Cells/Total Cells,TMPADLB_SAS7BDAT
+CD4LY,CD4/Lymphocytes (%) | CD4/Lymphocytes,TMPADLB_SAS7BDAT
+CD4NTBF,BLOOD CD4 Naive T Cells (x10E6/L) | BLOOD CD4 Naive T Cells,TMPADLB_SAS7BDAT
+CD4NTCBF,BLOOD CD4 Naive T Cells/Total Cells (%) | BLOOD CD4 Naive T Cells/Total Cells,TMPADLB_SAS7BDAT
+CD4T1CD4,CD4 Type 1 Helper T Cells/CD4 (%) | CD4 Type 1 Helper T Cells/CD4,TMPADLB_SAS7BDAT
+CD4TH1,CD4 Type 1 Helper T Cells (x10E6/L) | CD4 Type 1 Helper T Cells,TMPADLB_SAS7BDAT
+CD4TRCBF,BLOOD CD4 Regulatory T Cells/CD4 (%) | BLOOD CD4 Regulatory T Cells/CD4,TMPADLB_SAS7BDAT
+CD4TRTBF,BLOOD CD4 Regulatory T Cells (x10E6/L) | BLOOD CD4 Regulatory T Cells,TMPADLB_SAS7BDAT
+CD8,CD8 (x10E9/L) | CD8,TMPADLB_SAS7BDAT
+CD8CMTBF,BLOOD CD8 Central Memory T Cells (x10E6/L) | BLOOD CD8 Central Memory T Cells/Total Cells (%) | BLOOD CD8 Central Memory T Cells | BLOOD CD8 Central Memory T Cells/Total Cells,TMPADLB_SAS7BDAT
+CD8EMTBF,BLOOD CD8 Effector Memory T Cells (x10E6/L) | BLOOD CD8 Effector Memory T Cells/Total Cells (%) | BLOOD CD8 Effector Memory T Cells | BLOOD CD8 Effector Memory T Cells/Total Cells,TMPADLB_SAS7BDAT
+CD8LY,CD8/Lymphocytes (%) | CD8/Lymphocytes,TMPADLB_SAS7BDAT
+CD8NTBF,BLOOD CD8 Naive T Cells (x10E6/L) | BLOOD CD8 Naive T Cells,TMPADLB_SAS7BDAT
+CD8NTCBF,BLOOD CD8 Naive T Cells/Total Cells (%) | BLOOD CD8 Naive T Cells/Total Cells,TMPADLB_SAS7BDAT
+CD8TDEBF,BLOOD CD8 Term Diff Eff Mem Cells (x10E6/L) | BLOOD CD8 Term Diff Eff Mem Cells/Total Cells (%) | BLOOD CD8 Term Diff Eff Mem Cells | BLOOD CD8 Term Diff Eff Mem Cells/Total Cells,TMPADLB_SAS7BDAT
+CDFTXNS,STOOL Clostridium difficile Toxin,TMPADLB_SAS7BDAT
+CHOL,Cholesterol (mmol/L) | Cholesterol,TMPADLB_SAS7BDAT
+CK,Creatine Kinase (U/L) | Creatine Kinase,TMPADLB_SAS7BDAT
+CKMBA,Creatine Kinase MB (ug/L) | Creatine Kinase MB,TMPADLB_SAS7BDAT
+CL,Chloride (mmol/L) | Chloride,TMPADLB_SAS7BDAT
+CREAT,Creatinine (umol/L) | Creatinine,TMPADLB_SAS7BDAT
+CREATCLR,Creatinine Clearance (mL/s) | Creatinine Clearance,TMPADLB_SAS7BDAT
+CRPH,C Reactive Protein (mg/L) | C Reactive Protein,TMPADLB_SAS7BDAT
+EOS,Eosinophils (x10E9/L) | Eosinophils,TMPADLB_SAS7BDAT
+EOSLE,Eosinophils/Leukocytes (%) | Eosinophils/Leukocytes,TMPADLB_SAS7BDAT
+FSH,Follicle Stimulating Hormone (IU/L) | Follicle Stimulating Hormone,TMPADLB_SAS7BDAT
+HAIRYCE,Hairy Cells,TMPADLB_SAS7BDAT
+HBCABS,SERUM Hepatitis B Virus Core Antibody,TMPADLB_SAS7BDAT
+HBSAB,Hepatitis B Virus Surface Antibody,TMPADLB_SAS7BDAT
+HBSAG,Hepatitis B Virus Surface Antigen,TMPADLB_SAS7BDAT
+HBVVLD,HBV Viral Load (kIU/L) | HBV Viral Load,TMPADLB_SAS7BDAT
+HCAB,Hepatitis C Virus Antibody,TMPADLB_SAS7BDAT
+HCGS,SERUM Choriogonadotropin Beta,TMPADLB_SAS7BDAT
+HCT,Hematocrit (fraction) | Hematocrit,TMPADLB_SAS7BDAT
+HDL,HDL Cholesterol (mmol/L) | HDL Cholesterol,TMPADLB_SAS7BDAT
+HGB,Hemoglobin (g/L) | Hemoglobin,TMPADLB_SAS7BDAT
+HIV12AB,HIV-1/2 Antibody,TMPADLB_SAS7BDAT
+K,Potassium (mmol/L) | Potassium,TMPADLB_SAS7BDAT
+LDLC,LDL Cholesterol (mmol/L) | LDL Cholesterol,TMPADLB_SAS7BDAT
+LDLD,LDL Cholesterol (mmol/L) | LDL Cholesterol,TMPADLB_SAS7BDAT
+LTFSA,STOOL Lactoferrin (ug/g) | STOOL Lactoferrin (ug/L) | STOOL Lactoferrin,TMPADLB_SAS7BDAT
+LYM,Lymphocytes (x10E9/L) | Lymphocytes,TMPADLB_SAS7BDAT
+LYMAT,Lymphocytes Atypical (x10E9/L),TMPADLB_SAS7BDAT
+LYMATLE,Lymphocytes Atypical/Leukocytes (%),TMPADLB_SAS7BDAT
+LYMLE,Lymphocytes/Leukocytes (%) | Lymphocytes/Leukocytes,TMPADLB_SAS7BDAT
+METAMY,Metamyelocytes (x10E9/L),TMPADLB_SAS7BDAT
+METAMYLE,Metamyelocytes/Leukocytes (%),TMPADLB_SAS7BDAT
+MLIGCE,"Malignant Cells, NOS",TMPADLB_SAS7BDAT
+MONO,Monocytes (x10E9/L) | Monocytes,TMPADLB_SAS7BDAT
+MONOLE,Monocytes/Leukocytes (%) | Monocytes/Leukocytes,TMPADLB_SAS7BDAT
+MYCY,Myelocytes (x10E9/L),TMPADLB_SAS7BDAT
+MYCYLE,Myelocytes/Leukocytes (%),TMPADLB_SAS7BDAT
+MYTBGIRQ,M. tuberculosis IFN Gamma Response,TMPADLB_SAS7BDAT
+NEUTB,Neutrophils Band Form (x10E9/L),TMPADLB_SAS7BDAT
+NEUTBLE,Neutrophils Band Form/Leukocytes (%),TMPADLB_SAS7BDAT
+NEUTSG,"Neutrophils, Segmented (x10E9/L) | Neutrophils, Segmented",TMPADLB_SAS7BDAT
+NEUTSGLE,"Neutrophils, Segmented/Leukocytes (%) | Neutrophils, Segmented/Leukocytes",TMPADLB_SAS7BDAT
+PHOS,Phosphate (mmol/L) | Phosphate,TMPADLB_SAS7BDAT
+PLAT,Platelets (x10E9/L) | Platelets,TMPADLB_SAS7BDAT
+PLSIMCE,Immature Plasma Cells,TMPADLB_SAS7BDAT
+PLSMCE,Mature Plasma Cells,TMPADLB_SAS7BDAT
+PLSPCE,Precursor Plasma Cells,TMPADLB_SAS7BDAT
+PROT,Protein (g/L) | Protein,TMPADLB_SAS7BDAT
+RBCNURBC,Nucleated Erythrocytes/Erythrocytes (%),TMPADLB_SAS7BDAT
+SODIUM,Sodium (mmol/L) | Sodium,TMPADLB_SAS7BDAT
+TRIG,Triglycerides (mmol/L) | Triglycerides,TMPADLB_SAS7BDAT
+TROPONTS,SERUM Troponin T (ug/L) | SERUM Troponin T,TMPADLB_SAS7BDAT
+WBC,Leukocytes (x10E9/L) | Leukocytes,TMPADLB_SAS7BDAT
+STDRG,JNJ-54781532,TMPADPC_SAS7BDAT
+DIABP,Diastolic Blood Pressure (mmHg),TMPADVS_SAS7BDAT
+HEIGHT,Height (cm),TMPADVS_SAS7BDAT
+HR,Heart Rate (BEATS/MIN),TMPADVS_SAS7BDAT
+RESP,Respiratory Rate (BREATHS/MIN),TMPADVS_SAS7BDAT
+SYSBP,Systolic Blood Pressure (mmHg),TMPADVS_SAS7BDAT
+WEIGHT,Weight (kg),TMPADVS_SAS7BDAT
